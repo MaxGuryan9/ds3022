@@ -1,5 +1,4 @@
-# ds3022
-Data Engineering
+# DS3022 Data Engineering
 
 ## Fall 2026
 
