@@ -1,0 +1,1001 @@
+student_id,first_name,last_name,age,email,major,enrollment_date,graduation_date,gpa,advisor,course_load,campus_location,housing_status,student_status,financial_aid
+1,Berty,Machent,21,bmachent0@dagondesign.com,Psychology,9/25/2023,10/28/2025,2.94,Berty Machent,14,East Campus,true,Active,Kuna
+2,Tressa,Emloch,19,temloch1@google.it,Biology,7/3/2021,3/21/2026,1.12,Tressa Emloch,20,East Campus,false,On Leave,Dollar
+3,Catharine,Middlemass,18,cmiddlemass2@newsvine.com,Psychology,1/8/2021,10/4/2026,2.77,Catharine Middlemass,18,East Campus,false,On Leave,Rand
+4,Merrilee,Macon,25,mmacon3@go.com,Computer Science,7/19/2020,3/2/2026,2.19,Merrilee Macon,1,West Campus,false,Withdrawn,Zloty
+5,Ines,Jachtym,22,ijachtym4@google.ca,Computer Science,8/12/2020,11/17/2026,0.57,Ines Jachtym,14,Main Campus,true,Withdrawn,Euro
+6,Pasquale,Fawcus,27,pfawcus5@people.com.cn,Computer Science,5/16/2021,10/25/2026,3.77,Pasquale Fawcus,16,West Campus,false,Withdrawn,Real
+7,Andrew,Bordiss,19,abordiss6@ifeng.com,Biology,9/5/2020,3/22/2024,2.98,Andrew Bordiss,0,West Campus,true,On Leave,Peso
+8,Dion,Stutely,20,dstutely7@icio.us,Biology,7/15/2020,12/22/2026,0.13,Dion Stutely,6,Main Campus,true,Withdrawn,Rupiah
+9,Barbi,Medley,23,bmedley8@mac.com,Computer Science,3/9/2020,9/21/2027,0.36,Barbi Medley,18,Main Campus,true,Active,Peso
+10,Yankee,Lukehurst,24,ylukehurst9@phpbb.com,Computer Science,7/27/2021,1/18/2026,2.55,Yankee Lukehurst,18,West Campus,true,Withdrawn,Yen
+11,Malvina,Colqueran,24,mcolquerana@posterous.com,Computer Science,1/4/2023,12/24/2025,1.94,Malvina Colqueran,14,East Campus,true,Graduated,Peso
+12,Laurella,Spurdens,30,lspurdensb@hud.gov,Computer Science,10/13/2022,7/25/2026,2.01,Laurella Spurdens,13,Main Campus,true,Graduated,Rupee
+13,Ivar,Vain,20,ivainc@com.com,Computer Science,12/27/2023,3/20/2026,0.97,Ivar Vain,11,East Campus,true,Active,Rupiah
+14,Inger,Du Plantier,26,idud@spotify.com,History,6/20/2023,12/26/2024,2.44,Inger Du Plantier,14,East Campus,true,On Leave,Yuan Renminbi
+15,Rudy,Munkley,24,rmunkleye@1688.com,Biology,2/4/2021,5/19/2025,1.0,Rudy Munkley,3,West Campus,true,On Leave,Ruble
+16,Diego,Aizikovich,23,daizikovichf@php.net,Computer Science,10/24/2021,3/14/2025,1.66,Diego Aizikovich,10,Main Campus,false,Withdrawn,Pound
+17,Muffin,Hindenburg,19,mhindenburgg@elegantthemes.com,Biology,9/19/2021,5/21/2027,2.67,Muffin Hindenburg,5,East Campus,false,Withdrawn,Krona
+18,Katie,Veasey,28,kveaseyh@purevolume.com,Biology,3/23/2020,5/6/2024,0.89,Katie Veasey,14,West Campus,true,Active,Yuan Renminbi
+19,Katrine,McSparran,26,kmcsparrani@rediff.com,Biology,8/12/2022,11/21/2024,3.14,Katrine McSparran,14,West Campus,false,On Leave,Zloty
+20,Tanner,Grafhom,22,tgrafhomj@booking.com,Biology,10/13/2020,9/24/2025,0.1,Tanner Grafhom,19,Main Campus,false,On Leave,Euro
+21,Willy,Storrar,19,wstorrark@usnews.com,History,7/16/2023,2/2/2027,2.84,Willy Storrar,0,West Campus,false,Graduated,Manat
+22,Melamie,Buey,23,mbueyl@sakura.ne.jp,Biology,3/10/2023,7/14/2026,0.41,Melamie Buey,19,East Campus,false,Withdrawn,Shilling
+23,Isiahi,Dyka,22,idykam@marketwatch.com,Computer Science,2/21/2023,7/5/2025,0.61,Isiahi Dyka,3,West Campus,false,Active,Franc
+24,Carolin,Borg-Bartolo,27,cborgbartolon@uol.com.br,Biology,8/24/2021,10/6/2027,3.34,Carolin Borg-Bartolo,5,West Campus,true,On Leave,Ruble
+25,Tybalt,Cheyney,20,tcheyneyo@umich.edu,Computer Science,2/16/2021,8/9/2025,2.67,Tybalt Cheyney,19,West Campus,true,On Leave,Peso
+26,Clem,Parrington,23,cparringtonp@china.com.cn,Biology,9/25/2023,5/28/2026,0.9,Clem Parrington,11,East Campus,false,Active,Yuan Renminbi
+27,Davis,Dickman,25,ddickmanq@apple.com,Psychology,5/14/2023,12/29/2024,3.72,Davis Dickman,11,East Campus,false,Active,Krona
+28,Carroll,Brackpool,28,cbrackpoolr@aboutads.info,History,7/5/2021,12/20/2027,2.22,Carroll Brackpool,6,East Campus,false,Graduated,Real
+29,Haskell,Nolin,20,hnolins@foxnews.com,Psychology,8/16/2022,9/7/2024,1.09,Haskell Nolin,13,East Campus,false,Active,Peso
+30,Warde,Burgess,30,wburgesst@a8.net,Biology,12/18/2022,5/2/2026,3.37,Warde Burgess,2,Main Campus,true,On Leave,Rupiah
+31,Rebeca,Geertje,23,rgeertjeu@ow.ly,History,6/4/2021,12/14/2026,3.53,Rebeca Geertje,14,East Campus,false,Graduated,Cordoba
+32,Corbet,Reany,26,creanyv@sphinn.com,History,7/17/2020,12/21/2027,0.93,Corbet Reany,7,West Campus,true,Withdrawn,Zloty
+33,Tiffanie,Lowfill,22,tlowfillw@plala.or.jp,History,3/18/2023,5/1/2027,0.41,Tiffanie Lowfill,3,East Campus,true,Active,Yuan Renminbi
+34,Udale,Pattullo,30,upattullox@ft.com,History,3/21/2023,12/14/2026,3.81,Udale Pattullo,0,West Campus,false,Withdrawn,Real
+35,Chen,Ellul,21,celluly@sphinn.com,History,2/20/2023,10/8/2026,1.36,Chen Ellul,0,West Campus,true,On Leave,Euro
+36,Biddie,Hamnet,23,bhamnetz@webeden.co.uk,Psychology,9/11/2022,10/13/2025,0.37,Biddie Hamnet,16,Main Campus,false,On Leave,Rupiah
+37,Laney,Imbrey,18,limbrey10@constantcontact.com,History,6/5/2021,4/13/2026,3.51,Laney Imbrey,0,Main Campus,true,Graduated,Yuan Renminbi
+38,Goldarina,Leefe,21,gleefe11@reuters.com,Psychology,12/7/2020,11/8/2024,0.35,Goldarina Leefe,20,Main Campus,true,Active,Koruna
+39,Nelle,Gatteridge,25,ngatteridge12@ihg.com,History,1/4/2023,6/19/2025,3.79,Nelle Gatteridge,10,East Campus,false,Graduated,Euro
+40,Lucas,Brunini,24,lbrunini13@shutterfly.com,Computer Science,12/1/2020,1/9/2026,3.75,Lucas Brunini,16,West Campus,true,Graduated,Yuan Renminbi
+41,Geoff,Bover,19,gbover14@goo.ne.jp,Computer Science,5/12/2020,8/15/2024,0.88,Geoff Bover,15,Main Campus,true,On Leave,Koruna
+42,Menard,Joy,25,mjoy15@imgur.com,Psychology,3/17/2021,7/4/2025,0.2,Menard Joy,14,East Campus,false,Active,Franc
+43,Burke,Eddington,22,beddington16@alexa.com,History,8/4/2022,4/10/2025,3.82,Burke Eddington,15,Main Campus,true,Withdrawn,Rupiah
+44,Orel,Pither,20,opither17@toplist.cz,Biology,2/8/2020,1/1/2027,3.36,Orel Pither,15,West Campus,true,Active,Kwanza
+45,Wells,Yggo,23,wyggo18@uiuc.edu,Biology,5/2/2023,3/31/2024,3.77,Wells Yggo,6,Main Campus,true,Active,Rupee
+46,Adella,Stoggles,30,astoggles19@creativecommons.org,Computer Science,11/1/2020,8/22/2024,2.78,Adella Stoggles,6,West Campus,false,On Leave,Peso
+47,Fonz,Braney,18,fbraney1a@thetimes.co.uk,History,10/1/2023,4/14/2024,2.63,Fonz Braney,0,East Campus,false,Graduated,Zloty
+48,Lyndsie,Cowing,23,lcowing1b@nature.com,Psychology,10/11/2021,6/17/2026,0.47,Lyndsie Cowing,6,East Campus,true,Active,Koruna
+49,Antonietta,Gladman,28,agladman1c@indiatimes.com,Psychology,5/28/2021,8/4/2026,1.69,Antonietta Gladman,4,East Campus,true,Graduated,Peso
+50,Beulah,Tetther,29,btetther1d@booking.com,History,12/8/2021,12/13/2026,0.94,Beulah Tetther,20,East Campus,false,Active,Tenge
+51,Joe,Sedgebeer,25,jsedgebeer1e@theatlantic.com,History,1/16/2022,10/23/2027,2.22,Joe Sedgebeer,13,West Campus,true,On Leave,Real
+52,Jenelle,Scanterbury,21,jscanterbury1f@free.fr,Biology,11/16/2020,4/6/2027,2.76,Jenelle Scanterbury,2,Main Campus,true,On Leave,Peso
+53,Gay,Lacy,19,glacy1g@miitbeian.gov.cn,Biology,12/28/2021,5/13/2025,1.77,Gay Lacy,12,Main Campus,false,On Leave,Kwacha
+54,Ardella,Carillo,28,acarillo1h@google.co.jp,Psychology,12/4/2020,6/10/2027,0.96,Ardella Carillo,2,East Campus,true,Withdrawn,Euro
+55,Dale,Ousbie,29,dousbie1i@jalbum.net,History,11/16/2023,4/2/2027,1.29,Dale Ousbie,3,East Campus,false,Graduated,Rupiah
+56,Wilton,Wallworke,28,wwallworke1j@newyorker.com,Psychology,2/13/2020,1/27/2025,3.07,Wilton Wallworke,18,West Campus,true,Active,Zloty
+57,Casey,Simukov,30,csimukov1k@free.fr,Computer Science,12/1/2021,8/24/2024,1.94,Casey Simukov,5,Main Campus,false,Active,Euro
+58,Elmo,Drillingcourt,30,edrillingcourt1l@irs.gov,Psychology,1/1/2022,11/28/2026,2.97,Elmo Drillingcourt,4,Main Campus,false,Withdrawn,Euro
+59,Madlin,Litzmann,26,mlitzmann1m@indiatimes.com,History,10/27/2021,8/24/2026,2.28,Madlin Litzmann,6,Main Campus,true,Withdrawn,Zloty
+60,Munmro,Kemmish,19,mkemmish1n@simplemachines.org,Computer Science,3/15/2022,12/28/2024,1.16,Munmro Kemmish,16,East Campus,false,On Leave,Koruna
+61,Ingaberg,Laslett,21,ilaslett1o@printfriendly.com,Biology,12/22/2021,2/19/2027,1.91,Ingaberg Laslett,2,West Campus,false,On Leave,Krone
+62,Hershel,Ubsdell,24,hubsdell1p@naver.com,Computer Science,12/9/2021,4/2/2026,3.86,Hershel Ubsdell,4,East Campus,false,Graduated,Peso
+63,Lorry,Vaan,27,lvaan1q@blogs.com,Biology,12/1/2022,2/3/2024,2.81,Lorry Vaan,4,West Campus,true,Active,Dollar
+64,Aluin,Matteoni,23,amatteoni1r@123-reg.co.uk,History,1/31/2020,1/28/2025,2.21,Aluin Matteoni,12,Main Campus,false,Active,Krona
+65,Merrill,Cadwallader,20,mcadwallader1s@bloglines.com,Biology,2/5/2021,4/9/2026,3.38,Merrill Cadwallader,19,West Campus,false,Withdrawn,Euro
+66,Hort,Burleton,25,hburleton1t@soundcloud.com,History,8/6/2023,10/1/2024,3.2,Hort Burleton,11,Main Campus,false,Active,Rupiah
+67,Thaddus,Phillpot,24,tphillpot1u@illinois.edu,Computer Science,11/25/2021,5/21/2026,0.08,Thaddus Phillpot,9,East Campus,true,Graduated,Rupiah
+68,Alain,Gilligan,27,agilligan1v@paypal.com,Biology,8/25/2022,12/5/2025,1.03,Alain Gilligan,3,West Campus,true,Withdrawn,Rupiah
+69,Paola,Aickin,19,paickin1w@surveymonkey.com,Psychology,6/4/2023,2/15/2027,2.43,Paola Aickin,9,Main Campus,false,Graduated,Dollar
+70,Cathee,Gianuzzi,30,cgianuzzi1x@sphinn.com,Computer Science,8/15/2021,4/21/2026,0.36,Cathee Gianuzzi,12,West Campus,false,Withdrawn,Franc
+71,Selena,Cod,25,scod1y@trellian.com,Psychology,2/9/2022,5/19/2026,0.85,Selena Cod,20,West Campus,true,Graduated,Krona
+72,Haley,Walling,30,hwalling1z@pagesperso-orange.fr,History,1/13/2020,11/5/2025,1.01,Haley Walling,2,Main Campus,false,Withdrawn,Rupee
+73,Winny,Tiron,24,wtiron20@canalblog.com,Biology,7/7/2022,1/24/2024,3.78,Winny Tiron,12,East Campus,true,On Leave,Yuan Renminbi
+74,Toma,Salasar,26,tsalasar21@a8.net,Biology,6/26/2023,3/28/2024,3.55,Toma Salasar,14,East Campus,false,Active,Dollar
+75,Nataline,Leddie,21,nleddie22@elegantthemes.com,History,10/5/2023,1/21/2024,2.86,Nataline Leddie,20,West Campus,false,Withdrawn,Peso
+76,Vivyanne,Brumbie,27,vbrumbie23@nasa.gov,Computer Science,2/21/2022,4/24/2024,1.65,Vivyanne Brumbie,7,East Campus,false,Active,Zloty
+77,Marlon,Saberton,30,msaberton24@vk.com,History,8/13/2023,11/17/2026,0.19,Marlon Saberton,14,Main Campus,false,Active,Yen
+78,Omero,Lisciandri,30,olisciandri25@home.pl,History,8/22/2020,7/6/2026,0.07,Omero Lisciandri,3,East Campus,true,On Leave,Zloty
+79,Olimpia,Sterndale,22,osterndale26@prweb.com,History,7/31/2023,5/4/2025,2.04,Olimpia Sterndale,20,West Campus,true,Active,Rupiah
+80,Clayton,Thorley,19,cthorley27@webnode.com,Computer Science,1/25/2023,1/26/2025,2.22,Clayton Thorley,19,West Campus,true,Withdrawn,Yuan Renminbi
+81,Emma,Claricoates,22,eclaricoates28@hostgator.com,Computer Science,3/10/2022,6/11/2026,3.19,Emma Claricoates,15,West Campus,true,Graduated,Baht
+82,Beau,Wraxall,18,bwraxall29@jimdo.com,History,6/26/2021,5/5/2024,2.31,Beau Wraxall,3,Main Campus,true,Withdrawn,Ariary
+83,Leesa,Concannon,22,lconcannon2a@tinypic.com,History,9/11/2022,4/3/2025,0.33,Leesa Concannon,19,Main Campus,false,On Leave,Yuan Renminbi
+84,Kristan,Behne,29,kbehne2b@arstechnica.com,Psychology,11/11/2022,8/8/2027,0.25,Kristan Behne,8,West Campus,false,On Leave,Euro
+85,Carleen,Wallege,29,cwallege2c@mysql.com,History,3/6/2021,1/21/2026,0.44,Carleen Wallege,11,Main Campus,false,Active,Lempira
+86,Brewer,Gyrgorcewicx,18,bgyrgorcewicx2d@cbsnews.com,Computer Science,6/25/2022,6/22/2024,2.75,Brewer Gyrgorcewicx,8,East Campus,true,Withdrawn,Euro
+87,Connie,Anscott,21,canscott2e@dailymail.co.uk,Biology,12/5/2021,12/10/2024,1.58,Connie Anscott,2,East Campus,true,Graduated,Baht
+88,Thatch,Kilgrove,28,tkilgrove2f@sun.com,Psychology,5/11/2020,7/13/2025,0.52,Thatch Kilgrove,15,Main Campus,true,Graduated,Peso
+89,Damiano,Cheeke,28,dcheeke2g@creativecommons.org,Computer Science,8/12/2021,2/26/2026,3.23,Damiano Cheeke,5,Main Campus,false,Active,Peso
+90,Menard,Haggarth,25,mhaggarth2h@discuz.net,Computer Science,2/21/2020,10/20/2024,2.53,Menard Haggarth,2,Main Campus,false,Graduated,Franc
+91,Marlow,Playhill,18,mplayhill2i@gizmodo.com,Computer Science,9/14/2021,2/17/2024,3.67,Marlow Playhill,11,Main Campus,false,Active,Yuan Renminbi
+92,Patrick,Burchmore,20,pburchmore2j@ted.com,Psychology,4/14/2022,10/24/2025,1.51,Patrick Burchmore,6,East Campus,true,Active,Yuan Renminbi
+93,Lorant,Pooley,23,lpooley2k@nhs.uk,Biology,8/7/2020,9/13/2026,0.52,Lorant Pooley,16,East Campus,false,On Leave,Yuan Renminbi
+94,Odessa,Bicheno,25,obicheno2l@squidoo.com,Computer Science,2/29/2020,9/11/2025,1.62,Odessa Bicheno,18,East Campus,false,Withdrawn,Shilling
+95,Teri,Pinnere,27,tpinnere2m@weather.com,Biology,1/21/2021,1/29/2026,1.14,Teri Pinnere,12,West Campus,true,Withdrawn,Krona
+96,Idelle,Enochsson,27,ienochsson2n@lulu.com,History,5/11/2023,7/27/2026,2.11,Idelle Enochsson,7,East Campus,true,Active,Euro
+97,Miranda,McQuaide,26,mmcquaide2o@nifty.com,Computer Science,1/27/2023,9/15/2027,1.06,Miranda McQuaide,6,West Campus,false,Graduated,Yuan Renminbi
+98,Tadeo,Fortnon,27,tfortnon2p@wired.com,Biology,2/3/2023,1/30/2027,3.46,Tadeo Fortnon,15,East Campus,false,Withdrawn,Peso
+99,Thadeus,Townend,19,ttownend2q@blogs.com,History,4/12/2023,9/12/2025,1.81,Thadeus Townend,0,East Campus,false,Withdrawn,Yuan Renminbi
+100,Emelina,de Nore,22,ede2r@goo.ne.jp,History,8/15/2020,5/27/2025,2.77,Emelina de Nore,5,Main Campus,false,Withdrawn,Peso
+101,Aimee,Girdler,22,agirdler2s@slideshare.net,Computer Science,7/11/2021,12/25/2026,0.86,Aimee Girdler,9,Main Campus,true,Active,Yuan Renminbi
+102,Krishnah,Hrinchishin,24,khrinchishin2t@bizjournals.com,Psychology,7/12/2022,5/9/2026,0.47,Krishnah Hrinchishin,16,Main Campus,false,On Leave,Yuan Renminbi
+103,Myrtie,Hardwicke,26,mhardwicke2u@wix.com,Biology,11/7/2023,3/18/2027,2.16,Myrtie Hardwicke,20,West Campus,true,On Leave,Lek
+104,Ozzy,Morl,18,omorl2v@bluehost.com,Biology,4/24/2023,5/20/2024,1.21,Ozzy Morl,12,West Campus,false,Active,Manat
+105,Sax,Blacksland,25,sblacksland2w@dagondesign.com,History,10/30/2023,1/11/2025,3.95,Sax Blacksland,7,West Campus,false,Withdrawn,Rupiah
+106,Minna,Szepe,25,mszepe2x@cornell.edu,Biology,8/19/2023,1/5/2027,2.69,Minna Szepe,4,Main Campus,true,Graduated,Bolivar
+107,Lorin,Camilletti,22,lcamilletti2y@pcworld.com,Psychology,4/28/2021,10/9/2027,1.23,Lorin Camilletti,13,Main Campus,true,Withdrawn,Yuan Renminbi
+108,Barclay,Hickisson,26,bhickisson2z@amazon.com,Biology,4/15/2023,1/26/2027,2.65,Barclay Hickisson,5,Main Campus,false,Graduated,Euro
+109,Elie,Giacomini,23,egiacomini30@netlog.com,Biology,3/29/2022,3/12/2025,2.87,Elie Giacomini,18,Main Campus,false,Graduated,Yuan Renminbi
+110,Tilda,Hardwell,23,thardwell31@mail.ru,Biology,9/20/2023,8/22/2027,2.63,Tilda Hardwell,8,Main Campus,true,Withdrawn,Krona
+111,Vinni,Seiffert,28,vseiffert32@imgur.com,History,5/10/2021,9/17/2026,3.12,Vinni Seiffert,12,East Campus,false,On Leave,Rupiah
+112,Jennette,Gawthorpe,24,jgawthorpe33@seattletimes.com,Computer Science,4/10/2020,11/25/2024,3.37,Jennette Gawthorpe,19,East Campus,true,Graduated,Hryvnia
+113,Petronille,Jurick,26,pjurick34@tumblr.com,Computer Science,3/6/2022,7/2/2024,1.99,Petronille Jurick,18,East Campus,false,Active,Euro
+114,Carree,Tuckwell,28,ctuckwell35@qq.com,Biology,7/5/2022,11/17/2026,1.67,Carree Tuckwell,0,East Campus,false,Active,Rupiah
+115,Inigo,Bundy,27,ibundy36@columbia.edu,Biology,2/28/2023,8/29/2024,1.11,Inigo Bundy,3,Main Campus,true,Graduated,Rupiah
+116,Ailis,Pressdee,20,apressdee37@1688.com,Psychology,7/30/2021,4/26/2024,1.82,Ailis Pressdee,12,West Campus,false,On Leave,Euro
+117,Karlotta,Bitchener,26,kbitchener38@utexas.edu,Psychology,2/18/2022,11/28/2025,3.55,Karlotta Bitchener,14,East Campus,false,Active,Dollar
+118,Rene,Pauls,28,rpauls39@livejournal.com,Biology,9/18/2020,6/11/2025,1.72,Rene Pauls,11,East Campus,false,Withdrawn,Hryvnia
+119,Kit,Meany,27,kmeany3a@nytimes.com,Biology,9/22/2023,10/31/2027,3.54,Kit Meany,11,West Campus,false,Graduated,Euro
+120,Gabriellia,Lamlin,26,glamlin3b@cnbc.com,History,1/3/2020,12/12/2026,3.29,Gabriellia Lamlin,0,West Campus,true,Withdrawn,Rupiah
+121,Philipa,Dunthorne,29,pdunthorne3c@paypal.com,Computer Science,2/23/2022,5/1/2025,2.97,Philipa Dunthorne,6,East Campus,false,Active,Ruble
+122,Felicia,Attrill,30,fattrill3d@disqus.com,Computer Science,3/21/2023,1/5/2026,2.74,Felicia Attrill,6,West Campus,false,Withdrawn,Ruble
+123,Kirby,Roman,24,kroman3e@wp.com,Psychology,7/10/2021,5/1/2027,0.69,Kirby Roman,6,West Campus,false,On Leave,Krona
+124,Yvette,Dace,23,ydace3f@tmall.com,Biology,10/31/2021,9/26/2027,3.77,Yvette Dace,15,Main Campus,false,Active,Peso
+125,Dorothea,Dorran,19,ddorran3g@ft.com,Psychology,9/15/2022,9/27/2025,1.9,Dorothea Dorran,6,Main Campus,true,Active,Ruble
+126,Honey,Trineman,21,htrineman3h@ezinearticles.com,Psychology,12/27/2020,3/28/2026,0.11,Honey Trineman,8,West Campus,false,Active,Euro
+127,Carin,Featherby,27,cfeatherby3i@pen.io,Biology,7/6/2022,12/5/2025,1.84,Carin Featherby,6,Main Campus,false,Withdrawn,Euro
+128,Donnell,Boyd,23,dboyd3j@indiegogo.com,Psychology,10/19/2020,9/10/2027,2.2,Donnell Boyd,17,East Campus,true,Withdrawn,Euro
+129,Jennine,Hedge,29,jhedge3k@zimbio.com,Computer Science,1/23/2021,6/22/2026,1.62,Jennine Hedge,7,East Campus,false,Active,Yuan Renminbi
+130,Linnea,Klishin,29,lklishin3l@forbes.com,Psychology,5/23/2022,7/6/2026,3.26,Linnea Klishin,10,Main Campus,false,Withdrawn,Rupiah
+131,Kylie,Inchan,21,kinchan3m@blogspot.com,Biology,6/23/2023,9/11/2027,0.99,Kylie Inchan,7,East Campus,false,Graduated,Real
+132,Earl,O'Lenane,29,eolenane3n@icq.com,Computer Science,9/3/2022,1/23/2024,1.41,Earl O'Lenane,3,Main Campus,true,Graduated,Peso
+133,Ximenez,Catton,23,xcatton3o@wired.com,Psychology,6/15/2022,10/2/2025,0.23,Ximenez Catton,9,Main Campus,true,Graduated,Zloty
+134,Marinna,Bernardotti,26,mbernardotti3p@yellowpages.com,History,11/14/2021,2/9/2027,2.18,Marinna Bernardotti,13,Main Campus,true,Graduated,Yuan Renminbi
+135,Vincent,Rugiero,28,vrugiero3q@creativecommons.org,Psychology,7/22/2020,10/25/2027,0.86,Vincent Rugiero,6,Main Campus,false,Graduated,Ruble
+136,Oliviero,Jeffcock,20,ojeffcock3r@xinhuanet.com,History,8/15/2020,1/25/2025,2.03,Oliviero Jeffcock,10,East Campus,false,Active,Ruble
+137,Cristal,Bartod,20,cbartod3s@1688.com,History,11/29/2020,5/29/2026,1.28,Cristal Bartod,15,East Campus,true,Withdrawn,Dirham
+138,Chadd,Cameron,18,ccameron3t@cloudflare.com,Biology,10/4/2021,5/31/2025,3.46,Chadd Cameron,3,West Campus,false,Withdrawn,Rupiah
+139,Tatiania,Boness,21,tboness3u@illinois.edu,Computer Science,10/2/2021,5/10/2024,2.42,Tatiania Boness,4,East Campus,false,On Leave,Peso
+140,Udale,Andreopolos,19,uandreopolos3v@pen.io,Biology,4/14/2020,9/21/2024,1.03,Udale Andreopolos,3,East Campus,true,Active,Euro
+141,Lane,Schimke,30,lschimke3w@unesco.org,History,8/28/2023,8/10/2027,2.2,Lane Schimke,6,West Campus,false,Active,Ruble
+142,Eben,Piddlesden,25,epiddlesden3x@elpais.com,Psychology,10/27/2023,5/26/2025,1.36,Eben Piddlesden,13,West Campus,false,Active,Euro
+143,Dory,Peachey,22,dpeachey3y@lulu.com,History,11/11/2023,10/15/2027,0.89,Dory Peachey,4,Main Campus,false,Withdrawn,Rupee
+144,Meridel,Felgat,22,mfelgat3z@indiegogo.com,Biology,7/23/2021,12/8/2025,0.0,Meridel Felgat,17,West Campus,false,On Leave,Yuan Renminbi
+145,Brigid,Dakhov,24,bdakhov40@goo.ne.jp,Biology,7/30/2023,7/29/2024,3.36,Brigid Dakhov,7,Main Campus,true,On Leave,Lempira
+146,Vanya,Petticrow,20,vpetticrow41@skyrock.com,Psychology,3/31/2021,11/16/2026,1.93,Vanya Petticrow,4,Main Campus,true,Withdrawn,Manat
+147,Conrad,Filppetti,26,cfilppetti42@foxnews.com,Computer Science,6/8/2023,9/14/2026,1.4,Conrad Filppetti,19,West Campus,true,Withdrawn,Krona
+148,Cara,Lahive,23,clahive43@telegraph.co.uk,Biology,6/22/2023,9/12/2027,1.08,Cara Lahive,20,Main Campus,false,Graduated,Krone
+149,Zebedee,Spreckley,26,zspreckley44@marketwatch.com,History,10/29/2020,2/12/2027,3.47,Zebedee Spreckley,2,East Campus,true,Graduated,Sol
+150,Gene,Estabrook,21,gestabrook45@ameblo.jp,Computer Science,9/13/2023,5/19/2024,1.64,Gene Estabrook,1,West Campus,true,Withdrawn,Yuan Renminbi
+151,Shana,Dametti,24,sdametti46@ning.com,History,11/26/2022,4/22/2025,1.45,Shana Dametti,13,East Campus,false,Graduated,Rupiah
+152,Lem,Blasl,24,lblasl47@spotify.com,Computer Science,3/5/2021,4/9/2027,2.51,Lem Blasl,2,West Campus,true,Graduated,Peso
+153,Lainey,Henri,27,lhenri48@vinaora.com,Psychology,11/29/2022,8/19/2026,0.93,Lainey Henri,8,West Campus,true,Withdrawn,Yuan Renminbi
+154,Meg,Howley,28,mhowley49@bandcamp.com,Psychology,2/19/2023,1/9/2027,0.76,Meg Howley,16,Main Campus,false,On Leave,Yuan Renminbi
+155,Ianthe,Seden,26,iseden4a@edublogs.org,Computer Science,7/9/2021,10/3/2024,1.03,Ianthe Seden,20,East Campus,false,Withdrawn,Euro
+156,Magnum,Dight,25,mdight4b@photobucket.com,History,6/3/2023,10/27/2026,1.68,Magnum Dight,9,East Campus,true,Active,Dirham
+157,Rori,Kemmish,25,rkemmish4c@independent.co.uk,History,4/5/2020,1/24/2027,2.54,Rori Kemmish,9,West Campus,false,Withdrawn,Zloty
+158,Tasia,McCaughran,26,tmccaughran4d@state.gov,Computer Science,4/12/2022,12/25/2026,0.11,Tasia McCaughran,20,Main Campus,true,On Leave,Yuan Renminbi
+159,Bard,Pinsent,29,bpinsent4e@jigsy.com,History,4/10/2023,10/3/2024,2.83,Bard Pinsent,1,West Campus,false,Withdrawn,Rupiah
+160,Arny,Croy,29,acroy4f@indiegogo.com,History,8/3/2023,12/18/2026,0.56,Arny Croy,1,West Campus,false,Active,Yuan Renminbi
+161,Willy,Basindale,21,wbasindale4g@thetimes.co.uk,Psychology,11/5/2020,9/28/2025,1.65,Willy Basindale,11,Main Campus,true,Graduated,Rupiah
+162,Cristine,Ambrosoni,26,cambrosoni4h@yahoo.com,Biology,7/5/2022,3/25/2025,3.64,Cristine Ambrosoni,15,Main Campus,false,Active,Euro
+163,Saraann,Oliff,18,soliff4i@ask.com,History,5/21/2022,7/14/2024,3.09,Saraann Oliff,10,West Campus,true,Graduated,Lev
+164,Christiane,Alliker,24,calliker4j@dmoz.org,Biology,4/4/2023,8/10/2024,2.62,Christiane Alliker,0,West Campus,false,Withdrawn,Yuan Renminbi
+165,Emmott,McConigal,19,emcconigal4k@ox.ac.uk,Computer Science,12/5/2023,10/14/2027,1.18,Emmott McConigal,6,East Campus,false,Withdrawn,Yen
+166,Lola,Dulake,30,ldulake4l@arstechnica.com,Biology,9/29/2020,7/31/2026,0.49,Lola Dulake,9,Main Campus,true,On Leave,Dinar
+167,Jeremias,Haseman,19,jhaseman4m@sohu.com,Psychology,9/23/2021,5/28/2024,3.51,Jeremias Haseman,18,East Campus,false,Active,Zloty
+168,Teddi,Dimeloe,19,tdimeloe4n@fema.gov,Psychology,8/28/2020,7/6/2025,3.86,Teddi Dimeloe,1,East Campus,true,Active,Rupiah
+169,Felecia,Bawdon,25,fbawdon4o@nature.com,Psychology,5/31/2020,8/21/2026,3.87,Felecia Bawdon,14,Main Campus,true,Graduated,Ruble
+170,Judi,Norman,30,jnorman4p@hp.com,Computer Science,10/27/2020,7/2/2026,0.26,Judi Norman,8,East Campus,false,On Leave,Sol
+171,Kendrick,Shillam,22,kshillam4q@goo.gl,Biology,3/6/2022,6/12/2026,2.83,Kendrick Shillam,13,East Campus,true,Withdrawn,Rial
+172,Tarra,Spehr,21,tspehr4r@typepad.com,Biology,11/26/2022,7/31/2025,2.41,Tarra Spehr,18,East Campus,false,Graduated,Yuan Renminbi
+173,Tim,Olechnowicz,30,tolechnowicz4s@hhs.gov,Biology,10/26/2023,11/20/2026,3.88,Tim Olechnowicz,6,East Campus,false,Withdrawn,Koruna
+174,Ingaborg,Whiteson,28,iwhiteson4t@surveymonkey.com,Biology,2/1/2021,10/6/2025,3.43,Ingaborg Whiteson,17,West Campus,false,Active,Yuan Renminbi
+175,Sheppard,Keymar,25,skeymar4u@examiner.com,Biology,11/26/2021,7/28/2025,1.03,Sheppard Keymar,18,Main Campus,true,On Leave,Real
+176,Binky,Wakeford,28,bwakeford4v@phoca.cz,Computer Science,3/18/2020,6/24/2024,0.58,Binky Wakeford,0,East Campus,false,On Leave,Ariary
+177,Candida,Schutter,26,cschutter4w@vk.com,Computer Science,3/21/2020,7/11/2027,1.78,Candida Schutter,6,East Campus,true,Active,Euro
+178,Winfield,Harbour,22,wharbour4x@scientificamerican.com,Psychology,6/19/2021,7/14/2024,3.69,Winfield Harbour,9,West Campus,false,Withdrawn,Krona
+179,Marmaduke,Stell,28,mstell4y@vkontakte.ru,Psychology,9/4/2022,1/7/2025,3.31,Marmaduke Stell,5,West Campus,false,Active,Hryvnia
+180,Ariel,Mahmood,20,amahmood4z@weibo.com,Biology,12/31/2021,2/24/2026,0.12,Ariel Mahmood,2,Main Campus,false,Withdrawn,Yen
+181,Leda,Fain,20,lfain50@rambler.ru,Computer Science,2/1/2022,9/27/2024,3.42,Leda Fain,3,East Campus,true,Graduated,Koruna
+182,Lemmie,Musson,21,lmusson51@pbs.org,History,2/16/2021,1/3/2024,1.36,Lemmie Musson,12,West Campus,false,Graduated,Yuan Renminbi
+183,Nessi,Beavors,28,nbeavors52@go.com,History,9/1/2020,4/24/2025,3.13,Nessi Beavors,8,Main Campus,false,Withdrawn,Peso
+184,Gale,Doodney,24,gdoodney53@people.com.cn,History,2/20/2021,9/17/2026,2.55,Gale Doodney,19,West Campus,false,Withdrawn,Yuan Renminbi
+185,Dalenna,Coghill,30,dcoghill54@dedecms.com,Computer Science,1/17/2023,1/24/2026,3.76,Dalenna Coghill,14,East Campus,false,On Leave,Yuan Renminbi
+186,Bambi,Hutcheson,21,bhutcheson55@simplemachines.org,Computer Science,2/11/2020,4/28/2025,0.97,Bambi Hutcheson,15,West Campus,true,On Leave,Rupiah
+187,Daphene,Form,20,dform56@flavors.me,History,4/6/2022,4/6/2026,0.34,Daphene Form,1,West Campus,false,Graduated,Yuan Renminbi
+188,Devy,Giraudoux,19,dgiraudoux57@discuz.net,Psychology,5/18/2021,10/20/2027,3.86,Devy Giraudoux,18,West Campus,true,Active,Rupiah
+189,Charlean,Douglas,24,cdouglas58@free.fr,Computer Science,7/22/2021,12/17/2026,3.59,Charlean Douglas,19,East Campus,true,Graduated,Peso
+190,Sharona,Kollas,20,skollas59@nydailynews.com,Computer Science,12/10/2022,5/22/2027,2.19,Sharona Kollas,3,Main Campus,true,Graduated,Zloty
+191,Pierson,Ruegg,29,pruegg5a@acquirethisname.com,Psychology,3/17/2021,9/27/2025,1.85,Pierson Ruegg,13,Main Campus,false,Withdrawn,Hryvnia
+192,Armstrong,Vedyashkin,30,avedyashkin5b@1688.com,Psychology,9/19/2020,7/10/2024,2.34,Armstrong Vedyashkin,6,East Campus,true,Active,Rupiah
+193,Jacquette,Huxton,25,jhuxton5c@tinypic.com,Psychology,7/23/2022,4/6/2027,2.65,Jacquette Huxton,4,Main Campus,true,Graduated,Yuan Renminbi
+194,Daisy,Holttom,26,dholttom5d@tmall.com,Biology,1/26/2023,2/4/2025,2.58,Daisy Holttom,15,Main Campus,false,Graduated,Euro
+195,Aileen,Hrishchenko,24,ahrishchenko5e@netscape.com,Psychology,5/7/2020,5/8/2026,3.24,Aileen Hrishchenko,2,East Campus,true,Withdrawn,Rand
+196,Elizabet,Lambarth,28,elambarth5f@opera.com,Psychology,10/24/2021,8/8/2025,1.69,Elizabet Lambarth,13,East Campus,true,Graduated,Yuan Renminbi
+197,Dill,Kivelhan,25,dkivelhan5g@163.com,Psychology,12/10/2021,11/16/2024,2.27,Dill Kivelhan,3,East Campus,false,Withdrawn,Shekel
+198,Anet,Pollock,24,apollock5h@cocolog-nifty.com,Psychology,6/9/2022,10/19/2025,1.1,Anet Pollock,10,East Campus,true,Withdrawn,Yuan Renminbi
+199,Judah,Robarts,30,jrobarts5i@fotki.com,Psychology,7/22/2022,9/15/2026,2.2,Judah Robarts,7,West Campus,false,Withdrawn,Yen
+200,Adams,Pickaver,30,apickaver5j@answers.com,Psychology,6/6/2022,12/28/2026,2.02,Adams Pickaver,12,East Campus,true,Active,Rupiah
+201,Nikki,Macguire,19,nmacguire5k@pbs.org,Biology,9/17/2021,5/8/2027,1.93,Nikki Macguire,14,East Campus,true,Graduated,Ringgit
+202,Matelda,Ingerson,27,mingerson5l@dailymotion.com,Psychology,1/30/2022,1/15/2027,2.21,Matelda Ingerson,2,East Campus,true,Graduated,Real
+203,Jerome,Lies,28,jlies5m@aol.com,Computer Science,2/22/2023,5/29/2025,0.18,Jerome Lies,17,East Campus,true,Active,Koruna
+204,Garald,Cockshtt,26,gcockshtt5n@blogspot.com,History,10/17/2023,4/2/2026,3.49,Garald Cockshtt,2,West Campus,false,Withdrawn,Euro
+205,Clare,Leghorn,28,cleghorn5o@sourceforge.net,Computer Science,8/30/2022,4/10/2025,3.46,Clare Leghorn,14,West Campus,false,Withdrawn,Rupiah
+206,Dimitri,Everett,18,deverett5p@cornell.edu,Computer Science,11/12/2021,10/20/2026,2.1,Dimitri Everett,11,Main Campus,true,Graduated,Krone
+207,Ilario,Chastelain,26,ichastelain5q@photobucket.com,Computer Science,2/17/2022,7/18/2025,2.89,Ilario Chastelain,7,East Campus,false,On Leave,Euro
+208,Agretha,Primo,29,aprimo5r@ebay.com,Biology,1/30/2022,1/2/2025,1.97,Agretha Primo,2,West Campus,false,Withdrawn,Peso
+209,Pierrette,Newlyn,30,pnewlyn5s@lycos.com,Computer Science,12/9/2022,5/15/2027,3.11,Pierrette Newlyn,16,East Campus,true,Graduated,Rupiah
+210,Steffie,Coonihan,26,scoonihan5t@ox.ac.uk,Computer Science,7/30/2023,11/26/2025,0.73,Steffie Coonihan,18,West Campus,false,Active,Euro
+211,Emmet,Gomersal,27,egomersal5u@squidoo.com,Biology,9/14/2023,10/6/2027,0.34,Emmet Gomersal,5,West Campus,true,Graduated,Yuan Renminbi
+212,Valina,Ainger,20,vainger5v@com.com,Biology,9/20/2020,1/31/2024,0.82,Valina Ainger,1,Main Campus,true,On Leave,Yuan Renminbi
+213,Carolus,Sterke,28,csterke5w@ning.com,Computer Science,2/4/2020,2/21/2025,1.02,Carolus Sterke,12,West Campus,true,Withdrawn,Rupiah
+214,Fawne,Annis,25,fannis5x@marriott.com,Computer Science,5/17/2023,4/7/2025,0.78,Fawne Annis,14,Main Campus,true,Graduated,Baht
+215,Niall,Pinder,20,npinder5y@privacy.gov.au,Psychology,6/2/2023,5/10/2027,2.94,Niall Pinder,4,West Campus,true,Active,Euro
+216,Pyotr,Fish,21,pfish5z@nydailynews.com,Computer Science,2/1/2021,10/5/2026,1.76,Pyotr Fish,4,East Campus,false,Active,Ruble
+217,Rhys,Wennam,28,rwennam60@foxnews.com,Biology,4/2/2021,3/31/2024,0.53,Rhys Wennam,12,Main Campus,false,On Leave,Euro
+218,Hammad,D'Antoni,28,hdantoni61@cbsnews.com,Psychology,4/27/2023,5/11/2024,3.61,Hammad D'Antoni,11,West Campus,true,Active,Peso
+219,Hendrik,Adamek,18,hadamek62@printfriendly.com,History,5/1/2022,10/22/2027,3.99,Hendrik Adamek,10,West Campus,true,Active,Yuan Renminbi
+220,Spenser,Spinley,29,sspinley63@un.org,Biology,12/28/2021,11/23/2027,2.75,Spenser Spinley,5,West Campus,true,Graduated,Peso
+221,Lu,Graine,28,lgraine64@epa.gov,Biology,4/21/2021,5/23/2027,3.39,Lu Graine,9,East Campus,false,Graduated,Yuan Renminbi
+222,Ertha,Ovenell,24,eovenell65@buzzfeed.com,Biology,11/22/2021,7/25/2024,0.48,Ertha Ovenell,18,East Campus,false,Withdrawn,Yuan Renminbi
+223,Jeni,Timmermann,27,jtimmermann66@upenn.edu,Psychology,11/25/2023,10/15/2025,0.93,Jeni Timmermann,5,Main Campus,false,Withdrawn,Yen
+224,Jourdain,Brannon,25,jbrannon67@newsvine.com,Psychology,8/15/2021,7/10/2024,2.61,Jourdain Brannon,11,West Campus,true,Active,Rupiah
+225,Boycie,Matchitt,27,bmatchitt68@opensource.org,Biology,10/31/2023,8/20/2027,0.51,Boycie Matchitt,9,Main Campus,true,On Leave,Lempira
+226,Greer,Matiashvili,27,gmatiashvili69@aboutads.info,Psychology,1/14/2020,2/6/2024,0.71,Greer Matiashvili,14,Main Campus,false,Withdrawn,Yuan Renminbi
+227,Trixi,Axelbey,27,taxelbey6a@columbia.edu,Biology,6/24/2023,12/23/2026,2.71,Trixi Axelbey,16,East Campus,false,Graduated,Yuan Renminbi
+228,Courtney,Scandwright,27,cscandwright6b@360.cn,Computer Science,4/2/2020,6/16/2027,3.67,Courtney Scandwright,11,East Campus,false,Withdrawn,Peso
+229,Katrine,Rennebeck,30,krennebeck6c@va.gov,History,1/2/2021,3/31/2027,3.46,Katrine Rennebeck,10,East Campus,true,Active,Yuan Renminbi
+230,Timmi,Giacaponi,29,tgiacaponi6d@wordpress.org,Computer Science,12/26/2021,2/16/2026,3.77,Timmi Giacaponi,5,West Campus,false,Withdrawn,Yuan Renminbi
+231,Bee,Yurevich,24,byurevich6e@irs.gov,History,1/24/2023,7/4/2026,3.37,Bee Yurevich,11,West Campus,false,Graduated,Peso
+232,Tomlin,Dietmar,19,tdietmar6f@patch.com,Psychology,2/5/2021,5/18/2026,2.2,Tomlin Dietmar,17,West Campus,false,Graduated,Zloty
+233,Becca,Carnegie,30,bcarnegie6g@ted.com,Biology,8/16/2020,10/5/2025,2.98,Becca Carnegie,6,East Campus,true,Active,Yuan Renminbi
+234,Lorenza,Dowson,29,ldowson6h@creativecommons.org,Biology,7/4/2022,5/19/2027,2.46,Lorenza Dowson,2,Main Campus,true,Active,Euro
+235,Laurie,Assender,21,lassender6i@npr.org,Psychology,8/28/2023,5/10/2027,3.67,Laurie Assender,2,East Campus,false,Withdrawn,Yuan Renminbi
+236,Eldin,Brazel,24,ebrazel6j@businessinsider.com,History,3/6/2022,9/22/2025,2.4,Eldin Brazel,1,West Campus,true,On Leave,Lari
+237,Juditha,Langeley,24,jlangeley6k@amazon.co.uk,Biology,5/7/2021,9/9/2025,0.14,Juditha Langeley,2,West Campus,true,Withdrawn,Baht
+238,Dominique,Storrs,27,dstorrs6l@wired.com,Biology,5/6/2021,6/3/2025,2.08,Dominique Storrs,11,West Campus,false,Active,Quetzal
+239,Lanita,Prozillo,30,lprozillo6m@fc2.com,Biology,3/14/2023,7/14/2026,0.58,Lanita Prozillo,14,Main Campus,false,Withdrawn,Euro
+240,Dorie,Dursley,30,ddursley6n@mapquest.com,Computer Science,9/4/2022,8/29/2026,0.2,Dorie Dursley,4,East Campus,false,Graduated,Rand
+241,Darcie,Harsant,22,dharsant6o@reverbnation.com,Psychology,6/3/2023,3/18/2027,1.19,Darcie Harsant,20,East Campus,false,Graduated,Lempira
+242,Yorgos,Ravenhills,27,yravenhills6p@slideshare.net,Psychology,10/2/2022,8/3/2025,3.22,Yorgos Ravenhills,20,Main Campus,false,Withdrawn,Peso
+243,Deirdre,Gregolin,25,dgregolin6q@tripod.com,Biology,5/27/2021,10/29/2027,3.93,Deirdre Gregolin,12,East Campus,false,On Leave,Dollar
+244,Monique,Dingwall,27,mdingwall6r@newyorker.com,Biology,1/21/2020,6/18/2024,1.84,Monique Dingwall,17,Main Campus,true,On Leave,Ringgit
+245,Sybille,Listone,25,slistone6s@plala.or.jp,Biology,10/29/2020,9/1/2025,3.96,Sybille Listone,18,Main Campus,true,Withdrawn,Rupiah
+246,Maryann,Roly,24,mroly6t@cbc.ca,Computer Science,1/10/2023,4/27/2024,0.81,Maryann Roly,2,West Campus,false,Active,Tugrik
+247,Wenonah,Cape,19,wcape6u@blogs.com,Computer Science,11/9/2021,7/12/2025,3.3,Wenonah Cape,20,East Campus,false,Graduated,Krona
+248,Rabbi,Poyle,19,rpoyle6v@opera.com,Computer Science,1/2/2022,9/27/2027,0.78,Rabbi Poyle,5,East Campus,true,Graduated,Rupiah
+249,Wandis,Castilljo,20,wcastilljo6w@delicious.com,Psychology,2/21/2022,3/10/2025,3.69,Wandis Castilljo,8,Main Campus,true,On Leave,Euro
+250,Ase,Mortimer,20,amortimer6x@twitpic.com,Psychology,2/13/2022,3/19/2027,3.96,Ase Mortimer,5,Main Campus,false,On Leave,Rupiah
+251,Ezekiel,Wankling,18,ewankling6y@zdnet.com,Psychology,5/29/2022,9/11/2026,1.03,Ezekiel Wankling,17,West Campus,true,Withdrawn,Yuan Renminbi
+252,Red,Simoni,19,rsimoni6z@imgur.com,Psychology,10/30/2020,3/26/2026,0.03,Red Simoni,12,Main Campus,true,Graduated,Peso
+253,Kahaleel,Drabble,28,kdrabble70@macromedia.com,Psychology,7/19/2022,3/9/2027,3.85,Kahaleel Drabble,14,Main Campus,true,Active,Euro
+254,Jedd,Rraundl,24,jrraundl71@github.com,Biology,7/7/2021,7/21/2025,1.61,Jedd Rraundl,4,West Campus,false,On Leave,Euro
+255,Giacinta,Harrill,20,gharrill72@odnoklassniki.ru,History,12/8/2020,7/5/2025,0.43,Giacinta Harrill,9,West Campus,false,Active,Kwacha
+256,Averill,Soles,25,asoles73@friendfeed.com,Computer Science,5/8/2021,2/3/2025,2.83,Averill Soles,4,Main Campus,true,Graduated,Yuan Renminbi
+257,Marlie,Pennycuick,24,mpennycuick74@usgs.gov,Computer Science,9/23/2022,7/25/2025,2.56,Marlie Pennycuick,6,Main Campus,true,Withdrawn,Zloty
+258,Friedrick,Hawket,20,fhawket75@unicef.org,Biology,5/10/2022,12/17/2025,2.93,Friedrick Hawket,13,East Campus,false,Graduated,Euro
+259,Mahala,Nizard,28,mnizard76@webs.com,Computer Science,1/26/2020,7/24/2026,0.33,Mahala Nizard,12,Main Campus,false,Graduated,Yuan Renminbi
+260,Durand,Sanbrook,30,dsanbrook77@elpais.com,History,3/28/2021,6/28/2026,3.4,Durand Sanbrook,19,East Campus,true,On Leave,Yuan Renminbi
+261,Drucie,Siggins,18,dsiggins78@cornell.edu,Psychology,10/30/2023,10/17/2025,3.78,Drucie Siggins,6,Main Campus,true,Graduated,Euro
+262,Rey,Wrotham,26,rwrotham79@ifeng.com,Psychology,5/1/2023,10/30/2027,3.25,Rey Wrotham,12,Main Campus,false,Active,Naira
+263,Forester,Elcott,27,felcott7a@live.com,Biology,8/22/2020,12/10/2027,1.09,Forester Elcott,4,West Campus,true,Graduated,Euro
+264,Elden,Bozier,24,ebozier7b@engadget.com,Psychology,8/29/2021,1/9/2027,3.39,Elden Bozier,11,East Campus,true,On Leave,Sol
+265,Gladys,Umbers,28,gumbers7c@sohu.com,Psychology,6/15/2023,12/29/2024,1.96,Gladys Umbers,15,West Campus,true,Graduated,Yuan Renminbi
+266,Phip,Tomaskunas,23,ptomaskunas7d@last.fm,Psychology,2/23/2021,5/21/2027,1.18,Phip Tomaskunas,1,East Campus,true,Active,Yuan Renminbi
+267,Justinian,Whitewood,26,jwhitewood7e@bbc.co.uk,Computer Science,8/21/2023,9/12/2025,1.72,Justinian Whitewood,8,East Campus,true,On Leave,Lek
+268,Wat,Filippello,22,wfilippello7f@icio.us,Biology,7/23/2021,10/20/2026,0.99,Wat Filippello,18,Main Campus,true,Withdrawn,Dollar
+269,Sherie,Cancott,21,scancott7g@epa.gov,Computer Science,6/3/2022,3/27/2025,3.07,Sherie Cancott,15,West Campus,true,Active,Yuan Renminbi
+270,Lynda,Madle,30,lmadle7h@nba.com,Computer Science,2/23/2020,1/2/2024,2.65,Lynda Madle,3,Main Campus,true,On Leave,Rupiah
+271,Denys,Moysey,20,dmoysey7i@jugem.jp,Computer Science,10/29/2020,12/15/2027,2.11,Denys Moysey,8,Main Campus,true,On Leave,Yuan Renminbi
+272,Aylmer,Fidgett,24,afidgett7j@linkedin.com,Biology,8/15/2023,3/28/2025,1.14,Aylmer Fidgett,2,East Campus,true,Graduated,Rupiah
+273,Viviyan,Gidden,20,vgidden7k@narod.ru,Biology,5/18/2020,1/29/2026,1.51,Viviyan Gidden,18,West Campus,true,Withdrawn,Koruna
+274,Pamela,Raggatt,21,praggatt7l@cbc.ca,Psychology,5/23/2023,12/26/2027,3.23,Pamela Raggatt,13,Main Campus,true,On Leave,Yuan Renminbi
+275,Bendite,Jenkin,26,bjenkin7m@gov.uk,Psychology,4/14/2020,6/19/2025,1.76,Bendite Jenkin,17,East Campus,false,Graduated,Yuan Renminbi
+276,Zacharie,Sygrove,29,zsygrove7n@squidoo.com,Psychology,10/24/2023,8/11/2026,1.59,Zacharie Sygrove,7,West Campus,false,On Leave,Zloty
+277,Borden,McGrowther,28,bmcgrowther7o@google.it,History,8/16/2023,11/5/2026,1.15,Borden McGrowther,19,East Campus,false,Withdrawn,Dollar
+278,Dorey,Crosser,19,dcrosser7p@psu.edu,Biology,4/16/2023,8/29/2024,1.65,Dorey Crosser,14,East Campus,false,On Leave,Yuan Renminbi
+279,Alethea,Bursnall,22,abursnall7q@arizona.edu,Psychology,2/28/2022,11/18/2027,2.4,Alethea Bursnall,8,West Campus,true,Active,Euro
+280,Alysa,Conichie,23,aconichie7r@europa.eu,Biology,12/9/2022,11/17/2027,0.72,Alysa Conichie,13,East Campus,true,On Leave,Zloty
+281,Ole,Prettjohn,30,oprettjohn7s@tinypic.com,Computer Science,12/31/2021,8/21/2024,3.59,Ole Prettjohn,16,West Campus,true,Active,Euro
+282,Wayne,McClory,19,wmcclory7t@wikispaces.com,History,11/18/2020,5/2/2026,2.61,Wayne McClory,14,East Campus,false,On Leave,Yuan Renminbi
+283,Rois,McGuinley,24,rmcguinley7u@nbcnews.com,Biology,8/5/2023,7/21/2024,2.74,Rois McGuinley,15,West Campus,false,On Leave,Ruble
+284,Stanleigh,Valentine,25,svalentine7v@odnoklassniki.ru,Biology,8/27/2021,10/23/2024,0.7,Stanleigh Valentine,19,West Campus,false,Active,Krona
+285,Paquito,Paal,25,ppaal7w@ca.gov,Psychology,1/24/2022,8/5/2027,3.83,Paquito Paal,1,West Campus,false,On Leave,Ruble
+286,Basile,Petel,21,bpetel7x@cisco.com,Psychology,10/26/2023,6/18/2024,3.78,Basile Petel,13,East Campus,true,Withdrawn,Euro
+287,Sonny,Fehners,23,sfehners7y@feedburner.com,Psychology,1/23/2023,10/19/2024,2.51,Sonny Fehners,6,West Campus,true,Active,Euro
+288,Sherlock,Begbie,20,sbegbie7z@ibm.com,History,1/28/2020,9/23/2024,3.72,Sherlock Begbie,1,Main Campus,false,Active,Yuan Renminbi
+289,Leslie,Evitt,21,levitt80@discuz.net,Biology,12/9/2023,3/9/2027,3.21,Leslie Evitt,0,East Campus,false,On Leave,Pound
+290,Fey,Pardal,27,fpardal81@a8.net,Biology,2/3/2023,6/17/2027,1.19,Fey Pardal,17,West Campus,true,On Leave,Dong
+291,Xenos,Boggon,26,xboggon82@sun.com,Computer Science,11/23/2020,1/3/2025,0.66,Xenos Boggon,7,Main Campus,false,Graduated,Euro
+292,Rose,Barcke,24,rbarcke83@state.gov,Psychology,8/11/2023,3/3/2024,3.1,Rose Barcke,11,East Campus,false,Withdrawn,Naira
+293,Patty,Vick,27,pvick84@mit.edu,History,9/27/2022,3/9/2026,3.7,Patty Vick,11,Main Campus,true,Active,Yuan Renminbi
+294,Devi,Senechault,30,dsenechault85@cdbaby.com,Computer Science,10/11/2023,9/30/2026,2.87,Devi Senechault,1,West Campus,false,Active,Boliviano
+295,Gratiana,Rogliero,21,grogliero86@hexun.com,History,1/17/2021,1/7/2025,3.07,Gratiana Rogliero,13,East Campus,true,Withdrawn,Baht
+296,Kliment,Noury,27,knoury87@qq.com,Psychology,10/24/2020,9/3/2025,0.0,Kliment Noury,17,East Campus,false,On Leave,Ruble
+297,Cobbie,Scone,22,cscone88@ustream.tv,History,9/5/2023,3/31/2026,0.21,Cobbie Scone,16,West Campus,true,Withdrawn,Rupiah
+298,Yetty,Malpass,29,ymalpass89@odnoklassniki.ru,History,9/1/2020,4/24/2024,0.72,Yetty Malpass,12,Main Campus,false,On Leave,Euro
+299,Harrison,Maciocia,30,hmaciocia8a@surveymonkey.com,Psychology,9/17/2021,6/5/2026,3.11,Harrison Maciocia,20,East Campus,false,Graduated,Taka
+300,Garrett,Dumbrall,25,gdumbrall8b@scribd.com,History,1/20/2020,10/11/2026,3.27,Garrett Dumbrall,1,West Campus,false,Active,Yuan Renminbi
+301,Tybi,Cockayne,21,tcockayne8c@quantcast.com,Computer Science,10/6/2020,12/23/2024,3.83,Tybi Cockayne,18,Main Campus,true,Withdrawn,Franc
+302,Sonnnie,Gillooly,18,sgillooly8d@fema.gov,Psychology,10/26/2022,12/4/2024,2.12,Sonnnie Gillooly,15,Main Campus,true,Graduated,Peso
+303,Libbi,Vynoll,19,lvynoll8e@oracle.com,Computer Science,1/13/2022,9/20/2026,0.79,Libbi Vynoll,16,West Campus,false,Withdrawn,Real
+304,Webster,MacAllister,28,wmacallister8f@google.cn,Computer Science,6/13/2022,10/30/2027,3.89,Webster MacAllister,9,Main Campus,true,On Leave,Ariary
+305,Colby,Goodhand,19,cgoodhand8g@ibm.com,Biology,12/4/2021,3/3/2026,0.56,Colby Goodhand,6,West Campus,true,Withdrawn,Lempira
+306,Marlane,Ells,20,mells8h@bizjournals.com,Psychology,5/23/2021,5/20/2027,2.31,Marlane Ells,5,West Campus,false,Active,Rupiah
+307,Dorian,Aldrich,25,daldrich8i@irs.gov,Computer Science,9/23/2023,10/30/2024,2.59,Dorian Aldrich,4,East Campus,false,Active,Rupiah
+308,Auberon,Vlasyev,25,avlasyev8j@sphinn.com,Psychology,11/19/2021,2/18/2025,0.24,Auberon Vlasyev,0,Main Campus,false,Withdrawn,Ruble
+309,Wallis,Whitmell,29,wwhitmell8k@rakuten.co.jp,History,12/21/2021,2/26/2026,0.37,Wallis Whitmell,0,West Campus,false,Withdrawn,Euro
+310,Diandra,Sansbury,28,dsansbury8l@dot.gov,History,8/7/2022,10/18/2027,3.89,Diandra Sansbury,15,Main Campus,true,Graduated,Yuan Renminbi
+311,Colet,Fidelli,29,cfidelli8m@studiopress.com,Biology,5/2/2023,4/21/2024,3.23,Colet Fidelli,11,East Campus,true,Active,Real
+312,Danielle,Brockhouse,20,dbrockhouse8n@deliciousdays.com,History,4/23/2021,6/14/2025,2.28,Danielle Brockhouse,12,East Campus,false,On Leave,Euro
+313,Osbert,Zielinski,28,ozielinski8o@bravesites.com,Psychology,11/15/2021,3/4/2026,0.77,Osbert Zielinski,13,West Campus,true,On Leave,Krona
+314,Tracie,Iorillo,18,tiorillo8p@geocities.jp,Psychology,9/18/2023,5/29/2026,2.12,Tracie Iorillo,18,Main Campus,false,Graduated,Yuan Renminbi
+315,Ronny,Honniebal,29,rhonniebal8q@networksolutions.com,History,5/2/2022,5/11/2027,3.69,Ronny Honniebal,13,East Campus,false,Withdrawn,Yuan Renminbi
+316,Minna,Ballsdon,20,mballsdon8r@de.vu,Psychology,10/4/2020,6/2/2025,3.5,Minna Ballsdon,18,Main Campus,false,On Leave,Peso
+317,Arv,Mammatt,18,amammatt8s@ftc.gov,Computer Science,1/19/2022,3/24/2027,3.08,Arv Mammatt,18,West Campus,false,Active,Real
+318,Jamison,Pittway,28,jpittway8t@printfriendly.com,Psychology,9/21/2022,8/3/2025,1.18,Jamison Pittway,11,Main Campus,false,Active,Yuan Renminbi
+319,Rori,Eyeington,22,reyeington8u@ibm.com,Psychology,3/12/2022,3/27/2024,1.67,Rori Eyeington,1,East Campus,true,Withdrawn,Dollar
+320,Vivianne,Ruter,22,vruter8v@nationalgeographic.com,Psychology,6/6/2020,5/30/2026,0.2,Vivianne Ruter,1,East Campus,false,Withdrawn,Real
+321,Miguela,Gunston,22,mgunston8w@amazon.co.jp,Biology,5/6/2020,12/29/2024,0.88,Miguela Gunston,2,East Campus,false,Withdrawn,Krona
+322,Nichols,Collishaw,19,ncollishaw8x@chronoengine.com,Computer Science,12/3/2022,4/23/2026,0.69,Nichols Collishaw,5,West Campus,false,Graduated,Real
+323,Rosita,McVicar,21,rmcvicar8y@booking.com,Psychology,7/31/2021,3/2/2027,1.26,Rosita McVicar,19,West Campus,true,Graduated,Yuan Renminbi
+324,Jacky,Dahlback,21,jdahlback8z@last.fm,Biology,9/28/2021,10/12/2025,0.08,Jacky Dahlback,13,East Campus,false,Withdrawn,Yuan Renminbi
+325,Marybeth,MacConnel,24,mmacconnel90@mlb.com,Biology,5/13/2022,5/22/2026,0.67,Marybeth MacConnel,3,West Campus,true,Graduated,Ruble
+326,Lilias,Hamnet,19,lhamnet91@wiley.com,Computer Science,6/17/2021,2/27/2026,1.1,Lilias Hamnet,9,East Campus,true,Graduated,Dollar
+327,Papageno,Tyer,26,ptyer92@wikipedia.org,History,8/12/2022,9/28/2025,0.62,Papageno Tyer,17,Main Campus,true,Graduated,Ruble
+328,Kasper,Adess,24,kadess93@webeden.co.uk,Computer Science,12/19/2023,5/28/2026,1.94,Kasper Adess,8,East Campus,false,On Leave,Yuan Renminbi
+329,Mord,Rowcastle,24,mrowcastle94@scientificamerican.com,Biology,7/18/2022,8/18/2026,2.32,Mord Rowcastle,4,Main Campus,true,Graduated,Yuan Renminbi
+330,Ardella,Toyne,27,atoyne95@alexa.com,Psychology,2/3/2020,7/4/2027,0.36,Ardella Toyne,8,Main Campus,true,Withdrawn,Yuan Renminbi
+331,Stinky,Nozzolii,30,snozzolii96@imdb.com,Psychology,6/11/2020,11/3/2026,2.4,Stinky Nozzolii,11,East Campus,true,On Leave,Yuan Renminbi
+332,Maggee,Kolis,25,mkolis97@quantcast.com,Biology,12/7/2022,2/6/2027,1.05,Maggee Kolis,5,West Campus,true,Graduated,Yuan Renminbi
+333,Gui,Bouzek,18,gbouzek98@apple.com,Biology,6/9/2023,11/24/2026,3.65,Gui Bouzek,12,Main Campus,true,Active,Lev
+334,Josee,May,23,jmay99@360.cn,Computer Science,5/7/2020,4/9/2024,3.38,Josee May,7,Main Campus,false,Withdrawn,Rupiah
+335,Malissa,Kidson,21,mkidson9a@theatlantic.com,Biology,10/31/2023,6/20/2027,1.05,Malissa Kidson,10,Main Campus,false,Withdrawn,Ruble
+336,Kathi,Tripony,18,ktripony9b@china.com.cn,Computer Science,2/3/2023,3/30/2024,1.67,Kathi Tripony,12,East Campus,true,On Leave,Ruble
+337,Larina,Nerger,18,lnerger9c@plala.or.jp,Computer Science,5/27/2022,12/15/2026,1.19,Larina Nerger,1,Main Campus,true,Graduated,Yuan Renminbi
+338,Olga,Eyeington,30,oeyeington9d@dion.ne.jp,Biology,4/4/2020,2/15/2026,0.56,Olga Eyeington,5,West Campus,true,Active,Hryvnia
+339,Adolphe,Exrol,19,aexrol9e@latimes.com,Computer Science,5/9/2023,10/27/2027,2.36,Adolphe Exrol,11,East Campus,true,Active,Koruna
+340,Charmane,Domenge,29,cdomenge9f@wp.com,History,4/19/2020,4/10/2025,3.64,Charmane Domenge,15,West Campus,false,Graduated,Sol
+341,Roth,Smuth,25,rsmuth9g@timesonline.co.uk,Psychology,1/24/2023,5/13/2026,0.05,Roth Smuth,16,Main Campus,true,On Leave,Euro
+342,Shanie,Ivatt,27,sivatt9h@cnbc.com,Psychology,5/25/2022,8/11/2026,3.43,Shanie Ivatt,8,West Campus,false,Graduated,Dong
+343,Clair,McKue,29,cmckue9i@imageshack.us,Biology,2/25/2022,8/7/2024,1.63,Clair McKue,20,West Campus,false,Active,Krona
+344,Erina,Quaintance,26,equaintance9j@sciencedirect.com,Biology,11/29/2020,5/7/2025,4.0,Erina Quaintance,12,East Campus,false,Active,Rupiah
+345,Eliza,Scala,26,escala9k@youtube.com,Biology,4/21/2022,7/22/2027,3.69,Eliza Scala,0,Main Campus,false,Withdrawn,Lev
+346,Ginni,Mauditt,27,gmauditt9l@unesco.org,Computer Science,11/10/2021,6/18/2027,2.58,Ginni Mauditt,15,West Campus,false,Graduated,Euro
+347,Lion,Karlolczak,27,lkarlolczak9m@tripadvisor.com,History,6/29/2022,9/11/2026,2.06,Lion Karlolczak,8,West Campus,true,Graduated,Shilling
+348,Rubin,Meagher,29,rmeagher9n@de.vu,History,8/7/2021,12/18/2024,1.65,Rubin Meagher,14,Main Campus,false,Graduated,Quetzal
+349,Tracie,Rubinshtein,29,trubinshtein9o@sourceforge.net,Biology,8/11/2021,8/14/2026,0.43,Tracie Rubinshtein,8,East Campus,false,Graduated,Real
+350,Hope,Yglesia,22,hyglesia9p@cpanel.net,Computer Science,8/27/2023,7/27/2027,3.49,Hope Yglesia,20,Main Campus,true,Withdrawn,Rial
+351,Clementia,Feltham,18,cfeltham9q@themeforest.net,History,5/11/2023,5/19/2027,2.98,Clementia Feltham,6,East Campus,true,Graduated,Euro
+352,Velvet,Benoix,22,vbenoix9r@prweb.com,Psychology,5/31/2020,11/27/2027,0.52,Velvet Benoix,19,East Campus,false,Active,Som
+353,Mortimer,Potts,19,mpotts9s@live.com,Biology,11/1/2021,11/2/2025,1.04,Mortimer Potts,5,Main Campus,false,Active,Rupiah
+354,Neile,Gillio,20,ngillio9t@google.com.au,Computer Science,1/11/2022,8/28/2027,2.71,Neile Gillio,13,East Campus,true,Withdrawn,Zloty
+355,Lexy,Skull,21,lskull9u@cyberchimps.com,Biology,5/29/2023,11/21/2025,3.06,Lexy Skull,1,Main Campus,true,Active,Ruble
+356,Ronnie,Egle,19,regle9v@tumblr.com,Computer Science,6/5/2021,5/6/2026,0.66,Ronnie Egle,6,East Campus,false,Active,Sol
+357,Adela,Pattini,18,apattini9w@studiopress.com,Psychology,7/25/2020,7/6/2027,0.6,Adela Pattini,19,East Campus,true,Active,Shekel
+358,Flinn,Sugar,30,fsugar9x@tuttocitta.it,History,7/30/2022,3/4/2027,0.08,Flinn Sugar,14,Main Campus,true,Active,Peso
+359,Abbey,Domleo,20,adomleo9y@boston.com,Psychology,6/1/2020,12/28/2027,1.61,Abbey Domleo,7,East Campus,false,On Leave,Euro
+360,Torrie,Amaya,30,tamaya9z@jugem.jp,Computer Science,3/2/2020,2/19/2026,2.15,Torrie Amaya,2,Main Campus,false,Withdrawn,Yuan Renminbi
+361,Winfred,McKeurtan,30,wmckeurtana0@redcross.org,History,7/18/2023,11/7/2025,3.45,Winfred McKeurtan,9,Main Campus,true,On Leave,Rupiah
+362,Titus,Boorer,30,tboorera1@ft.com,Biology,5/15/2020,3/22/2026,1.85,Titus Boorer,15,East Campus,false,On Leave,Rupiah
+363,Eirena,Correa,27,ecorreaa2@simplemachines.org,Psychology,1/3/2023,3/2/2024,2.85,Eirena Correa,2,Main Campus,true,Graduated,Yuan Renminbi
+364,Jervis,Pickles,25,jpicklesa3@hostgator.com,Computer Science,6/12/2023,11/29/2025,0.7,Jervis Pickles,13,East Campus,true,Active,Rupiah
+365,Dunn,Boothby,19,dboothbya4@liveinternet.ru,Computer Science,12/14/2020,10/26/2024,2.5,Dunn Boothby,5,Main Campus,false,Withdrawn,Peso
+366,Stacie,Willoughby,27,swilloughbya5@mapy.cz,Biology,11/7/2021,11/29/2024,2.06,Stacie Willoughby,16,Main Campus,false,Withdrawn,Quetzal
+367,Aubrie,Fibbit,26,afibbita6@barnesandnoble.com,History,5/20/2021,5/30/2027,0.59,Aubrie Fibbit,9,West Campus,true,Graduated,Krona
+368,Orton,Carratt,27,ocarratta7@google.co.jp,Biology,10/1/2023,12/9/2027,1.65,Orton Carratt,10,East Campus,false,Withdrawn,Yuan Renminbi
+369,Angela,Morley,21,amorleya8@samsung.com,History,7/13/2022,3/4/2026,2.47,Angela Morley,8,East Campus,false,Graduated,Yuan Renminbi
+370,Isidro,Bartlet,30,ibartleta9@jugem.jp,Computer Science,11/14/2022,2/20/2024,3.4,Isidro Bartlet,19,East Campus,true,On Leave,Rupee
+371,Hailey,Balls,22,hballsaa@sfgate.com,Biology,7/20/2022,11/15/2025,2.14,Hailey Balls,9,East Campus,false,On Leave,Tenge
+372,Rebe,Lancastle,30,rlancastleab@hp.com,Biology,4/13/2020,5/28/2025,3.22,Rebe Lancastle,18,East Campus,false,Active,Koruna
+373,Timmie,Elsmore,25,telsmoreac@indiegogo.com,Computer Science,4/22/2022,1/19/2027,3.49,Timmie Elsmore,1,West Campus,true,Graduated,Yuan Renminbi
+374,Skipp,Barff,30,sbarffad@purevolume.com,Biology,4/28/2021,2/5/2024,0.64,Skipp Barff,18,Main Campus,false,Active,Shekel
+375,Gaye,MacNeil,20,gmacneilae@deviantart.com,Biology,3/24/2023,11/24/2024,3.64,Gaye MacNeil,2,Main Campus,true,Graduated,Yuan Renminbi
+376,Beatrisa,Stollmeyer,30,bstollmeyeraf@artisteer.com,Biology,6/19/2022,11/4/2026,3.46,Beatrisa Stollmeyer,14,Main Campus,true,Withdrawn,Yuan Renminbi
+377,Muffin,Jimes,18,mjimesag@businessweek.com,Computer Science,12/4/2023,9/8/2026,1.97,Muffin Jimes,7,East Campus,false,Active,Dollar
+378,Alejoa,Durnian,22,adurnianah@sciencedirect.com,History,1/3/2020,1/13/2025,3.8,Alejoa Durnian,7,West Campus,false,Graduated,Euro
+379,Gypsy,Brumen,23,gbrumenai@godaddy.com,History,3/28/2023,4/26/2026,2.5,Gypsy Brumen,3,Main Campus,false,Active,Taka
+380,Georgina,Ronchetti,21,gronchettiaj@epa.gov,Psychology,1/27/2021,1/18/2027,3.35,Georgina Ronchetti,8,East Campus,false,On Leave,Euro
+381,Amaleta,Duffett,18,aduffettak@sfgate.com,Biology,11/14/2022,1/24/2025,2.96,Amaleta Duffett,2,Main Campus,true,Withdrawn,Yuan Renminbi
+382,Bertina,Linch,19,blinchal@foxnews.com,Computer Science,3/27/2022,4/13/2024,3.31,Bertina Linch,9,Main Campus,true,Active,Peso
+383,Esther,Hurkett,26,ehurkettam@hp.com,Computer Science,4/16/2022,8/2/2025,2.94,Esther Hurkett,18,Main Campus,true,Active,Birr
+384,Farand,Shelp,20,fshelpan@ed.gov,Computer Science,6/23/2020,5/12/2025,1.46,Farand Shelp,10,West Campus,false,Graduated,Peso
+385,Talia,Tiffney,25,ttiffneyao@themeforest.net,History,7/2/2020,4/1/2025,1.9,Talia Tiffney,19,Main Campus,false,Graduated,Rupiah
+386,Boigie,Mallinder,21,bmallinderap@ed.gov,Psychology,2/19/2020,10/20/2024,1.68,Boigie Mallinder,10,West Campus,true,Graduated,Rupiah
+387,Hector,Gorelli,19,hgorelliaq@sfgate.com,Psychology,3/3/2022,1/18/2026,3.79,Hector Gorelli,9,Main Campus,true,Active,Yuan Renminbi
+388,Madelon,Lockie,27,mlockiear@nytimes.com,Computer Science,2/15/2022,12/16/2026,0.32,Madelon Lockie,10,East Campus,false,Graduated,Koruna
+389,Adelina,Fadian,24,afadianas@e-recht24.de,Biology,1/1/2023,4/5/2027,0.68,Adelina Fadian,0,Main Campus,false,On Leave,Yuan Renminbi
+390,Bord,Ravenscraft,30,bravenscraftat@bbb.org,History,5/23/2023,8/6/2027,2.12,Bord Ravenscraft,13,West Campus,true,On Leave,Pula
+391,Kathi,Adamsson,28,kadamssonau@mozilla.org,Psychology,1/29/2022,3/17/2025,2.38,Kathi Adamsson,8,Main Campus,true,Graduated,Real
+392,Scott,Borg,22,sborgav@ocn.ne.jp,Biology,1/22/2022,3/18/2027,1.51,Scott Borg,17,East Campus,true,Active,Euro
+393,Cristionna,Renihan,20,crenihanaw@slashdot.org,History,2/28/2023,11/3/2027,3.25,Cristionna Renihan,13,East Campus,true,On Leave,Koruna
+394,Arie,Treske,24,atreskeax@jimdo.com,Biology,6/22/2021,10/27/2025,1.77,Arie Treske,12,East Campus,true,On Leave,Dinar
+395,Andreas,Warburton,23,awarburtonay@flickr.com,Computer Science,11/29/2021,9/30/2024,2.87,Andreas Warburton,15,East Campus,true,Withdrawn,Yuan Renminbi
+396,Sadye,Rubbens,19,srubbensaz@telegraph.co.uk,Psychology,10/20/2020,3/16/2024,2.74,Sadye Rubbens,11,West Campus,true,On Leave,Peso
+397,Wendye,Narup,28,wnarupb0@mayoclinic.com,Computer Science,12/31/2020,5/8/2025,1.38,Wendye Narup,19,Main Campus,true,Withdrawn,Yuan Renminbi
+398,Lockwood,Besnardeau,29,lbesnardeaub1@statcounter.com,Computer Science,3/23/2020,8/18/2024,2.72,Lockwood Besnardeau,6,Main Campus,true,On Leave,Peso
+399,Hester,Buttress,29,hbuttressb2@biblegateway.com,Psychology,11/13/2020,5/31/2026,1.12,Hester Buttress,19,Main Campus,false,Withdrawn,Euro
+400,Debby,Goathrop,27,dgoathropb3@buzzfeed.com,History,10/20/2020,7/7/2024,0.27,Debby Goathrop,5,Main Campus,true,Withdrawn,Yuan Renminbi
+401,Jasmine,Boraston,24,jborastonb4@dyndns.org,Psychology,2/24/2023,5/10/2024,1.36,Jasmine Boraston,12,East Campus,false,On Leave,Shilling
+402,Alexandre,Padillo,24,apadillob5@timesonline.co.uk,Computer Science,11/26/2023,12/17/2024,3.69,Alexandre Padillo,18,East Campus,true,Active,Dirham
+403,Delaney,Feldstern,26,dfeldsternb6@china.com.cn,History,9/29/2020,11/24/2024,0.16,Delaney Feldstern,9,Main Campus,false,Graduated,Krona
+404,Reinhold,Pender,30,rpenderb7@drupal.org,Biology,11/2/2021,10/26/2027,3.34,Reinhold Pender,11,West Campus,true,On Leave,Real
+405,Lotte,Yanuk,29,lyanukb8@t-online.de,Biology,2/12/2021,5/20/2025,1.76,Lotte Yanuk,10,Main Campus,false,Graduated,Tugrik
+406,Kerrie,Masi,30,kmasib9@mtv.com,Computer Science,12/21/2022,12/25/2027,3.55,Kerrie Masi,18,West Campus,false,Active,Euro
+407,Chloe,Frise,20,cfriseba@seesaa.net,Psychology,9/20/2020,11/8/2025,3.97,Chloe Frise,4,West Campus,false,On Leave,Ringgit
+408,Oran,Barthrop,29,obarthropbb@tinyurl.com,Psychology,10/19/2021,2/18/2024,1.68,Oran Barthrop,3,Main Campus,true,On Leave,Real
+409,Rolf,Cadamy,29,rcadamybc@histats.com,Psychology,11/8/2020,1/28/2027,2.63,Rolf Cadamy,1,Main Campus,false,On Leave,Peso
+410,Jeramie,Westcarr,24,jwestcarrbd@1und1.de,Psychology,8/3/2022,12/30/2024,1.92,Jeramie Westcarr,16,Main Campus,true,Active,Koruna
+411,Paxton,Danigel,30,pdanigelbe@newyorker.com,History,12/1/2023,10/14/2025,1.65,Paxton Danigel,17,East Campus,false,On Leave,Som
+412,Carola,Stailey,26,cstaileybf@homestead.com,Psychology,8/17/2021,3/14/2027,3.39,Carola Stailey,4,East Campus,false,On Leave,Euro
+413,Bernardina,Gallico,30,bgallicobg@parallels.com,Computer Science,6/17/2020,12/16/2026,0.09,Bernardina Gallico,1,West Campus,true,Graduated,Yuan Renminbi
+414,Nicolea,Gippes,27,ngippesbh@state.tx.us,Biology,7/2/2021,1/2/2027,3.08,Nicolea Gippes,17,West Campus,true,Withdrawn,Euro
+415,Cornela,Kibblewhite,19,ckibblewhitebi@howstuffworks.com,Biology,10/12/2020,12/28/2024,3.81,Cornela Kibblewhite,4,Main Campus,true,Active,Ruble
+416,Tessa,Kerans,20,tkeransbj@europa.eu,History,8/12/2023,5/26/2024,3.39,Tessa Kerans,8,East Campus,false,Active,Peso
+417,Korella,Crumb,24,kcrumbbk@omniture.com,Biology,8/11/2020,10/30/2027,2.86,Korella Crumb,12,Main Campus,true,Graduated,Peso
+418,Jessi,Bright,27,jbrightbl@wufoo.com,Psychology,5/23/2022,8/5/2024,2.35,Jessi Bright,8,East Campus,true,Graduated,Yuan Renminbi
+419,Korry,Bault,22,kbaultbm@furl.net,Computer Science,9/13/2022,9/19/2026,0.32,Korry Bault,1,West Campus,true,Active,Real
+420,Antonina,Sager,19,asagerbn@rediff.com,Computer Science,8/25/2021,10/4/2025,2.8,Antonina Sager,18,West Campus,true,Graduated,Yuan Renminbi
+421,Lamar,Killik,28,lkillikbo@quantcast.com,Computer Science,2/4/2020,11/30/2026,1.9,Lamar Killik,12,Main Campus,true,Active,Yuan Renminbi
+422,Cecily,Beeres,21,cbeeresbp@nyu.edu,Psychology,2/3/2021,12/19/2026,2.82,Cecily Beeres,3,Main Campus,false,Graduated,Dirham
+423,Myrle,Gonzalez,20,mgonzalezbq@bing.com,Computer Science,5/2/2022,9/17/2025,3.72,Myrle Gonzalez,15,East Campus,false,Graduated,Euro
+424,Brewer,Griffitts,30,bgriffittsbr@sphinn.com,Biology,8/26/2022,5/20/2024,1.99,Brewer Griffitts,7,Main Campus,false,Withdrawn,Rupiah
+425,Darnall,Ormshaw,23,dormshawbs@creativecommons.org,Computer Science,1/23/2021,8/6/2026,2.81,Darnall Ormshaw,13,Main Campus,false,Withdrawn,Euro
+426,Rhys,Ovett,19,rovettbt@tamu.edu,History,12/14/2021,8/18/2025,3.81,Rhys Ovett,4,East Campus,false,Active,Yuan Renminbi
+427,Tan,Leechman,27,tleechmanbu@storify.com,Biology,5/7/2022,3/21/2025,2.67,Tan Leechman,9,West Campus,true,Active,Euro
+428,Lindsey,Newitt,19,lnewittbv@so-net.ne.jp,Computer Science,5/5/2023,5/4/2025,0.44,Lindsey Newitt,18,East Campus,false,On Leave,Rupee
+429,Pepito,MacAndrew,19,pmacandrewbw@dailymail.co.uk,Biology,8/11/2020,8/3/2027,3.5,Pepito MacAndrew,6,West Campus,false,Withdrawn,Zloty
+430,Kellia,Boyford,27,kboyfordbx@mozilla.com,Psychology,12/12/2023,10/11/2027,0.17,Kellia Boyford,5,West Campus,true,Graduated,Yuan Renminbi
+431,Saree,Lote,30,sloteby@about.me,Biology,4/16/2020,1/1/2027,2.77,Saree Lote,9,Main Campus,true,Active,Dollar
+432,Ursulina,Pastor,19,upastorbz@narod.ru,History,5/29/2020,10/2/2026,0.83,Ursulina Pastor,9,West Campus,false,Active,Dollar
+433,Onfre,Cornilli,26,ocornillic0@privacy.gov.au,Biology,12/25/2022,9/8/2027,2.08,Onfre Cornilli,10,East Campus,true,Graduated,Real
+434,Tonia,D'Ambrogi,24,tdambrogic1@amazonaws.com,Psychology,9/20/2022,9/21/2024,2.1,Tonia D'Ambrogi,3,West Campus,false,Active,Yuan Renminbi
+435,Quinta,Martinyuk,24,qmartinyukc2@meetup.com,History,12/28/2023,7/2/2027,0.07,Quinta Martinyuk,13,Main Campus,false,Graduated,Ruble
+436,Genny,Tapsfield,18,gtapsfieldc3@trellian.com,History,5/20/2023,6/10/2026,0.48,Genny Tapsfield,5,East Campus,true,Withdrawn,Kuna
+437,Kari,Dunseath,27,kdunseathc4@usa.gov,Biology,6/17/2023,3/31/2027,1.76,Kari Dunseath,7,West Campus,false,On Leave,Peso
+438,Augustin,Brychan,18,abrychanc5@google.com.au,History,10/8/2023,3/25/2026,0.49,Augustin Brychan,1,East Campus,false,Withdrawn,Krona
+439,Martica,Ewan,27,mewanc6@yahoo.com,History,6/4/2020,12/27/2026,0.85,Martica Ewan,1,West Campus,false,Graduated,Real
+440,Orelle,Martinello,26,omartinelloc7@springer.com,Computer Science,4/15/2020,3/24/2024,3.15,Orelle Martinello,9,Main Campus,true,Graduated,Rupiah
+441,Auguste,O'Scanlon,24,aoscanlonc8@shop-pro.jp,Biology,11/21/2021,1/1/2026,2.99,Auguste O'Scanlon,4,East Campus,false,Withdrawn,Cordoba
+442,Cayla,Coggen,18,ccoggenc9@sogou.com,Computer Science,3/14/2020,6/20/2025,0.83,Cayla Coggen,7,West Campus,true,Withdrawn,Tugrik
+443,Frank,Mourge,21,fmourgeca@ucla.edu,Computer Science,12/13/2023,5/21/2026,1.4,Frank Mourge,4,Main Campus,false,Withdrawn,Yuan Renminbi
+444,Archer,Scane,21,ascanecb@mashable.com,Biology,1/14/2020,5/19/2026,3.46,Archer Scane,13,West Campus,false,On Leave,Hryvnia
+445,Nariko,Pickin,30,npickincc@paginegialle.it,Psychology,1/2/2020,7/23/2024,2.08,Nariko Pickin,4,Main Campus,true,Active,Bolivar
+446,Quintin,Blainey,29,qblaineycd@shareasale.com,History,5/27/2020,12/14/2026,2.94,Quintin Blainey,7,East Campus,true,Graduated,Yuan Renminbi
+447,Dorolice,Whitley,23,dwhitleyce@symantec.com,History,8/24/2020,10/20/2025,3.75,Dorolice Whitley,4,East Campus,false,Active,Real
+448,Frazer,Lago,22,flagocf@hugedomains.com,Psychology,6/22/2023,7/19/2025,1.28,Frazer Lago,19,West Campus,false,On Leave,Rupiah
+449,Abigael,Ducastel,23,aducastelcg@cnbc.com,Computer Science,1/10/2023,12/15/2025,2.32,Abigael Ducastel,16,West Campus,true,Withdrawn,Bolivar
+450,Perrine,Ellacott,25,pellacottch@chronoengine.com,History,1/1/2023,9/8/2025,0.11,Perrine Ellacott,8,Main Campus,true,Active,Peso
+451,Gustavo,Bumphries,23,gbumphriesci@weather.com,Biology,7/30/2020,1/21/2025,1.18,Gustavo Bumphries,8,West Campus,true,On Leave,Leu
+452,Ardis,Camell,30,acamellcj@quantcast.com,Psychology,12/8/2023,8/19/2024,3.49,Ardis Camell,15,Main Campus,false,Active,Ruble
+453,Templeton,Tipper,21,ttipperck@nasa.gov,Biology,3/1/2023,7/12/2024,2.06,Templeton Tipper,14,Main Campus,false,Graduated,Real
+454,Erich,Layfield,19,elayfieldcl@yahoo.com,Computer Science,12/10/2021,12/5/2026,2.95,Erich Layfield,15,Main Campus,true,On Leave,Yuan Renminbi
+455,Delphine,Haslock(e),23,dhaslockecm@loc.gov,Psychology,8/9/2021,12/6/2027,3.92,Delphine Haslock(e),2,West Campus,true,On Leave,Yuan Renminbi
+456,Emmalynn,Malcolm,21,emalcolmcn@hp.com,Computer Science,9/24/2022,4/2/2025,0.63,Emmalynn Malcolm,17,East Campus,true,Withdrawn,Denar
+457,Nikolia,Shermore,29,nshermoreco@ucoz.com,Computer Science,4/11/2021,4/6/2024,0.04,Nikolia Shermore,20,Main Campus,true,On Leave,Lari
+458,Morena,Weond,21,mweondcp@google.ru,Computer Science,1/19/2021,4/28/2026,3.57,Morena Weond,14,West Campus,true,Withdrawn,Som
+459,Pinchas,Sprull,19,psprullcq@sakura.ne.jp,Computer Science,2/2/2022,12/16/2026,0.86,Pinchas Sprull,5,Main Campus,true,Withdrawn,Peso
+460,Stephi,Coom,21,scoomcr@blinklist.com,Psychology,10/18/2020,1/11/2027,3.7,Stephi Coom,1,Main Campus,false,Withdrawn,Dong
+461,Marcelo,Legerwood,21,mlegerwoodcs@woothemes.com,Psychology,11/15/2020,5/29/2025,3.02,Marcelo Legerwood,5,East Campus,true,On Leave,Euro
+462,Arden,Malinowski,29,amalinowskict@state.gov,Computer Science,6/21/2023,11/6/2027,0.57,Arden Malinowski,8,West Campus,false,Withdrawn,Yuan Renminbi
+463,Lenee,Asplen,23,lasplencu@usda.gov,Biology,8/24/2022,4/22/2026,0.69,Lenee Asplen,6,East Campus,true,Active,Kuna
+464,Maurita,MacAnespie,24,mmacanespiecv@npr.org,Psychology,5/24/2020,9/12/2027,0.8,Maurita MacAnespie,11,West Campus,false,Withdrawn,Tugrik
+465,Paloma,Dyet,30,pdyetcw@cargocollective.com,History,1/14/2022,10/30/2024,2.64,Paloma Dyet,9,West Campus,true,Active,Rupiah
+466,Mikol,Marquot,25,mmarquotcx@addtoany.com,Biology,6/17/2020,3/21/2025,0.25,Mikol Marquot,20,West Campus,true,Withdrawn,Peso
+467,Audi,Esslemont,19,aesslemontcy@mail.ru,History,7/11/2020,9/26/2024,3.66,Audi Esslemont,13,East Campus,false,Graduated,Ruble
+468,Axe,Ivy,22,aivycz@sun.com,Biology,5/15/2022,5/10/2024,3.07,Axe Ivy,1,Main Campus,true,Active,Krona
+469,Rani,Handy,30,rhandyd0@free.fr,History,8/9/2023,1/24/2027,1.1,Rani Handy,0,West Campus,true,Graduated,Zloty
+470,Marilee,Allwell,21,mallwelld1@scribd.com,Computer Science,6/27/2023,12/17/2025,1.58,Marilee Allwell,3,East Campus,false,Graduated,Ruble
+471,Dru,Hum,23,dhumd2@weibo.com,History,5/12/2023,4/24/2026,1.0,Dru Hum,1,East Campus,true,On Leave,Dollar
+472,Bambi,Jotcham,23,bjotchamd3@bing.com,Biology,9/1/2021,11/29/2024,1.94,Bambi Jotcham,13,West Campus,false,Withdrawn,Peso
+473,Kalle,Kerman,18,kkermand4@forbes.com,Computer Science,7/12/2023,7/24/2026,3.82,Kalle Kerman,19,West Campus,true,Graduated,Real
+474,Idalina,Lilly,24,ilillyd5@usnews.com,History,8/12/2021,3/11/2027,1.97,Idalina Lilly,14,East Campus,false,On Leave,Dollar
+475,Cassie,Ackerley,23,cackerleyd6@twitter.com,Biology,6/30/2022,6/22/2025,3.28,Cassie Ackerley,12,East Campus,false,On Leave,Peso
+476,Donnajean,Ledrane,30,dledraned7@indiatimes.com,History,4/16/2023,11/10/2027,1.64,Donnajean Ledrane,13,Main Campus,true,On Leave,Yuan Renminbi
+477,Osborn,Tilford,26,otilfordd8@gnu.org,Computer Science,9/30/2022,3/22/2025,0.07,Osborn Tilford,17,East Campus,true,Graduated,Rupiah
+478,Natalina,Kearns,25,nkearnsd9@pen.io,Computer Science,9/14/2021,3/4/2027,3.89,Natalina Kearns,10,East Campus,true,Withdrawn,Euro
+479,Suki,Pickervance,30,spickervanceda@hao123.com,Biology,11/6/2022,3/12/2026,1.09,Suki Pickervance,1,East Campus,false,Active,Rupiah
+480,Josh,Alder,26,jalderdb@paginegialle.it,History,2/27/2022,12/2/2027,3.13,Josh Alder,4,Main Campus,true,Graduated,Euro
+481,Muhammad,Robers,20,mrobersdc@last.fm,History,1/17/2021,1/20/2027,1.58,Muhammad Robers,7,East Campus,false,Graduated,Rupee
+482,Katherine,Yablsley,30,kyablsleydd@blinklist.com,Biology,3/1/2022,3/26/2025,1.58,Katherine Yablsley,20,East Campus,false,Active,Yuan Renminbi
+483,Mignon,Bener,20,mbenerde@npr.org,Biology,11/9/2021,2/1/2024,1.53,Mignon Bener,0,Main Campus,true,Graduated,Zloty
+484,Ludovika,Paramore,30,lparamoredf@baidu.com,Computer Science,10/21/2022,4/7/2027,0.38,Ludovika Paramore,2,West Campus,true,On Leave,Taka
+485,Vernice,Meeus,19,vmeeusdg@geocities.com,Psychology,4/26/2020,9/8/2027,3.45,Vernice Meeus,4,West Campus,false,On Leave,Peso
+486,Derrek,Blondin,19,dblondindh@hud.gov,Psychology,10/6/2023,8/7/2026,3.48,Derrek Blondin,1,East Campus,true,Active,Yuan Renminbi
+487,Webster,Jurewicz,20,wjurewiczdi@ftc.gov,Computer Science,10/10/2022,5/21/2025,2.58,Webster Jurewicz,18,Main Campus,true,Graduated,Dollar
+488,Paco,Nend,23,pnenddj@spiegel.de,Psychology,1/15/2023,11/23/2025,0.51,Paco Nend,9,Main Campus,false,Graduated,Naira
+489,Leanna,Scullard,19,lscullarddk@europa.eu,Psychology,9/17/2020,11/16/2025,2.07,Leanna Scullard,14,East Campus,false,Withdrawn,Sol
+490,Matthaeus,Burless,25,mburlessdl@pagesperso-orange.fr,Psychology,4/17/2022,11/22/2026,0.67,Matthaeus Burless,7,West Campus,true,Graduated,Yuan Renminbi
+491,Giorgi,Sessions,23,gsessionsdm@naver.com,Computer Science,4/3/2021,10/25/2024,3.31,Giorgi Sessions,6,Main Campus,false,Withdrawn,Peso
+492,Costanza,Silkstone,27,csilkstonedn@acquirethisname.com,History,5/18/2022,8/20/2024,3.52,Costanza Silkstone,14,East Campus,true,Active,Yuan Renminbi
+493,Suzanne,Pierri,21,spierrido@php.net,History,2/19/2020,12/24/2025,0.63,Suzanne Pierri,10,East Campus,false,Graduated,Hryvnia
+494,Bone,Sommer,22,bsommerdp@google.nl,Biology,5/11/2020,3/4/2025,3.02,Bone Sommer,8,West Campus,false,On Leave,Rupiah
+495,Cornie,Barneville,19,cbarnevilledq@harvard.edu,Biology,5/31/2020,4/29/2024,3.57,Cornie Barneville,12,West Campus,false,Withdrawn,Peso
+496,Silvia,Magrannell,23,smagrannelldr@spiegel.de,Computer Science,6/6/2022,4/16/2027,0.94,Silvia Magrannell,18,East Campus,false,Withdrawn,Yen
+497,Frannie,Meach,27,fmeachds@comsenz.com,History,3/24/2022,2/4/2026,0.93,Frannie Meach,16,West Campus,true,Graduated,Krona
+498,Gray,Hazelden,23,ghazeldendt@wiley.com,Biology,1/8/2023,7/29/2025,0.46,Gray Hazelden,10,East Campus,false,Withdrawn,Dollar
+499,Winne,Kliner,20,wklinerdu@google.com.au,History,2/18/2022,1/19/2027,3.83,Winne Kliner,0,Main Campus,false,Graduated,Peso
+500,Gilberta,Cullon,29,gcullondv@vistaprint.com,Biology,12/14/2020,10/22/2026,1.34,Gilberta Cullon,14,Main Campus,false,Withdrawn,Real
+501,Conroy,Pimlock,20,cpimlockdw@amazon.de,Biology,10/11/2022,1/31/2025,1.16,Conroy Pimlock,0,West Campus,false,Withdrawn,Won
+502,Georgine,Loveitt,18,gloveittdx@ovh.net,Computer Science,5/31/2021,5/11/2024,2.71,Georgine Loveitt,2,Main Campus,true,On Leave,Krone
+503,Fulton,Camacho,21,fcamachody@slashdot.org,Psychology,1/3/2023,1/14/2026,0.8,Fulton Camacho,5,West Campus,false,Withdrawn,Rupiah
+504,Corrinne,Campany,29,ccampanydz@free.fr,Biology,10/19/2022,10/16/2026,3.82,Corrinne Campany,1,East Campus,true,On Leave,Bolivar
+505,Dian,O'Geneay,24,dogeneaye0@360.cn,Biology,6/12/2022,10/7/2027,3.28,Dian O'Geneay,8,Main Campus,true,Graduated,Taka
+506,Ben,Clutheram,29,bclutherame1@chicagotribune.com,Biology,1/20/2020,3/22/2024,1.11,Ben Clutheram,8,West Campus,false,Active,Yuan Renminbi
+507,Fanni,Fortnam,25,ffortname2@issuu.com,Computer Science,10/13/2020,11/2/2027,2.13,Fanni Fortnam,0,West Campus,true,Withdrawn,Sol
+508,Boone,Ailward,22,bailwarde3@google.ru,Psychology,11/1/2022,6/30/2025,0.07,Boone Ailward,17,West Campus,false,Withdrawn,Euro
+509,Hedvig,Ruddick,30,hruddicke4@salon.com,History,9/20/2021,6/11/2024,3.74,Hedvig Ruddick,3,West Campus,true,Active,Peso
+510,Tabby,Cogzell,18,tcogzelle5@shareasale.com,Computer Science,6/7/2020,6/7/2025,0.14,Tabby Cogzell,11,West Campus,true,Withdrawn,Rupiah
+511,Perrine,Mattheeuw,27,pmattheeuwe6@e-recht24.de,Computer Science,8/6/2022,3/22/2026,1.92,Perrine Mattheeuw,3,Main Campus,true,Active,Rupiah
+512,Angil,Lovemore,20,alovemoree7@mac.com,Biology,5/4/2022,10/12/2026,1.79,Angil Lovemore,1,West Campus,true,Active,Peso
+513,Amandy,Blaszkiewicz,18,ablaszkiewicze8@oakley.com,History,6/27/2022,10/19/2026,3.6,Amandy Blaszkiewicz,7,East Campus,true,Graduated,Yuan Renminbi
+514,Nehemiah,Slyford,22,nslyforde9@macromedia.com,Biology,3/3/2020,8/8/2025,0.59,Nehemiah Slyford,14,Main Campus,true,Active,Yuan Renminbi
+515,Prescott,Flintoft,18,pflintoftea@usda.gov,Psychology,4/8/2022,8/16/2024,0.14,Prescott Flintoft,7,East Campus,true,Graduated,Yuan Renminbi
+516,Guillemette,Overill,26,goverilleb@addtoany.com,History,3/22/2022,6/18/2027,2.94,Guillemette Overill,8,East Campus,true,Active,Peso
+517,Valerye,Tuberfield,26,vtuberfieldec@dedecms.com,Computer Science,3/1/2020,11/27/2026,2.54,Valerye Tuberfield,0,West Campus,false,Active,Rupiah
+518,Jenna,Roxby,21,jroxbyed@ycombinator.com,Computer Science,3/2/2023,6/14/2027,1.85,Jenna Roxby,2,East Campus,false,Active,Kuna
+519,Noble,Mifflin,26,nmifflinee@smugmug.com,Biology,10/4/2021,3/18/2027,0.28,Noble Mifflin,6,Main Campus,false,On Leave,Koruna
+520,Richmound,Boyn,20,rboynef@joomla.org,Biology,6/20/2022,1/14/2027,2.33,Richmound Boyn,19,East Campus,false,Graduated,Yuan Renminbi
+521,Bella,Blainey,24,bblaineyeg@paypal.com,History,8/9/2023,1/20/2027,3.87,Bella Blainey,9,West Campus,true,Graduated,Peso
+522,Waylin,Faulconer,21,wfaulconereh@tmall.com,History,1/21/2023,6/5/2024,2.81,Waylin Faulconer,0,East Campus,false,Graduated,Euro
+523,Rebeca,Duncombe,26,rduncombeei@plala.or.jp,Computer Science,12/24/2020,7/7/2024,0.09,Rebeca Duncombe,2,Main Campus,false,Graduated,Litas
+524,Sigismond,Di Batista,30,sdiej@nsw.gov.au,Biology,12/27/2020,1/5/2024,3.34,Sigismond Di Batista,3,Main Campus,false,Withdrawn,Yuan Renminbi
+525,Lenci,Salmond,19,lsalmondek@wikispaces.com,Biology,3/12/2020,8/7/2026,1.24,Lenci Salmond,4,Main Campus,true,On Leave,Rupiah
+526,Iolande,Bearham,22,ibearhamel@technorati.com,History,4/10/2022,4/7/2024,1.23,Iolande Bearham,2,East Campus,false,Withdrawn,Guilder
+527,Brinna,McGlashan,24,bmcglashanem@theatlantic.com,Computer Science,6/16/2021,4/4/2024,0.59,Brinna McGlashan,8,West Campus,false,On Leave,Rupiah
+528,Eliza,Matuszak,26,ematuszaken@wikia.com,History,8/26/2021,8/3/2026,3.89,Eliza Matuszak,11,West Campus,false,On Leave,Dollar
+529,Rhodia,Stickford,30,rstickfordeo@dell.com,History,4/12/2020,4/11/2026,3.0,Rhodia Stickford,5,West Campus,false,Withdrawn,Rupee
+530,Aloin,Gurdon,21,agurdonep@netlog.com,Biology,2/14/2020,1/4/2024,2.25,Aloin Gurdon,20,East Campus,true,Graduated,Euro
+531,Andros,Grivori,26,agrivorieq@ucla.edu,History,8/11/2022,1/31/2024,1.04,Andros Grivori,15,Main Campus,true,Graduated,Ruble
+532,Chicky,Timbs,22,ctimbser@wsj.com,History,11/13/2023,12/29/2026,1.89,Chicky Timbs,17,West Campus,true,Active,Dong
+533,Elli,Trayton,25,etraytones@lulu.com,History,6/3/2021,5/25/2024,2.55,Elli Trayton,15,Main Campus,false,Withdrawn,Sol
+534,Adolphus,Brandom,26,abrandomet@wunderground.com,Biology,9/15/2022,10/23/2026,3.57,Adolphus Brandom,19,Main Campus,false,Active,Euro
+535,Merola,Jeffery,26,mjefferyeu@surveymonkey.com,History,3/19/2022,3/27/2026,3.75,Merola Jeffery,5,East Campus,false,Active,Rupee
+536,Nikkie,Tolomelli,28,ntolomelliev@google.com.br,Computer Science,10/7/2020,11/14/2024,0.29,Nikkie Tolomelli,18,Main Campus,true,Withdrawn,Ringgit
+537,Delora,Chopping,18,dchoppingew@google.com.br,History,2/18/2022,12/6/2024,2.61,Delora Chopping,19,West Campus,false,Graduated,Yuan Renminbi
+538,Donaugh,Lawlee,28,dlawleeex@smh.com.au,Psychology,5/8/2020,1/24/2027,3.45,Donaugh Lawlee,17,East Campus,true,Graduated,Yuan Renminbi
+539,Briano,Bordman,29,bbordmaney@issuu.com,Psychology,5/20/2022,7/11/2024,3.16,Briano Bordman,1,East Campus,false,On Leave,Yuan Renminbi
+540,Amelie,Kneaphsey,22,akneaphseyez@php.net,Psychology,12/10/2021,7/5/2025,1.12,Amelie Kneaphsey,2,West Campus,false,Withdrawn,Peso
+541,Stormi,Helian,23,shelianf0@php.net,Biology,5/10/2022,4/29/2027,2.07,Stormi Helian,11,Main Campus,false,Active,Naira
+542,Jaine,Hughs,26,jhughsf1@mtv.com,History,2/9/2021,6/21/2024,1.48,Jaine Hughs,17,West Campus,true,Withdrawn,Peso
+543,Ethelda,Yanson,22,eyansonf2@whitehouse.gov,History,10/17/2020,1/27/2024,0.3,Ethelda Yanson,18,Main Campus,true,Withdrawn,Yen
+544,Francine,Fateley,20,ffateleyf3@google.nl,Computer Science,11/14/2022,9/2/2025,2.85,Francine Fateley,0,East Campus,true,Graduated,Euro
+545,Nikki,Roylance,23,nroylancef4@ameblo.jp,History,4/7/2020,9/27/2024,1.89,Nikki Roylance,11,Main Campus,false,Withdrawn,Peso
+546,Elinor,Bottrill,20,ebottrillf5@skype.com,Biology,9/4/2023,1/30/2025,0.42,Elinor Bottrill,11,East Campus,false,On Leave,Krona
+547,Hillie,Darlow,27,hdarlowf6@prnewswire.com,Computer Science,1/3/2022,4/16/2027,3.16,Hillie Darlow,12,Main Campus,false,On Leave,Rupiah
+548,Reta,Simons,29,rsimonsf7@cnbc.com,Biology,9/12/2022,7/30/2024,2.16,Reta Simons,19,West Campus,true,Graduated,Peso
+549,Orella,Atte-Stone,24,oattestonef8@spiegel.de,Psychology,1/1/2022,2/21/2025,2.71,Orella Atte-Stone,5,West Campus,false,On Leave,Yuan Renminbi
+550,Paxon,Beardow,22,pbeardowf9@constantcontact.com,Psychology,5/15/2020,12/22/2027,2.48,Paxon Beardow,11,East Campus,false,Active,Lev
+551,Biddie,Albin,25,balbinfa@comsenz.com,Computer Science,9/23/2023,6/24/2027,2.66,Biddie Albin,8,East Campus,false,Active,Euro
+552,Gustavo,Hodcroft,23,ghodcroftfb@disqus.com,Psychology,12/14/2021,7/12/2025,2.28,Gustavo Hodcroft,1,West Campus,false,Graduated,Yen
+553,Opal,Banfill,23,obanfillfc@irs.gov,Biology,1/26/2022,3/8/2024,0.48,Opal Banfill,11,East Campus,true,Withdrawn,Taka
+554,Cori,Felmingham,21,cfelminghamfd@weebly.com,History,8/19/2021,6/25/2025,3.45,Cori Felmingham,14,Main Campus,true,On Leave,Euro
+555,Maure,Dyet,30,mdyetfe@storify.com,History,5/1/2020,5/23/2024,2.72,Maure Dyet,2,East Campus,false,On Leave,Euro
+556,Vilma,Burnand,21,vburnandff@economist.com,Computer Science,9/17/2021,3/7/2025,3.67,Vilma Burnand,5,West Campus,true,Active,Euro
+557,Anallese,Barosch,22,abaroschfg@ftc.gov,History,8/21/2022,12/30/2025,1.65,Anallese Barosch,0,West Campus,true,Active,Kyat
+558,Debi,Bridell,18,dbridellfh@shinystat.com,Psychology,10/31/2022,2/3/2026,0.7,Debi Bridell,18,Main Campus,false,On Leave,Krona
+559,Starla,Cardwell,30,scardwellfi@taobao.com,Computer Science,4/14/2021,1/9/2027,3.78,Starla Cardwell,18,East Campus,true,On Leave,Dollar
+560,Alyosha,Sarfass,20,asarfassfj@quantcast.com,Computer Science,10/2/2022,9/20/2025,3.42,Alyosha Sarfass,5,Main Campus,true,Graduated,Real
+561,Ethelind,Clowes,30,eclowesfk@webnode.com,History,12/7/2021,7/9/2024,1.7,Ethelind Clowes,2,Main Campus,true,Active,Peso
+562,Ulrich,Kubiczek,27,ukubiczekfl@posterous.com,Biology,11/2/2023,10/16/2024,1.5,Ulrich Kubiczek,2,West Campus,false,Withdrawn,Dong
+563,Hedda,Giannazzo,27,hgiannazzofm@parallels.com,Psychology,3/28/2020,9/8/2024,1.3,Hedda Giannazzo,0,East Campus,false,Active,Yuan Renminbi
+564,Tybie,Desvignes,18,tdesvignesfn@joomla.org,Biology,7/16/2021,12/14/2027,2.13,Tybie Desvignes,7,Main Campus,false,On Leave,Rupiah
+565,Mikol,McDougall,23,mmcdougallfo@hibu.com,Psychology,5/11/2023,5/2/2024,1.75,Mikol McDougall,16,Main Campus,true,Withdrawn,Yen
+566,Stephi,Dockree,30,sdockreefp@wikimedia.org,Computer Science,8/22/2020,5/23/2025,3.92,Stephi Dockree,7,West Campus,true,Graduated,Colon
+567,Ewen,Wicher,18,ewicherfq@vinaora.com,Psychology,5/25/2020,1/12/2024,0.66,Ewen Wicher,12,Main Campus,true,Withdrawn,Peso
+568,Freedman,Standidge,19,fstandidgefr@hubpages.com,Computer Science,4/3/2020,11/18/2026,3.16,Freedman Standidge,4,East Campus,true,Withdrawn,Rupiah
+569,Kevan,Schoenleiter,22,kschoenleiterfs@umich.edu,Biology,8/18/2023,2/10/2025,3.34,Kevan Schoenleiter,1,West Campus,true,On Leave,Dollar
+570,Chas,Sadler,21,csadlerft@aboutads.info,History,2/6/2023,9/4/2027,3.76,Chas Sadler,9,Main Campus,false,Graduated,Euro
+571,Obidiah,Wiffler,29,owifflerfu@livejournal.com,Psychology,10/3/2021,3/19/2027,0.08,Obidiah Wiffler,15,West Campus,false,Active,Baht
+572,Jobie,Laughren,18,jlaughrenfv@studiopress.com,Computer Science,12/15/2022,1/30/2027,2.02,Jobie Laughren,0,East Campus,true,Graduated,Euro
+573,Thomas,Plaxton,19,tplaxtonfw@oakley.com,History,4/17/2022,12/17/2027,2.31,Thomas Plaxton,1,East Campus,false,Active,Koruna
+574,Jacobo,Harburtson,26,jharburtsonfx@epa.gov,History,12/21/2023,11/19/2026,3.55,Jacobo Harburtson,2,East Campus,false,Withdrawn,Tenge
+575,Garv,Wychard,19,gwychardfy@360.cn,History,9/14/2023,1/3/2026,3.43,Garv Wychard,6,Main Campus,false,Active,Yuan Renminbi
+576,Ariel,Ellcome,19,aellcomefz@dailymotion.com,Psychology,1/30/2020,12/13/2026,3.25,Ariel Ellcome,0,Main Campus,false,Graduated,Franc
+577,Beale,McKeurton,18,bmckeurtong0@miibeian.gov.cn,Biology,12/29/2022,11/3/2025,0.58,Beale McKeurton,8,Main Campus,false,Withdrawn,Yuan Renminbi
+578,Helaina,Reddington,28,hreddingtong1@studiopress.com,Psychology,1/8/2023,1/22/2026,0.22,Helaina Reddington,19,Main Campus,false,Graduated,Yuan Renminbi
+579,Dewitt,Milne,25,dmilneg2@marriott.com,Computer Science,5/9/2021,6/3/2027,0.45,Dewitt Milne,15,Main Campus,false,Active,Yuan Renminbi
+580,Margaretta,Vanderplas,25,mvanderplasg3@whitehouse.gov,Psychology,7/7/2022,8/17/2024,0.48,Margaretta Vanderplas,13,Main Campus,false,Withdrawn,Lempira
+581,Nadeen,Jobson,22,njobsong4@people.com.cn,Computer Science,5/13/2023,7/19/2026,3.37,Nadeen Jobson,15,West Campus,false,Active,Tenge
+582,Amalia,Accomb,22,aaccombg5@oakley.com,Biology,4/17/2022,5/20/2024,3.73,Amalia Accomb,4,West Campus,false,Withdrawn,Yuan Renminbi
+583,Vladimir,MacCarter,26,vmaccarterg6@intel.com,Biology,3/5/2023,6/14/2025,0.08,Vladimir MacCarter,2,Main Campus,true,Active,Yuan Renminbi
+584,Calypso,Mitchelson,27,cmitchelsong7@prnewswire.com,History,7/28/2022,11/19/2024,1.65,Calypso Mitchelson,18,West Campus,false,Withdrawn,Peso
+585,Goldi,Ivanyushin,28,givanyushing8@google.co.uk,Computer Science,5/30/2021,12/30/2025,0.37,Goldi Ivanyushin,5,West Campus,true,Active,Peso
+586,Norris,Fray,19,nfrayg9@aboutads.info,Biology,2/29/2020,11/24/2026,3.8,Norris Fray,2,West Campus,false,On Leave,Euro
+587,Adora,De Lorenzo,22,adega@boston.com,Computer Science,10/25/2023,5/11/2024,0.76,Adora De Lorenzo,13,Main Campus,false,On Leave,Ruble
+588,Akim,Bewlie,27,abewliegb@ning.com,Psychology,1/8/2022,2/3/2027,0.05,Akim Bewlie,12,Main Campus,false,Active,Zloty
+589,Madelene,Mulvenna,19,mmulvennagc@state.gov,Psychology,5/16/2021,4/1/2024,2.58,Madelene Mulvenna,2,West Campus,true,On Leave,Euro
+590,Mordy,Farmery,18,mfarmerygd@opera.com,Psychology,7/23/2023,4/3/2025,3.13,Mordy Farmery,2,Main Campus,false,On Leave,Rupiah
+591,Harland,Cardenoso,20,hcardenosoge@php.net,Psychology,2/24/2020,11/16/2027,2.91,Harland Cardenoso,0,East Campus,true,Graduated,Zloty
+592,Quintina,MacIlriach,19,qmacilriachgf@digg.com,Biology,11/16/2021,3/25/2024,1.28,Quintina MacIlriach,9,Main Campus,true,Withdrawn,Ruble
+593,Chan,Hovenden,26,chovendengg@nps.gov,History,11/20/2022,4/13/2025,2.81,Chan Hovenden,10,East Campus,false,Withdrawn,Dollar
+594,Clotilda,Brownjohn,29,cbrownjohngh@google.it,Computer Science,7/14/2020,6/10/2026,0.3,Clotilda Brownjohn,19,West Campus,true,Graduated,Manat
+595,Karl,Chilver,18,kchilvergi@pbs.org,Computer Science,11/14/2023,6/26/2024,2.81,Karl Chilver,18,West Campus,false,On Leave,Yuan Renminbi
+596,Griffie,Crisall,30,gcrisallgj@qq.com,Computer Science,2/27/2020,8/8/2025,2.57,Griffie Crisall,15,East Campus,false,Withdrawn,Yuan Renminbi
+597,Rossie,Molyneux,19,rmolyneuxgk@miitbeian.gov.cn,History,10/9/2023,6/11/2024,1.92,Rossie Molyneux,5,West Campus,false,Active,Real
+598,Anne-corinne,Ditchett,18,aditchettgl@businesswire.com,Psychology,11/24/2023,8/30/2027,0.93,Anne-corinne Ditchett,13,Main Campus,true,Graduated,Franc
+599,Ethyl,Gummery,19,egummerygm@cornell.edu,Biology,3/15/2021,8/22/2026,2.47,Ethyl Gummery,16,East Campus,true,Graduated,Franc
+600,Obidiah,Illingsworth,18,oillingsworthgn@ask.com,Psychology,10/30/2020,1/5/2024,2.6,Obidiah Illingsworth,1,West Campus,false,On Leave,Kuna
+601,Melvin,Cheake,21,mcheakego@baidu.com,History,9/15/2021,2/1/2024,3.92,Melvin Cheake,13,East Campus,true,Active,Leone
+602,Caria,Budge,18,cbudgegp@phpbb.com,History,9/4/2022,6/3/2027,0.66,Caria Budge,1,East Campus,false,Graduated,Rupiah
+603,Carleton,Dundendale,24,cdundendalegq@hexun.com,Computer Science,2/15/2022,11/15/2024,2.22,Carleton Dundendale,5,Main Campus,false,Active,Ruble
+604,Sharyl,Okroy,23,sokroygr@ovh.net,Computer Science,7/9/2023,8/6/2024,0.6,Sharyl Okroy,6,Main Campus,true,Active,Zloty
+605,Quent,Jakoub,23,qjakoubgs@theatlantic.com,History,2/27/2022,1/12/2027,0.11,Quent Jakoub,2,Main Campus,false,On Leave,Peso
+606,Claybourne,Moyle,30,cmoylegt@gizmodo.com,Computer Science,4/15/2020,3/13/2024,2.29,Claybourne Moyle,15,West Campus,false,Withdrawn,Euro
+607,Celie,Akehurst,26,cakehurstgu@hhs.gov,Psychology,10/27/2021,7/4/2026,0.77,Celie Akehurst,0,West Campus,true,Active,Hryvnia
+608,Hashim,Leighton,27,hleightongv@irs.gov,Psychology,8/12/2023,6/11/2027,1.9,Hashim Leighton,16,West Campus,true,Withdrawn,Real
+609,Johnny,Birkenhead,26,jbirkenheadgw@ft.com,Psychology,8/21/2022,11/19/2027,2.82,Johnny Birkenhead,19,Main Campus,false,Active,Yuan Renminbi
+610,Rubin,Goodrum,22,rgoodrumgx@bluehost.com,Computer Science,12/4/2022,9/7/2026,1.25,Rubin Goodrum,15,East Campus,false,Withdrawn,Dram
+611,Manolo,Jacklings,20,mjacklingsgy@nbcnews.com,Psychology,2/12/2020,10/29/2024,2.32,Manolo Jacklings,5,Main Campus,false,Active,Krona
+612,Celesta,Ayerst,23,cayerstgz@arizona.edu,Computer Science,3/12/2023,4/25/2027,1.34,Celesta Ayerst,1,West Campus,true,Withdrawn,Yuan Renminbi
+613,Tiertza,Triplow,28,ttriplowh0@themeforest.net,Computer Science,8/11/2023,12/29/2025,2.79,Tiertza Triplow,1,East Campus,true,Graduated,Rupiah
+614,Bevin,Deer,29,bdeerh1@reddit.com,Biology,10/20/2023,2/4/2025,1.83,Bevin Deer,7,East Campus,true,On Leave,Peso
+615,Elsbeth,Schimank,27,eschimankh2@indiatimes.com,Biology,6/12/2022,9/2/2026,2.22,Elsbeth Schimank,0,West Campus,true,Graduated,Yuan Renminbi
+616,Mike,Duchart,27,mducharth3@cnbc.com,Biology,5/1/2023,4/13/2024,1.83,Mike Duchart,16,West Campus,false,On Leave,Rupiah
+617,Blancha,Stainton,26,bstaintonh4@mit.edu,Psychology,7/2/2020,8/27/2025,0.88,Blancha Stainton,13,Main Campus,true,Withdrawn,Euro
+618,Link,Stonham,21,lstonhamh5@skyrock.com,History,8/28/2020,3/14/2026,0.79,Link Stonham,14,Main Campus,false,Active,Baht
+619,Edwin,Dyer,19,edyerh6@timesonline.co.uk,Biology,11/12/2021,6/17/2026,3.55,Edwin Dyer,13,Main Campus,false,Active,Yuan Renminbi
+620,Cyndi,Sumnall,18,csumnallh7@wunderground.com,History,10/12/2020,1/31/2024,0.15,Cyndi Sumnall,6,East Campus,false,Withdrawn,Peso
+621,Sigismundo,Dallison,19,sdallisonh8@army.mil,Psychology,10/16/2022,3/9/2024,0.37,Sigismundo Dallison,2,West Campus,false,Graduated,Yuan Renminbi
+622,Lewiss,Stickells,29,lstickellsh9@goo.ne.jp,Psychology,8/1/2020,2/14/2026,1.29,Lewiss Stickells,10,East Campus,true,Withdrawn,Yuan Renminbi
+623,Brinna,Yashanov,18,byashanovha@ftc.gov,Psychology,12/17/2023,3/25/2026,3.23,Brinna Yashanov,20,West Campus,false,Graduated,Peso
+624,Edin,Jurs,20,ejurshb@youtu.be,Biology,8/5/2020,4/26/2025,2.06,Edin Jurs,12,West Campus,false,Active,Rupiah
+625,Catarina,Lamzed,18,clamzedhc@mediafire.com,History,12/8/2020,4/27/2025,2.88,Catarina Lamzed,0,Main Campus,true,Active,Peso
+626,Natalina,Brammar,28,nbrammarhd@epa.gov,Psychology,6/13/2023,6/15/2026,2.21,Natalina Brammar,19,West Campus,false,On Leave,Rupiah
+627,Dulci,Dicey,22,ddiceyhe@surveymonkey.com,Computer Science,2/4/2020,2/18/2027,1.64,Dulci Dicey,6,East Campus,false,On Leave,Rial
+628,Galina,Kestian,19,gkestianhf@dedecms.com,Computer Science,1/3/2020,9/16/2024,3.37,Galina Kestian,18,East Campus,true,Graduated,Euro
+629,Orlan,Tanman,30,otanmanhg@nih.gov,History,2/22/2020,3/11/2025,3.89,Orlan Tanman,3,West Campus,false,Graduated,Yuan Renminbi
+630,Winni,Jewel,24,wjewelhh@nydailynews.com,Computer Science,3/17/2020,3/31/2024,1.16,Winni Jewel,19,East Campus,true,Graduated,Yuan Renminbi
+631,Roxine,Ineson,26,rinesonhi@telegraph.co.uk,Psychology,10/30/2021,11/14/2024,3.06,Roxine Ineson,15,East Campus,true,Withdrawn,Yuan Renminbi
+632,Uri,Legerwood,20,ulegerwoodhj@bbb.org,Biology,8/14/2022,6/14/2026,0.71,Uri Legerwood,5,West Campus,true,Graduated,Zloty
+633,Cointon,Hayer,27,chayerhk@salon.com,Biology,3/6/2020,11/19/2026,2.01,Cointon Hayer,15,East Campus,false,Active,Krone
+634,Randy,Wandless,22,rwandlesshl@skyrock.com,Psychology,9/13/2022,8/20/2026,1.27,Randy Wandless,20,Main Campus,true,Withdrawn,Real
+635,Tamiko,Mawson,23,tmawsonhm@unesco.org,Psychology,3/17/2020,3/15/2024,1.38,Tamiko Mawson,11,West Campus,true,Active,Peso
+636,Jarid,Kirwood,23,jkirwoodhn@sun.com,Biology,2/12/2020,7/3/2026,1.78,Jarid Kirwood,11,West Campus,true,Graduated,Rupiah
+637,Chrystal,Cavie,30,ccavieho@statcounter.com,History,7/12/2023,11/7/2026,3.52,Chrystal Cavie,8,West Campus,true,On Leave,Ruble
+638,Genevieve,Cuardall,23,gcuardallhp@wiley.com,Computer Science,11/5/2023,11/13/2024,1.7,Genevieve Cuardall,14,West Campus,false,Withdrawn,Peso
+639,Wolfy,Kensley,26,wkensleyhq@cpanel.net,History,7/21/2021,12/26/2024,3.79,Wolfy Kensley,6,West Campus,false,Active,Rupiah
+640,Cindelyn,Hundall,21,chundallhr@deviantart.com,Psychology,2/12/2020,5/21/2024,0.17,Cindelyn Hundall,20,Main Campus,true,Active,Euro
+641,Silvie,Birtchnell,23,sbirtchnellhs@independent.co.uk,Computer Science,12/1/2021,6/7/2026,2.76,Silvie Birtchnell,13,East Campus,false,Active,Peso
+642,Cleon,Waby,24,cwabyht@microsoft.com,Biology,8/7/2022,5/23/2027,1.12,Cleon Waby,1,East Campus,false,Graduated,Tenge
+643,Christiane,Elstone,21,celstonehu@pagesperso-orange.fr,Biology,7/7/2020,2/15/2024,2.3,Christiane Elstone,18,East Campus,true,Graduated,Yen
+644,Lek,Heintsch,22,lheintschhv@acquirethisname.com,Computer Science,5/25/2020,5/3/2027,3.22,Lek Heintsch,14,West Campus,false,Active,Rupiah
+645,Selia,Pere,27,sperehw@nhs.uk,Computer Science,10/31/2022,4/15/2025,3.68,Selia Pere,17,West Campus,false,Active,Dinar
+646,Cord,Leask,29,cleaskhx@abc.net.au,History,1/10/2023,4/18/2027,0.58,Cord Leask,11,Main Campus,true,Withdrawn,Yuan Renminbi
+647,Gusty,Behnecken,30,gbehneckenhy@bigcartel.com,History,12/8/2021,1/24/2025,3.18,Gusty Behnecken,1,Main Campus,true,On Leave,Ruble
+648,Illa,Peyto,18,ipeytohz@rambler.ru,Computer Science,7/29/2023,7/12/2024,0.77,Illa Peyto,10,West Campus,true,Withdrawn,Yuan Renminbi
+649,Channa,Murdy,24,cmurdyi0@yahoo.com,History,11/17/2021,6/14/2026,2.05,Channa Murdy,17,West Campus,true,Active,Yuan Renminbi
+650,Jermaine,Normant,20,jnormanti1@wordpress.org,Biology,11/15/2020,7/17/2027,0.71,Jermaine Normant,5,West Campus,false,Graduated,Won
+651,Norbert,Muff,29,nmuffi2@telegraph.co.uk,Psychology,10/4/2022,9/29/2024,1.39,Norbert Muff,18,West Campus,true,On Leave,Dollar
+652,Kaylil,Broadwell,30,kbroadwelli3@indiatimes.com,Computer Science,6/14/2023,2/28/2027,1.16,Kaylil Broadwell,20,West Campus,false,Graduated,Rupiah
+653,Anestassia,Killock,29,akillocki4@woothemes.com,Biology,8/23/2021,3/21/2024,2.81,Anestassia Killock,1,West Campus,false,On Leave,Yuan Renminbi
+654,Gerianne,Lindbergh,25,glindberghi5@toplist.cz,Computer Science,2/20/2020,10/7/2027,2.13,Gerianne Lindbergh,3,Main Campus,true,Withdrawn,Euro
+655,Olwen,Brimman,29,obrimmani6@google.com.br,Biology,11/14/2023,4/20/2026,1.46,Olwen Brimman,3,West Campus,false,Withdrawn,Taka
+656,Johnette,Prandoni,30,jprandonii7@bravesites.com,Biology,4/15/2023,8/2/2024,2.06,Johnette Prandoni,18,East Campus,true,Withdrawn,Euro
+657,Malva,Dulinty,30,mdulintyi8@ow.ly,Computer Science,2/12/2021,5/28/2026,0.47,Malva Dulinty,9,Main Campus,false,Graduated,Peso
+658,Janina,Antonomolii,18,jantonomoliii9@uol.com.br,History,4/12/2020,12/21/2025,3.8,Janina Antonomolii,16,East Campus,false,On Leave,Yuan Renminbi
+659,Sidnee,Decourcy,18,sdecourcyia@tripod.com,Biology,8/2/2023,11/1/2026,1.86,Sidnee Decourcy,17,West Campus,true,Withdrawn,Rupiah
+660,Pegeen,Dries,18,pdriesib@answers.com,History,2/16/2023,2/28/2025,1.5,Pegeen Dries,16,Main Campus,true,Active,Ruble
+661,Shepperd,Greave,27,sgreaveic@sohu.com,Psychology,6/10/2022,2/14/2025,2.39,Shepperd Greave,14,West Campus,true,Active,Shilling
+662,Ruby,Vagges,27,rvaggesid@altervista.org,Psychology,3/31/2021,10/16/2025,3.26,Ruby Vagges,14,Main Campus,true,Active,Yen
+663,Kyle,Stallworth,28,kstallworthie@jugem.jp,Biology,7/4/2021,12/5/2027,0.09,Kyle Stallworth,15,Main Campus,false,Withdrawn,Pound
+664,Gamaliel,Streader,19,gstreaderif@icio.us,Biology,12/21/2022,7/12/2027,0.83,Gamaliel Streader,4,West Campus,false,Withdrawn,Yuan Renminbi
+665,Alexander,Cranage,30,acranageig@smh.com.au,Computer Science,3/4/2021,5/28/2026,1.95,Alexander Cranage,20,Main Campus,false,Withdrawn,Euro
+666,Shandy,Basini-Gazzi,30,sbasinigazziih@nationalgeographic.com,Computer Science,5/23/2020,4/27/2027,0.65,Shandy Basini-Gazzi,9,East Campus,false,Active,Yuan Renminbi
+667,Raina,Glassup,20,rglassupii@4shared.com,Psychology,10/20/2023,9/5/2026,0.85,Raina Glassup,19,West Campus,true,Graduated,Peso
+668,Maurise,Carabine,20,mcarabineij@devhub.com,Psychology,2/24/2020,1/29/2024,2.03,Maurise Carabine,19,Main Campus,true,On Leave,Rupiah
+669,Dina,Littlechild,19,dlittlechildik@1und1.de,Computer Science,12/2/2022,8/9/2025,1.88,Dina Littlechild,11,Main Campus,false,Withdrawn,Dong
+670,Monro,Gourdon,23,mgourdonil@delicious.com,Computer Science,7/24/2022,5/17/2027,0.29,Monro Gourdon,1,Main Campus,false,On Leave,Rupiah
+671,Xylina,Graddon,29,xgraddonim@uiuc.edu,Biology,3/23/2022,4/9/2027,0.07,Xylina Graddon,6,Main Campus,true,Active,Yuan Renminbi
+672,Walt,Sorton,26,wsortonin@vinaora.com,Biology,3/24/2022,7/24/2026,3.57,Walt Sorton,3,East Campus,true,On Leave,Baht
+673,Bryon,Phelipeaux,23,bphelipeauxio@epa.gov,Psychology,11/25/2023,9/14/2026,0.17,Bryon Phelipeaux,6,Main Campus,true,Active,Rupiah
+674,Roddy,Rawlinson,29,rrawlinsonip@smh.com.au,History,4/28/2020,12/30/2027,3.96,Roddy Rawlinson,1,West Campus,true,Withdrawn,Peso
+675,Ilyse,Krauze,22,ikrauzeiq@jugem.jp,Biology,3/18/2023,9/17/2027,2.62,Ilyse Krauze,4,East Campus,false,Graduated,Rupiah
+676,Reese,Stacy,24,rstacyir@berkeley.edu,Psychology,4/25/2022,2/19/2025,0.81,Reese Stacy,1,West Campus,false,Withdrawn,Real
+677,Mag,Thurlbeck,19,mthurlbeckis@ihg.com,Biology,8/26/2021,12/6/2024,0.65,Mag Thurlbeck,19,West Campus,false,Graduated,Dollar
+678,Heindrick,Hills,20,hhillsit@theatlantic.com,Psychology,3/2/2020,3/22/2027,3.95,Heindrick Hills,1,East Campus,true,Withdrawn,Ruble
+679,Barbe,Kerbey,23,bkerbeyiu@washington.edu,Biology,3/15/2022,2/21/2025,1.33,Barbe Kerbey,10,West Campus,true,Withdrawn,Peso
+680,Tillie,Leynton,25,tleyntoniv@arizona.edu,Psychology,6/21/2020,12/4/2025,3.0,Tillie Leynton,16,West Campus,true,Active,Dollar
+681,Betteann,Conti,20,bcontiiw@cnet.com,Computer Science,7/16/2022,5/20/2024,3.48,Betteann Conti,12,West Campus,true,Graduated,Euro
+682,Fanni,Caiger,18,fcaigerix@vkontakte.ru,Biology,8/25/2020,1/3/2024,2.29,Fanni Caiger,2,East Campus,false,Withdrawn,Ruble
+683,Krisha,Eitter,18,keitteriy@vimeo.com,Psychology,9/20/2023,6/8/2026,1.2,Krisha Eitter,10,West Campus,false,Active,Yuan Renminbi
+684,Marlie,Monck,27,mmonckiz@quantcast.com,Biology,1/6/2021,11/11/2026,2.6,Marlie Monck,15,East Campus,true,Active,Ariary
+685,Marylee,Hawkswood,18,mhawkswoodj0@last.fm,Psychology,12/16/2022,1/12/2026,0.87,Marylee Hawkswood,17,Main Campus,true,Graduated,Peso
+686,Brenna,Hauxwell,20,bhauxwellj1@usgs.gov,Computer Science,4/22/2020,5/23/2024,3.77,Brenna Hauxwell,19,Main Campus,false,On Leave,Yuan Renminbi
+687,Sammie,Balling,20,sballingj2@csmonitor.com,Psychology,3/5/2021,3/7/2024,0.04,Sammie Balling,19,Main Campus,true,Withdrawn,Koruna
+688,Addy,Dunridge,23,adunridgej3@fastcompany.com,Biology,3/29/2021,5/7/2025,3.11,Addy Dunridge,0,Main Campus,true,Graduated,Rupiah
+689,Marquita,Cawkwell,23,mcawkwellj4@1und1.de,History,9/17/2021,11/12/2027,3.22,Marquita Cawkwell,1,East Campus,false,Withdrawn,Euro
+690,Haze,Ames,20,hamesj5@arizona.edu,Computer Science,2/2/2020,9/19/2025,1.27,Haze Ames,3,East Campus,true,Graduated,Ruble
+691,Erminie,Tankus,25,etankusj6@mail.ru,Biology,3/9/2020,3/3/2024,0.26,Erminie Tankus,2,West Campus,true,Graduated,Ruble
+692,Sammy,Reily,18,sreilyj7@marriott.com,Biology,8/12/2023,5/29/2024,2.58,Sammy Reily,9,Main Campus,true,Active,Euro
+693,Helga,Calladine,27,hcalladinej8@4shared.com,Biology,7/26/2022,3/20/2027,3.72,Helga Calladine,5,East Campus,false,On Leave,Dollar
+694,Madelon,Davion,21,mdavionj9@technorati.com,Biology,12/14/2022,3/5/2027,2.7,Madelon Davion,9,Main Campus,true,Graduated,Franc
+695,Thelma,Grimble,24,tgrimbleja@admin.ch,Computer Science,8/26/2023,10/19/2026,1.03,Thelma Grimble,16,Main Campus,true,Graduated,Koruna
+696,Trstram,Holston,20,tholstonjb@mail.ru,Computer Science,12/10/2020,7/31/2025,1.02,Trstram Holston,4,East Campus,true,Withdrawn,Afghani
+697,Sanson,Tidgewell,25,stidgewelljc@parallels.com,History,3/1/2022,10/20/2026,2.56,Sanson Tidgewell,4,Main Campus,true,Graduated,Rupiah
+698,Reuben,Hardwicke,21,rhardwickejd@github.io,History,5/27/2023,1/16/2026,2.93,Reuben Hardwicke,19,Main Campus,true,Withdrawn,Yuan Renminbi
+699,Claudette,Hartop,29,chartopje@gizmodo.com,Computer Science,12/5/2022,3/27/2026,1.16,Claudette Hartop,9,West Campus,false,Active,Rupiah
+700,Ramsay,Kopisch,22,rkopischjf@blinklist.com,Biology,5/10/2022,6/1/2027,3.84,Ramsay Kopisch,3,West Campus,false,On Leave,Krone
+701,Buck,Kulas,19,bkulasjg@friendfeed.com,Computer Science,5/2/2021,8/18/2027,3.85,Buck Kulas,16,Main Campus,true,Graduated,Ruble
+702,Clarita,Jellicorse,20,cjellicorsejh@apple.com,Biology,8/19/2021,6/18/2024,1.93,Clarita Jellicorse,9,East Campus,true,Graduated,Rupee
+703,Jolee,Legrave,18,jlegraveji@shop-pro.jp,Psychology,4/28/2023,6/23/2026,2.53,Jolee Legrave,14,Main Campus,true,Graduated,Birr
+704,Amandie,Brosio,20,abrosiojj@smh.com.au,History,2/8/2020,5/19/2025,3.68,Amandie Brosio,9,West Campus,false,Active,Rupiah
+705,Munmro,Blackaby,19,mblackabyjk@loc.gov,History,9/22/2022,10/28/2027,0.65,Munmro Blackaby,19,East Campus,false,Withdrawn,Dram
+706,Robbert,Treasure,23,rtreasurejl@pen.io,Computer Science,1/10/2020,11/14/2025,3.19,Robbert Treasure,3,Main Campus,false,Withdrawn,Yuan Renminbi
+707,Denni,Tersay,24,dtersayjm@biglobe.ne.jp,History,6/8/2020,2/20/2027,3.96,Denni Tersay,10,West Campus,false,On Leave,Baht
+708,Karil,Ondrich,27,kondrichjn@altervista.org,History,9/5/2022,10/30/2025,2.32,Karil Ondrich,5,West Campus,false,Withdrawn,Koruna
+709,Lotty,Stampfer,21,lstampferjo@ihg.com,History,8/23/2020,7/28/2025,1.2,Lotty Stampfer,14,Main Campus,false,Graduated,Dollar
+710,Agnes,Bazylets,28,abazyletsjp@dropbox.com,History,2/6/2022,10/14/2026,1.25,Agnes Bazylets,0,Main Campus,true,On Leave,Euro
+711,Shandeigh,Guido,22,sguidojq@lycos.com,History,1/5/2022,7/1/2027,0.81,Shandeigh Guido,4,West Campus,true,Graduated,Yuan Renminbi
+712,Lorelei,Pinnock,21,lpinnockjr@loc.gov,Psychology,9/3/2021,4/14/2026,1.22,Lorelei Pinnock,18,Main Campus,true,On Leave,Euro
+713,Hadley,Routh,28,hrouthjs@fda.gov,Computer Science,9/4/2022,5/24/2026,2.43,Hadley Routh,17,Main Campus,false,On Leave,Rupiah
+714,Shannon,MacIan,25,smacianjt@nps.gov,Psychology,8/23/2020,11/24/2026,2.35,Shannon MacIan,18,East Campus,false,Graduated,Peso
+715,Perle,O'Riordan,25,poriordanju@cbc.ca,Psychology,2/7/2023,7/28/2026,2.58,Perle O'Riordan,18,West Campus,true,Active,Rupiah
+716,Welch,Cowe,24,wcowejv@edublogs.org,Psychology,7/15/2022,3/10/2026,0.49,Welch Cowe,7,West Campus,true,Active,Yuan Renminbi
+717,Kermie,Clutram,19,kclutramjw@example.com,Computer Science,2/14/2021,1/28/2026,0.28,Kermie Clutram,13,West Campus,false,Withdrawn,Yuan Renminbi
+718,Giles,Duer,25,gduerjx@discovery.com,Biology,7/17/2020,11/5/2026,0.84,Giles Duer,19,Main Campus,true,Withdrawn,Rupiah
+719,Gawain,Leatt,18,gleattjy@oaic.gov.au,Biology,10/8/2023,2/4/2025,1.12,Gawain Leatt,17,Main Campus,true,Withdrawn,Dong
+720,Joan,Bahlmann,27,jbahlmannjz@msu.edu,Computer Science,11/12/2021,1/5/2024,0.1,Joan Bahlmann,19,East Campus,true,Active,Euro
+721,Barbee,Bartholomew,19,bbartholomewk0@springer.com,History,2/18/2023,4/26/2024,0.23,Barbee Bartholomew,13,Main Campus,false,Graduated,Yuan Renminbi
+722,Matthieu,Ollet,19,molletk1@scribd.com,Psychology,8/31/2023,3/9/2026,0.28,Matthieu Ollet,12,Main Campus,true,On Leave,Krona
+723,Ethelred,Eakin,25,eeakink2@woothemes.com,Psychology,8/6/2022,10/13/2027,3.07,Ethelred Eakin,13,West Campus,false,Withdrawn,Dinar
+724,Clim,Ransley,19,cransleyk3@hp.com,History,9/8/2022,2/26/2025,0.63,Clim Ransley,14,West Campus,true,Withdrawn,Dram
+725,Giselbert,Brittan,23,gbrittank4@yellowbook.com,Psychology,5/15/2022,6/25/2025,1.72,Giselbert Brittan,3,West Campus,true,Graduated,Yen
+726,Jens,Atterley,29,jatterleyk5@vimeo.com,Psychology,8/19/2020,1/29/2025,0.4,Jens Atterley,10,Main Campus,false,Graduated,Real
+727,Joachim,Cowcha,22,jcowchak6@dion.ne.jp,Computer Science,7/6/2023,3/15/2026,0.79,Joachim Cowcha,15,Main Campus,true,Active,Real
+728,Fleur,Shapiro,27,fshapirok7@pcworld.com,Computer Science,7/25/2022,2/17/2025,3.04,Fleur Shapiro,5,West Campus,false,Graduated,Euro
+729,Rancell,Gowrich,25,rgowrichk8@wordpress.org,History,12/11/2022,9/7/2026,1.57,Rancell Gowrich,16,East Campus,false,Active,Peso
+730,Emelda,Heel,21,eheelk9@spiegel.de,Computer Science,2/23/2022,4/9/2025,1.7,Emelda Heel,19,Main Campus,false,On Leave,Naira
+731,Ramsay,Baignard,22,rbaignardka@fema.gov,Computer Science,8/18/2022,1/1/2026,2.8,Ramsay Baignard,3,Main Campus,true,Graduated,Euro
+732,Haleigh,Weild,30,hweildkb@nature.com,Computer Science,5/24/2022,4/25/2024,2.35,Haleigh Weild,5,Main Campus,true,Graduated,Ruble
+733,Sayer,Skerritt,20,sskerrittkc@cbc.ca,Psychology,3/9/2023,8/19/2027,3.93,Sayer Skerritt,3,Main Campus,true,Active,Ariary
+734,Zerk,Brecknock,18,zbrecknockkd@reverbnation.com,Psychology,7/24/2020,10/28/2027,0.83,Zerk Brecknock,13,Main Campus,false,Graduated,Peso
+735,Sheba,Swannie,23,sswannieke@friendfeed.com,Psychology,1/10/2023,5/16/2025,2.45,Sheba Swannie,5,West Campus,true,Graduated,Ruble
+736,Binny,Ackery,25,backerykf@reuters.com,History,7/28/2023,4/8/2025,2.9,Binny Ackery,15,East Campus,true,On Leave,Peso
+737,Amabelle,Leyland,19,aleylandkg@ask.com,Biology,2/13/2020,7/28/2024,3.33,Amabelle Leyland,6,East Campus,true,On Leave,Yuan Renminbi
+738,Claribel,Bremen,26,cbremenkh@over-blog.com,Biology,7/5/2020,6/25/2024,2.79,Claribel Bremen,2,Main Campus,true,On Leave,Yuan Renminbi
+739,Myer,Boorne,19,mboorneki@instagram.com,Biology,9/7/2020,2/22/2026,2.84,Myer Boorne,15,Main Campus,false,Active,Peso
+740,Ernestine,Ick,28,eickkj@scribd.com,Computer Science,3/16/2022,9/3/2027,0.27,Ernestine Ick,2,West Campus,true,Withdrawn,Somoni
+741,Stormi,Cush,21,scushkk@bravesites.com,Psychology,8/9/2023,2/10/2025,3.24,Stormi Cush,18,Main Campus,true,On Leave,Peso
+742,Howey,Drew-Clifton,23,hdrewcliftonkl@tamu.edu,Psychology,8/13/2020,3/14/2024,1.0,Howey Drew-Clifton,11,East Campus,false,Graduated,Real
+743,Jaimie,Coling,30,jcolingkm@51.la,History,9/24/2021,2/23/2027,1.73,Jaimie Coling,11,East Campus,true,Withdrawn,Taka
+744,Uri,Stanislaw,18,ustanislawkn@bloglines.com,Biology,7/31/2020,5/17/2027,3.94,Uri Stanislaw,17,Main Campus,true,On Leave,Dong
+745,Margit,Ringe,23,mringeko@discuz.net,Biology,2/2/2023,2/9/2026,3.77,Margit Ringe,16,East Campus,true,Withdrawn,Koruna
+746,Noami,Kuscha,30,nkuschakp@parallels.com,Computer Science,3/9/2020,10/9/2024,0.76,Noami Kuscha,2,West Campus,true,Graduated,Euro
+747,Leena,Bartosinski,19,lbartosinskikq@about.me,Psychology,12/6/2023,3/30/2027,2.8,Leena Bartosinski,8,Main Campus,true,On Leave,Yuan Renminbi
+748,Cinda,Nettle,24,cnettlekr@webs.com,Biology,12/30/2020,1/23/2026,0.92,Cinda Nettle,0,Main Campus,false,Graduated,Yen
+749,Merl,Bruckstein,26,mbrucksteinks@omniture.com,Computer Science,11/15/2020,9/30/2026,0.5,Merl Bruckstein,8,Main Campus,true,Withdrawn,Peso
+750,Garland,Corday,18,gcordaykt@nationalgeographic.com,Biology,11/9/2021,1/6/2024,0.03,Garland Corday,17,Main Campus,false,Withdrawn,Euro
+751,Mauricio,Fermoy,24,mfermoyku@icq.com,History,10/18/2020,10/24/2024,2.69,Mauricio Fermoy,9,West Campus,false,Active,Lek
+752,Alfons,Stagg,22,astaggkv@ucoz.ru,History,5/19/2023,9/3/2025,0.54,Alfons Stagg,20,East Campus,true,Graduated,Euro
+753,Edward,Kornas,23,ekornaskw@arizona.edu,Computer Science,7/12/2022,1/28/2026,2.81,Edward Kornas,8,West Campus,true,On Leave,Yuan Renminbi
+754,Vinny,Banbrick,20,vbanbrickkx@about.com,Computer Science,4/21/2020,6/10/2025,0.39,Vinny Banbrick,12,East Campus,false,On Leave,Franc
+755,Issiah,Pocknell,28,ipocknellky@icio.us,Biology,1/22/2023,12/22/2026,1.97,Issiah Pocknell,4,West Campus,false,Withdrawn,Lev
+756,Christyna,Crippen,25,ccrippenkz@ezinearticles.com,Biology,9/5/2020,3/25/2025,1.97,Christyna Crippen,15,East Campus,false,Graduated,Rupee
+757,Anatollo,Vanichkin,21,avanichkinl0@biglobe.ne.jp,Psychology,12/19/2022,8/29/2027,1.98,Anatollo Vanichkin,6,Main Campus,false,On Leave,Euro
+758,Merilyn,Meindl,23,mmeindll1@scribd.com,Biology,10/15/2021,5/22/2024,2.07,Merilyn Meindl,4,East Campus,true,Withdrawn,Krona
+759,Hersh,Straker,21,hstrakerl2@huffingtonpost.com,Biology,3/1/2023,3/15/2025,1.17,Hersh Straker,2,West Campus,true,Active,Euro
+760,Marlee,Basey,18,mbaseyl3@tumblr.com,Computer Science,10/1/2021,11/26/2027,2.99,Marlee Basey,2,East Campus,true,Active,Yuan Renminbi
+761,Brien,Cropper,22,bcropperl4@vinaora.com,Computer Science,4/14/2022,1/28/2024,0.5,Brien Cropper,2,West Campus,true,Withdrawn,Euro
+762,Bernie,Heinl,29,bheinll5@livejournal.com,Computer Science,6/28/2020,5/4/2025,0.59,Bernie Heinl,12,West Campus,false,Active,Dollar
+763,Rodolphe,Guiduzzi,25,rguiduzzil6@nature.com,History,8/20/2021,12/18/2024,1.17,Rodolphe Guiduzzi,17,East Campus,false,Withdrawn,Ruble
+764,Debera,Begley,27,dbegleyl7@cloudflare.com,Psychology,12/14/2023,4/22/2027,2.6,Debera Begley,6,Main Campus,false,On Leave,Shekel
+765,Marylin,Churches,21,mchurchesl8@apache.org,Psychology,4/17/2021,2/21/2027,1.24,Marylin Churches,10,West Campus,true,Graduated,Euro
+766,Jasmin,Lestrange,22,jlestrangel9@1und1.de,Computer Science,6/13/2020,12/27/2026,0.11,Jasmin Lestrange,6,West Campus,true,Graduated,Zloty
+767,Bryant,Gaddesby,20,bgaddesbyla@paginegialle.it,Psychology,1/21/2021,5/18/2024,2.53,Bryant Gaddesby,16,Main Campus,false,Withdrawn,Dollar
+768,Edsel,Josland,25,ejoslandlb@globo.com,Biology,12/24/2022,5/26/2026,3.37,Edsel Josland,1,Main Campus,false,Active,Krona
+769,Chance,Toseland,20,ctoselandlc@phpbb.com,Psychology,12/2/2023,1/14/2025,2.2,Chance Toseland,0,Main Campus,true,Graduated,Dollar
+770,Babb,Rowsell,23,browsellld@scientificamerican.com,Computer Science,5/19/2021,1/1/2027,3.78,Babb Rowsell,10,West Campus,true,Withdrawn,Peso
+771,Prue,Hourstan,20,phourstanle@altervista.org,History,10/19/2020,8/5/2024,2.55,Prue Hourstan,13,West Campus,true,Graduated,Euro
+772,Germain,Petford,23,gpetfordlf@tumblr.com,Psychology,5/26/2023,11/5/2027,2.03,Germain Petford,3,West Campus,true,Active,Peso
+773,Antoine,Molloy,26,amolloylg@nbcnews.com,History,12/9/2022,8/4/2024,0.11,Antoine Molloy,12,Main Campus,false,Graduated,Rupiah
+774,Claybourne,Friett,20,cfriettlh@redcross.org,History,8/28/2022,11/23/2026,1.03,Claybourne Friett,18,West Campus,false,Active,Rupiah
+775,Gerhard,L' Estrange,28,glli@ucsd.edu,Biology,7/3/2022,11/16/2027,2.55,Gerhard L' Estrange,17,East Campus,false,Withdrawn,Dong
+776,Christi,Giacomini,18,cgiacominilj@topsy.com,Computer Science,9/19/2022,4/8/2025,1.09,Christi Giacomini,20,West Campus,true,Graduated,Lempira
+777,Conan,Hefforde,27,cheffordelk@dagondesign.com,Psychology,6/5/2020,6/9/2026,0.75,Conan Hefforde,3,West Campus,true,On Leave,Yuan Renminbi
+778,Pauly,Queste,30,pquestell@i2i.jp,Computer Science,7/6/2021,2/27/2025,3.68,Pauly Queste,10,East Campus,false,Withdrawn,Lev
+779,Christie,Capes,23,ccapeslm@unesco.org,Biology,8/30/2021,5/7/2024,3.12,Christie Capes,17,Main Campus,true,Withdrawn,Dollar
+780,Gwen,Gumme,30,ggummeln@gmpg.org,Computer Science,5/11/2020,3/22/2024,2.94,Gwen Gumme,2,West Campus,true,On Leave,Peso
+781,Murial,Drakes,27,mdrakeslo@t.co,Psychology,12/13/2022,12/21/2027,1.73,Murial Drakes,7,West Campus,true,Withdrawn,Zloty
+782,Lian,Dargavel,21,ldargavellp@uiuc.edu,History,8/26/2023,6/23/2025,2.55,Lian Dargavel,12,West Campus,true,Withdrawn,Yuan Renminbi
+783,Lisa,Neicho,29,lneicholq@columbia.edu,Biology,10/3/2022,1/19/2027,2.74,Lisa Neicho,4,West Campus,true,On Leave,Yuan Renminbi
+784,Brig,Kennagh,20,bkennaghlr@51.la,Psychology,2/6/2023,11/5/2026,1.73,Brig Kennagh,6,East Campus,true,Withdrawn,Franc
+785,Phil,Jacmar,20,pjacmarls@over-blog.com,History,12/29/2022,10/29/2027,3.15,Phil Jacmar,11,East Campus,true,Graduated,Krone
+786,Ottilie,Bilbrey,19,obilbreylt@hhs.gov,History,2/5/2021,8/22/2026,1.94,Ottilie Bilbrey,6,West Campus,false,Graduated,Koruna
+787,Eduino,Blincko,30,eblinckolu@salon.com,Computer Science,11/23/2020,6/22/2026,1.37,Eduino Blincko,9,East Campus,true,Withdrawn,Yuan Renminbi
+788,Reyna,Moffat,22,rmoffatlv@flickr.com,Psychology,11/12/2021,7/21/2026,3.58,Reyna Moffat,5,West Campus,false,Active,Pound
+789,Olva,Hunnawill,30,ohunnawilllw@blogger.com,Psychology,9/10/2023,10/28/2024,1.68,Olva Hunnawill,6,West Campus,false,Graduated,Franc
+790,Guglielma,Barnard,30,gbarnardlx@yellowpages.com,Biology,2/3/2022,7/18/2024,1.74,Guglielma Barnard,9,East Campus,false,Active,Dollar
+791,Tomi,Aucoate,30,taucoately@goodreads.com,History,2/12/2021,2/4/2025,1.75,Tomi Aucoate,10,East Campus,false,Active,Krona
+792,Leesa,Burlay,22,lburlaylz@imgur.com,Computer Science,5/24/2022,1/27/2027,1.14,Leesa Burlay,2,Main Campus,true,Active,Koruna
+793,Harper,De Beauchamp,30,hdem0@joomla.org,Computer Science,4/26/2021,12/17/2027,3.49,Harper De Beauchamp,12,East Campus,true,On Leave,Koruna
+794,Luciano,Bounds,19,lboundsm1@slashdot.org,History,11/3/2021,4/4/2024,1.23,Luciano Bounds,7,Main Campus,false,Active,Ruble
+795,Carlen,Iannuzzi,26,ciannuzzim2@ft.com,Biology,4/18/2020,11/2/2026,3.4,Carlen Iannuzzi,7,Main Campus,true,Withdrawn,Zloty
+796,Datha,Ickov,26,dickovm3@washington.edu,Computer Science,9/20/2023,1/23/2024,2.08,Datha Ickov,20,East Campus,true,Graduated,Yuan Renminbi
+797,Georgi,Rapin,20,grapinm4@si.edu,Biology,7/21/2020,10/27/2027,1.8,Georgi Rapin,9,West Campus,true,Graduated,Dirham
+798,Hubert,Orpen,21,horpenm5@freewebs.com,Biology,12/21/2020,7/17/2027,0.42,Hubert Orpen,19,East Campus,true,Withdrawn,Rupiah
+799,Ange,Frigout,24,afrigoutm6@hostgator.com,Biology,6/16/2023,2/3/2024,3.5,Ange Frigout,5,Main Campus,false,On Leave,Yuan Renminbi
+800,Amalea,Tanner,27,atannerm7@merriam-webster.com,Computer Science,1/14/2020,8/8/2026,3.32,Amalea Tanner,7,East Campus,true,On Leave,Dollar
+801,Buddie,Lead,21,bleadm8@hud.gov,History,6/21/2023,5/26/2025,0.26,Buddie Lead,19,East Campus,false,Withdrawn,Euro
+802,Flynn,Horsewood,30,fhorsewoodm9@irs.gov,Biology,2/12/2023,7/17/2027,1.22,Flynn Horsewood,12,East Campus,true,On Leave,Ruble
+803,Aleksandr,Leckie,24,aleckiema@webeden.co.uk,Psychology,12/10/2022,8/8/2025,3.59,Aleksandr Leckie,14,Main Campus,false,Active,Yen
+804,Peggie,Belden,30,pbeldenmb@soup.io,Computer Science,9/30/2022,11/30/2025,1.79,Peggie Belden,13,West Campus,false,Withdrawn,Naira
+805,Tove,Rostern,20,trosternmc@zimbio.com,Biology,2/10/2021,6/23/2026,1.41,Tove Rostern,11,East Campus,true,Graduated,Ruble
+806,Breena,Croneen,28,bcroneenmd@washington.edu,Biology,5/26/2021,9/3/2025,3.16,Breena Croneen,18,East Campus,false,Withdrawn,Euro
+807,Carla,Dumbleton,30,cdumbletonme@amazon.co.uk,Psychology,7/7/2021,11/24/2026,0.82,Carla Dumbleton,5,East Campus,true,Active,Krona
+808,Logan,Maso,28,lmasomf@photobucket.com,Biology,6/16/2022,2/15/2027,2.24,Logan Maso,2,East Campus,true,On Leave,Rupiah
+809,Maisey,Rennolds,19,mrennoldsmg@google.ca,Computer Science,12/31/2020,3/27/2025,2.19,Maisey Rennolds,20,Main Campus,false,Withdrawn,Euro
+810,Liliane,Bartoszewicz,22,lbartoszewiczmh@amazon.co.uk,Computer Science,9/8/2020,6/26/2027,1.98,Liliane Bartoszewicz,16,East Campus,false,On Leave,Yuan Renminbi
+811,Arman,Sitch,24,asitchmi@google.com,Computer Science,1/19/2020,8/6/2024,0.6,Arman Sitch,15,East Campus,false,Graduated,Yuan Renminbi
+812,Cleopatra,Valdes,28,cvaldesmj@washingtonpost.com,History,12/13/2023,12/15/2025,3.77,Cleopatra Valdes,14,East Campus,false,On Leave,Euro
+813,Byrle,Giacopini,28,bgiacopinimk@amazon.co.uk,Computer Science,10/24/2020,10/2/2024,2.4,Byrle Giacopini,20,West Campus,false,Active,Rupiah
+814,Lauri,Petzold,23,lpetzoldml@drupal.org,Biology,9/25/2022,1/29/2025,2.67,Lauri Petzold,16,East Campus,true,Graduated,Yuan Renminbi
+815,Doyle,Douris,29,ddourismm@admin.ch,Computer Science,6/16/2023,7/9/2027,2.48,Doyle Douris,15,Main Campus,false,On Leave,Euro
+816,Didi,Albon,29,dalbonmn@google.ru,Biology,1/26/2023,5/29/2027,2.36,Didi Albon,10,West Campus,true,Graduated,Peso
+817,Cheri,Nosworthy,18,cnosworthymo@clickbank.net,Biology,5/22/2021,8/3/2026,1.65,Cheri Nosworthy,7,Main Campus,true,Graduated,Yuan Renminbi
+818,Millie,Scranny,18,mscrannymp@ning.com,Computer Science,8/17/2021,12/18/2024,0.35,Millie Scranny,17,East Campus,true,Withdrawn,Yuan Renminbi
+819,Verena,Buesnel,29,vbuesnelmq@washingtonpost.com,Biology,12/21/2020,12/3/2027,2.74,Verena Buesnel,11,East Campus,false,On Leave,Yuan Renminbi
+820,Britney,Losty,21,blostymr@wsj.com,Psychology,6/10/2020,1/14/2024,0.25,Britney Losty,8,East Campus,false,Graduated,Rupiah
+821,Pablo,Parrot,25,pparrotms@admin.ch,Psychology,1/22/2022,4/25/2025,2.93,Pablo Parrot,15,East Campus,false,Graduated,Peso
+822,Deena,Yewman,30,dyewmanmt@ftc.gov,History,10/2/2021,3/8/2027,3.51,Deena Yewman,18,West Campus,false,Withdrawn,Peso
+823,Marthena,Jarley,29,mjarleymu@china.com.cn,Computer Science,12/23/2023,4/1/2026,1.91,Marthena Jarley,17,East Campus,true,Active,Yuan Renminbi
+824,Monah,Ferreiro,26,mferreiromv@princeton.edu,Computer Science,10/15/2022,1/3/2024,2.02,Monah Ferreiro,10,East Campus,false,On Leave,Real
+825,Zebulen,Keddy,25,zkeddymw@discuz.net,History,1/7/2023,12/30/2027,1.57,Zebulen Keddy,18,West Campus,true,Withdrawn,Peso
+826,Zelig,Matisoff,23,zmatisoffmx@lulu.com,Psychology,11/13/2020,8/14/2024,1.42,Zelig Matisoff,7,West Campus,true,Active,Lek
+827,Jessee,Grancher,19,jgranchermy@feedburner.com,Computer Science,6/26/2020,7/28/2024,1.9,Jessee Grancher,20,East Campus,false,Graduated,Rupiah
+828,Stace,Darlington,23,sdarlingtonmz@google.pl,History,11/19/2021,9/1/2027,2.66,Stace Darlington,3,West Campus,false,On Leave,Rupiah
+829,Caritta,Barok,29,cbarokn0@blogs.com,History,8/23/2022,4/15/2027,2.55,Caritta Barok,2,West Campus,true,Graduated,Ruble
+830,Zahara,Cowpertwait,30,zcowpertwaitn1@meetup.com,Computer Science,4/14/2021,6/3/2025,2.67,Zahara Cowpertwait,5,Main Campus,false,Withdrawn,Won
+831,Corbin,Pownall,27,cpownalln2@ca.gov,Psychology,4/25/2023,1/27/2024,2.58,Corbin Pownall,3,Main Campus,false,On Leave,Euro
+832,Kevan,Minthorpe,18,kminthorpen3@google.it,Psychology,3/9/2022,11/23/2024,1.25,Kevan Minthorpe,8,East Campus,true,On Leave,Yuan Renminbi
+833,Amble,Paute,20,apauten4@ameblo.jp,Computer Science,10/13/2022,9/15/2024,2.05,Amble Paute,0,East Campus,true,Graduated,Euro
+834,Elianora,Rolling,30,erollingn5@ustream.tv,Psychology,5/27/2022,9/30/2024,1.59,Elianora Rolling,1,East Campus,false,Active,Pound
+835,Caprice,Struthers,30,cstruthersn6@liveinternet.ru,Computer Science,5/3/2020,2/22/2026,1.53,Caprice Struthers,20,West Campus,false,On Leave,Zloty
+836,Tiphany,Tong,29,ttongn7@google.co.uk,History,12/11/2020,9/18/2026,0.53,Tiphany Tong,3,East Campus,true,Active,Hryvnia
+837,Aurelia,Farmer,22,afarmern8@whitehouse.gov,Computer Science,8/28/2023,5/5/2025,3.06,Aurelia Farmer,9,East Campus,false,On Leave,Leu
+838,Brendon,Paolo,25,bpaolon9@yellowbook.com,Biology,6/22/2021,3/4/2027,0.58,Brendon Paolo,17,West Campus,false,Withdrawn,Ruble
+839,Hurley,Nairy,21,hnairyna@ucoz.ru,Psychology,6/5/2021,3/30/2027,2.52,Hurley Nairy,8,Main Campus,false,Active,Rupiah
+840,Marys,Addicote,24,maddicotenb@scientificamerican.com,Computer Science,3/25/2021,3/1/2026,1.28,Marys Addicote,17,West Campus,false,Graduated,Dollar
+841,Maybelle,Tapper,28,mtappernc@zimbio.com,History,4/12/2020,6/4/2026,3.63,Maybelle Tapper,11,Main Campus,false,Active,Yuan Renminbi
+842,Ceciley,Ioan,21,cioannd@nyu.edu,Biology,6/6/2020,7/22/2024,1.12,Ceciley Ioan,12,East Campus,true,On Leave,Dollar
+843,Pail,Card,21,pcardne@sfgate.com,Psychology,5/7/2023,2/23/2024,1.62,Pail Card,1,Main Campus,true,Withdrawn,Rand
+844,Abie,McAlpine,26,amcalpinenf@nasa.gov,History,11/11/2020,2/16/2025,2.18,Abie McAlpine,1,Main Campus,false,Withdrawn,Taka
+845,Dennison,Cicerone,22,dciceroneng@about.me,Biology,4/2/2020,10/31/2024,1.84,Dennison Cicerone,5,West Campus,true,Graduated,Rupee
+846,Corbin,Marc,30,cmarcnh@issuu.com,Computer Science,1/7/2021,3/25/2026,1.5,Corbin Marc,17,Main Campus,false,Withdrawn,Euro
+847,Westbrooke,Corradini,20,wcorradinini@virginia.edu,History,11/22/2021,2/3/2027,0.91,Westbrooke Corradini,16,Main Campus,false,Withdrawn,Rupiah
+848,Meade,Woolveridge,20,mwoolveridgenj@is.gd,History,4/1/2023,7/9/2026,0.66,Meade Woolveridge,15,East Campus,true,Withdrawn,Som
+849,Michel,Warlawe,27,mwarlawenk@theatlantic.com,Psychology,6/8/2023,9/11/2024,1.87,Michel Warlawe,5,Main Campus,true,Withdrawn,Dinar
+850,Curcio,Canniffe,25,ccanniffenl@reference.com,History,7/27/2022,6/5/2026,0.15,Curcio Canniffe,14,East Campus,true,Active,Krona
+851,Claiborne,Philipsohn,25,cphilipsohnnm@altervista.org,History,2/22/2020,10/4/2024,1.09,Claiborne Philipsohn,10,Main Campus,false,Withdrawn,Yuan Renminbi
+852,Jonis,Duval,29,jduvalnn@meetup.com,Psychology,3/8/2022,5/10/2025,2.52,Jonis Duval,5,West Campus,false,Graduated,Rupiah
+853,Brent,Faley,27,bfaleyno@friendfeed.com,Biology,12/8/2022,5/17/2025,0.14,Brent Faley,16,West Campus,false,Active,Dinar
+854,Gerry,Guerin,29,gguerinnp@dion.ne.jp,Computer Science,12/20/2023,1/11/2026,3.85,Gerry Guerin,19,West Campus,true,On Leave,Lev
+855,Dagny,Skerme,25,dskermenq@blogger.com,History,11/17/2021,3/8/2025,2.1,Dagny Skerme,10,West Campus,false,On Leave,Real
+856,Nalani,Choppen,20,nchoppennr@census.gov,Psychology,10/27/2023,6/24/2025,1.85,Nalani Choppen,16,Main Campus,true,Active,Rupiah
+857,Larine,Grube,26,lgrubens@mozilla.org,Computer Science,11/25/2022,2/12/2027,3.27,Larine Grube,2,West Campus,false,On Leave,Rupiah
+858,Stacy,Fenney,27,sfenneynt@pbs.org,Biology,11/6/2020,8/10/2024,1.8,Stacy Fenney,16,West Campus,true,Active,Zloty
+859,Archer,Bearcock,19,abearcocknu@vk.com,Computer Science,12/12/2023,7/29/2026,0.85,Archer Bearcock,12,Main Campus,true,Graduated,Peso
+860,Cherin,Wolvey,22,cwolveynv@angelfire.com,Computer Science,11/5/2023,7/13/2027,1.84,Cherin Wolvey,12,Main Campus,false,Withdrawn,Peso
+861,Nathaniel,Benech,30,nbenechnw@plala.or.jp,Psychology,9/16/2022,7/11/2024,2.21,Nathaniel Benech,20,Main Campus,true,Graduated,Dinar
+862,Eddie,Martynikhin,26,emartynikhinnx@yahoo.co.jp,History,12/8/2020,6/20/2026,2.29,Eddie Martynikhin,8,West Campus,false,On Leave,Rupiah
+863,Indira,Wheeldon,28,iwheeldonny@163.com,Computer Science,12/29/2022,6/28/2026,0.23,Indira Wheeldon,18,East Campus,false,Active,Yuan Renminbi
+864,Alva,Perham,30,aperhamnz@fc2.com,Biology,2/8/2023,5/10/2027,0.15,Alva Perham,1,Main Campus,true,On Leave,Dong
+865,Alix,Josebury,30,ajoseburyo0@list-manage.com,Computer Science,6/13/2020,10/28/2024,0.73,Alix Josebury,11,Main Campus,false,Active,Peso
+866,Elyse,Gothard,30,egothardo1@bluehost.com,Computer Science,1/7/2023,3/23/2025,1.3,Elyse Gothard,0,Main Campus,false,Active,Zloty
+867,Don,Wittey,19,dwitteyo2@google.pl,History,6/21/2021,11/9/2026,3.35,Don Wittey,15,East Campus,true,On Leave,Zloty
+868,Annalise,Filipychev,22,afilipychevo3@multiply.com,Biology,3/17/2023,9/29/2026,2.27,Annalise Filipychev,8,East Campus,true,Graduated,Baht
+869,Hamilton,Dood,19,hdoodo4@hugedomains.com,Biology,4/14/2022,11/1/2024,3.43,Hamilton Dood,15,East Campus,false,On Leave,Quetzal
+870,Angelico,Potes,19,apoteso5@t.co,Computer Science,1/16/2020,3/5/2026,0.71,Angelico Potes,13,East Campus,false,Graduated,Peso
+871,Maryrose,Humm,24,mhummo6@google.co.jp,Computer Science,9/6/2022,8/18/2024,0.24,Maryrose Humm,17,East Campus,true,On Leave,Sol
+872,Ludvig,Gemmill,24,lgemmillo7@acquirethisname.com,Computer Science,12/4/2020,4/14/2025,0.99,Ludvig Gemmill,17,Main Campus,false,Graduated,Ruble
+873,Rey,Crothers,19,rcrotherso8@wikia.com,Psychology,10/25/2021,12/27/2024,2.28,Rey Crothers,16,Main Campus,true,Withdrawn,Koruna
+874,Chickie,McGrady,25,cmcgradyo9@ifeng.com,Biology,5/21/2023,12/9/2024,2.3,Chickie McGrady,3,West Campus,false,Graduated,Rupiah
+875,Rainer,Isakovitch,23,risakovitchoa@ehow.com,Computer Science,11/28/2020,9/23/2025,3.15,Rainer Isakovitch,1,West Campus,false,On Leave,Krone
+876,Ivette,Clitsome,26,iclitsomeob@g.co,History,5/17/2021,7/18/2024,2.77,Ivette Clitsome,10,East Campus,false,Withdrawn,Rupiah
+877,Alberik,Kindleside,23,akindlesideoc@studiopress.com,Psychology,5/15/2020,4/28/2026,0.95,Alberik Kindleside,2,East Campus,false,Graduated,Real
+878,Pete,Simester,27,psimesterod@imgur.com,History,11/12/2021,2/7/2027,0.28,Pete Simester,13,East Campus,false,Graduated,Rupiah
+879,Glenna,Gaisford,23,ggaisfordoe@qq.com,Computer Science,4/12/2022,12/26/2027,2.19,Glenna Gaisford,15,West Campus,true,Graduated,Ruble
+880,Dieter,Mottershead,26,dmottersheadof@smh.com.au,Computer Science,9/2/2023,11/18/2026,3.81,Dieter Mottershead,7,Main Campus,false,On Leave,Rupee
+881,Ardis,Pawelek,21,apawelekog@seattletimes.com,Biology,8/2/2023,9/15/2027,3.16,Ardis Pawelek,6,Main Campus,true,Graduated,Peso
+882,Celisse,Ivons,27,civonsoh@parallels.com,Psychology,1/17/2022,3/11/2024,0.93,Celisse Ivons,12,East Campus,true,Withdrawn,Franc
+883,Lorette,Nilges,20,lnilgesoi@behance.net,History,5/29/2020,3/31/2025,2.83,Lorette Nilges,3,East Campus,true,Withdrawn,Euro
+884,Alain,Huntly,18,ahuntlyoj@sciencedaily.com,History,8/7/2020,6/1/2026,2.68,Alain Huntly,0,East Campus,false,Graduated,Yuan Renminbi
+885,Lulu,Vittle,21,lvittleok@w3.org,History,10/20/2023,7/29/2027,3.21,Lulu Vittle,15,West Campus,false,On Leave,Dong
+886,Eda,Portch,25,eportchol@webmd.com,History,9/15/2021,2/28/2026,4.0,Eda Portch,18,West Campus,false,Active,Bolivar
+887,Kalle,Wyard,18,kwyardom@yahoo.com,Biology,9/15/2023,1/26/2024,2.16,Kalle Wyard,16,West Campus,true,Active,Yuan Renminbi
+888,Yasmeen,Leather,26,yleatheron@usa.gov,Psychology,12/12/2023,5/28/2025,3.46,Yasmeen Leather,12,West Campus,false,On Leave,Yuan Renminbi
+889,Bili,Lechmere,25,blechmereoo@wordpress.com,Computer Science,12/7/2022,10/16/2025,1.66,Bili Lechmere,13,East Campus,false,Active,Rupee
+890,Belva,Janeway,27,bjanewayop@imageshack.us,Biology,2/15/2020,6/6/2026,1.04,Belva Janeway,19,Main Campus,true,Graduated,Kuna
+891,Odelle,McAndrew,25,omcandrewoq@1und1.de,Biology,11/18/2021,10/18/2026,3.58,Odelle McAndrew,16,Main Campus,true,Withdrawn,Hryvnia
+892,Chauncey,Shotboult,30,cshotboultor@merriam-webster.com,Computer Science,8/8/2022,4/11/2027,2.66,Chauncey Shotboult,19,East Campus,false,Active,Baht
+893,Lane,Hillum,21,lhillumos@google.co.uk,Computer Science,10/13/2020,7/13/2027,1.84,Lane Hillum,19,West Campus,true,Active,Yuan Renminbi
+894,Rey,Crum,25,rcrumot@w3.org,Computer Science,3/24/2021,12/7/2026,0.33,Rey Crum,9,West Campus,false,Withdrawn,Yuan Renminbi
+895,Jacky,Burbage,26,jburbageou@gravatar.com,Biology,6/22/2022,4/30/2026,1.89,Jacky Burbage,4,Main Campus,true,On Leave,Rupiah
+896,Lynelle,Hilliam,27,lhilliamov@va.gov,Computer Science,5/12/2020,12/25/2025,1.13,Lynelle Hilliam,12,West Campus,true,Graduated,Kwacha
+897,Guthrey,Bonallick,22,gbonallickow@bbb.org,Biology,1/29/2020,1/18/2025,3.38,Guthrey Bonallick,9,East Campus,false,Active,Peso
+898,Wade,Schneider,25,wschneiderox@usgs.gov,History,6/12/2021,9/14/2026,3.26,Wade Schneider,20,East Campus,false,Active,Krona
+899,Adolphus,Lipson,27,alipsonoy@msu.edu,Psychology,8/29/2022,12/8/2026,1.78,Adolphus Lipson,10,Main Campus,false,Graduated,Tenge
+900,Tanney,Huniwall,23,thuniwalloz@hostgator.com,Biology,6/19/2022,11/4/2024,2.82,Tanney Huniwall,20,East Campus,true,Withdrawn,Ruble
+901,Wandie,Fairbridge,19,wfairbridgep0@hexun.com,Psychology,1/7/2023,12/10/2025,2.16,Wandie Fairbridge,5,East Campus,true,On Leave,Franc
+902,Sisely,Wherton,23,swhertonp1@google.pl,Biology,9/25/2023,10/25/2026,2.04,Sisely Wherton,6,East Campus,true,Withdrawn,Rupiah
+903,Gale,Pouck,21,gpouckp2@nydailynews.com,Psychology,10/27/2020,2/11/2024,1.87,Gale Pouck,0,East Campus,true,Graduated,Yuan Renminbi
+904,Eunice,Edes,28,eedesp3@networkadvertising.org,History,9/23/2022,8/8/2026,1.79,Eunice Edes,13,Main Campus,true,Withdrawn,Euro
+905,Gusty,Moreman,20,gmoremanp4@jigsy.com,History,4/2/2020,2/4/2027,3.21,Gusty Moreman,15,West Campus,false,Active,Euro
+906,Dacia,Coraini,26,dcorainip5@cnbc.com,Computer Science,11/1/2021,11/23/2027,2.57,Dacia Coraini,0,East Campus,false,Withdrawn,Ringgit
+907,Mendie,Sparhawk,28,msparhawkp6@privacy.gov.au,History,5/19/2023,1/13/2026,1.03,Mendie Sparhawk,0,Main Campus,false,On Leave,Zloty
+908,Jock,Chismon,24,jchismonp7@linkedin.com,Psychology,3/19/2023,11/7/2024,0.46,Jock Chismon,2,Main Campus,false,Active,Yuan Renminbi
+909,Thorvald,O'Dyvoy,21,todyvoyp8@shutterfly.com,Computer Science,7/23/2020,1/3/2025,3.22,Thorvald O'Dyvoy,12,East Campus,false,Graduated,Krona
+910,Shelley,Yeldham,25,syeldhamp9@zimbio.com,History,8/10/2022,11/8/2025,2.28,Shelley Yeldham,15,West Campus,true,Active,Colon
+911,Charmion,Fuchs,27,cfuchspa@sciencedirect.com,History,11/23/2021,8/25/2024,0.98,Charmion Fuchs,5,Main Campus,false,On Leave,Naira
+912,Ambrosius,Lissandre,23,alissandrepb@smh.com.au,Biology,4/23/2020,1/3/2026,3.08,Ambrosius Lissandre,0,Main Campus,true,Withdrawn,Yuan Renminbi
+913,Davy,Leggen,20,dleggenpc@google.com.au,History,7/17/2022,3/27/2024,2.18,Davy Leggen,11,Main Campus,false,Active,Dollar
+914,Murial,Chattelaine,22,mchattelainepd@scribd.com,Psychology,4/20/2023,2/23/2024,0.8,Murial Chattelaine,4,West Campus,true,Active,Yuan Renminbi
+915,Dynah,Shird,19,dshirdpe@sbwire.com,History,8/13/2021,3/11/2024,2.24,Dynah Shird,13,West Campus,true,Withdrawn,Yuan Renminbi
+916,Nataline,Bastistini,23,nbastistinipf@github.com,Psychology,6/18/2020,8/8/2027,3.63,Nataline Bastistini,18,Main Campus,true,On Leave,Yuan Renminbi
+917,Franzen,Pittem,28,fpittempg@fema.gov,Psychology,12/8/2023,6/27/2025,0.35,Franzen Pittem,10,East Campus,false,Graduated,Rupiah
+918,Courtenay,Foreman,27,cforemanph@usgs.gov,Psychology,8/12/2022,10/12/2024,2.52,Courtenay Foreman,12,Main Campus,true,Graduated,Euro
+919,Dukie,Metcalfe,30,dmetcalfepi@state.gov,Computer Science,2/20/2022,9/26/2025,3.77,Dukie Metcalfe,15,Main Campus,false,Withdrawn,Yuan Renminbi
+920,Felicia,Relton,24,freltonpj@latimes.com,Computer Science,9/26/2021,7/24/2026,3.01,Felicia Relton,14,West Campus,true,Withdrawn,Yuan Renminbi
+921,Timmie,Oldrey,23,toldreypk@amazon.de,Computer Science,10/3/2020,2/5/2025,1.82,Timmie Oldrey,7,Main Campus,true,Withdrawn,Yuan Renminbi
+922,Jory,Bere,26,jberepl@ovh.net,Biology,7/17/2020,7/28/2025,3.23,Jory Bere,15,West Campus,false,Graduated,Peso
+923,Kermie,Franzettoini,29,kfranzettoinipm@answers.com,Computer Science,3/20/2022,2/12/2027,1.32,Kermie Franzettoini,16,West Campus,true,Active,Ruble
+924,Harald,Dyer,22,hdyerpn@163.com,Psychology,12/5/2021,5/31/2026,2.39,Harald Dyer,9,West Campus,true,On Leave,Rupiah
+925,Theodor,Spiniello,22,tspiniellopo@walmart.com,Biology,2/20/2020,3/9/2026,1.13,Theodor Spiniello,5,West Campus,false,On Leave,Bolivar
+926,Alanah,Hollow,28,ahollowpp@amazon.de,History,1/25/2022,3/29/2027,1.92,Alanah Hollow,12,Main Campus,true,On Leave,Rupiah
+927,Pavlov,Denerley,22,pdenerleypq@ca.gov,Computer Science,12/6/2021,8/17/2026,0.21,Pavlov Denerley,20,East Campus,true,Active,Yuan Renminbi
+928,Dino,Rigate,25,drigatepr@usatoday.com,History,4/27/2020,4/29/2026,0.95,Dino Rigate,7,Main Campus,true,On Leave,Ruble
+929,Rachele,Braybrookes,22,rbraybrookesps@technorati.com,History,5/17/2022,1/26/2025,2.11,Rachele Braybrookes,10,West Campus,false,Withdrawn,Tugrik
+930,Adriaens,Warrell,26,awarrellpt@xing.com,Biology,9/5/2020,2/26/2027,1.01,Adriaens Warrell,15,West Campus,false,Active,Zloty
+931,Hamnet,Koppe,28,hkoppepu@earthlink.net,Psychology,4/21/2021,11/14/2024,3.29,Hamnet Koppe,9,Main Campus,false,Withdrawn,Yuan Renminbi
+932,Werner,Beltzner,30,wbeltznerpv@last.fm,Psychology,10/6/2023,2/6/2027,2.46,Werner Beltzner,10,West Campus,false,Active,Pound
+933,Lenka,Foster,20,lfosterpw@salon.com,Biology,2/2/2020,3/12/2027,2.36,Lenka Foster,7,West Campus,true,Active,Rupiah
+934,Mitchell,Rugieri,27,mrugieripx@admin.ch,Psychology,9/10/2022,10/10/2027,0.31,Mitchell Rugieri,10,Main Campus,false,Graduated,Real
+935,Sukey,Tring,19,stringpy@nature.com,History,2/10/2021,6/12/2026,2.39,Sukey Tring,20,East Campus,false,Withdrawn,Euro
+936,Rudolfo,Filkov,23,rfilkovpz@cornell.edu,Psychology,12/12/2022,5/23/2027,1.37,Rudolfo Filkov,12,Main Campus,false,Withdrawn,Yuan Renminbi
+937,Daniela,Strawbridge,19,dstrawbridgeq0@imageshack.us,Biology,12/25/2022,3/14/2027,0.82,Daniela Strawbridge,15,Main Campus,false,Active,Colon
+938,Carmon,Paff,24,cpaffq1@parallels.com,Biology,7/13/2020,6/1/2024,2.33,Carmon Paff,15,West Campus,false,Active,Peso
+939,Truda,Briiginshaw,26,tbriiginshawq2@jimdo.com,Psychology,6/2/2021,10/1/2025,0.7,Truda Briiginshaw,8,West Campus,false,Active,Yuan Renminbi
+940,Adriana,Yarker,18,ayarkerq3@hexun.com,History,10/11/2023,1/22/2025,1.12,Adriana Yarker,18,East Campus,true,On Leave,Yuan Renminbi
+941,Lammond,Bedin,27,lbedinq4@chronoengine.com,Computer Science,6/19/2020,6/13/2025,2.79,Lammond Bedin,19,West Campus,true,On Leave,Yuan Renminbi
+942,Sallie,Tatlowe,24,statloweq5@accuweather.com,Computer Science,6/6/2020,2/13/2024,2.09,Sallie Tatlowe,14,Main Campus,true,Graduated,Dollar
+943,Der,Gudge,24,dgudgeq6@umich.edu,Computer Science,7/27/2021,1/11/2024,2.16,Der Gudge,2,West Campus,false,Active,Peso
+944,Dulci,Quinnell,28,dquinnellq7@soup.io,Computer Science,7/20/2022,1/30/2025,1.05,Dulci Quinnell,12,East Campus,false,Graduated,Lempira
+945,Jeana,Sheard,27,jsheardq8@ihg.com,Biology,11/30/2022,7/8/2025,2.31,Jeana Sheard,17,East Campus,true,Withdrawn,Peso
+946,Belicia,Clemetts,19,bclemettsq9@purevolume.com,Psychology,1/31/2022,5/21/2027,0.54,Belicia Clemetts,3,Main Campus,false,Withdrawn,Yuan Renminbi
+947,Agata,Ost,24,aostqa@artisteer.com,Computer Science,12/30/2023,10/18/2025,2.36,Agata Ost,20,Main Campus,true,Withdrawn,Peso
+948,Briant,Lawrinson,30,blawrinsonqb@people.com.cn,Psychology,11/28/2022,12/13/2026,1.15,Briant Lawrinson,0,Main Campus,true,Active,Ruble
+949,Lesli,Redparth,25,lredparthqc@weather.com,Computer Science,9/5/2021,7/22/2026,2.4,Lesli Redparth,18,West Campus,true,Withdrawn,Yuan Renminbi
+950,Bianka,McGarahan,28,bmcgarahanqd@mit.edu,Computer Science,3/8/2021,3/27/2025,2.03,Bianka McGarahan,1,East Campus,true,Graduated,Rupiah
+951,Isobel,Hanton,30,ihantonqe@cdbaby.com,Psychology,5/1/2021,10/8/2025,1.83,Isobel Hanton,17,West Campus,true,On Leave,Real
+952,Carolan,Fearnall,28,cfearnallqf@spiegel.de,Computer Science,6/4/2021,9/4/2025,0.47,Carolan Fearnall,17,Main Campus,true,On Leave,Cordoba
+953,Ranee,Scamwell,22,rscamwellqg@hp.com,Biology,4/28/2020,12/31/2025,0.94,Ranee Scamwell,4,West Campus,false,Graduated,Ringgit
+954,Ferdinand,Athow,29,fathowqh@wix.com,History,12/26/2022,10/27/2026,3.14,Ferdinand Athow,1,West Campus,true,Graduated,Euro
+955,Van,Garvan,22,vgarvanqi@twitter.com,History,1/30/2021,3/29/2027,1.34,Van Garvan,0,Main Campus,true,Active,Baht
+956,Reece,Cinnamond,19,rcinnamondqj@youtu.be,Biology,4/9/2021,3/24/2027,0.09,Reece Cinnamond,8,Main Campus,true,On Leave,Euro
+957,Durand,Woodbridge,25,dwoodbridgeqk@yale.edu,History,9/28/2023,10/28/2026,1.63,Durand Woodbridge,1,Main Campus,true,Withdrawn,Yuan Renminbi
+958,Ebba,Kneeshaw,28,ekneeshawql@artisteer.com,Psychology,8/29/2020,10/20/2025,2.88,Ebba Kneeshaw,7,East Campus,false,Withdrawn,Yuan Renminbi
+959,Mitchell,Boreham,19,mborehamqm@psu.edu,Biology,3/27/2020,2/19/2024,1.61,Mitchell Boreham,2,West Campus,false,Graduated,Dirham
+960,Lurlene,Densie,26,ldensieqn@nationalgeographic.com,Biology,2/24/2020,2/6/2025,0.45,Lurlene Densie,0,West Campus,true,On Leave,Peso
+961,Dulciana,Hartman,27,dhartmanqo@imgur.com,Psychology,1/20/2023,12/4/2025,0.34,Dulciana Hartman,15,Main Campus,true,Withdrawn,Yuan Renminbi
+962,Etan,Chable,30,echableqp@cisco.com,Computer Science,7/27/2023,11/6/2024,2.83,Etan Chable,4,East Campus,false,Graduated,Euro
+963,Dalia,Bengough,19,dbengoughqq@loc.gov,Psychology,7/27/2022,9/22/2025,2.41,Dalia Bengough,7,East Campus,true,On Leave,Yuan Renminbi
+964,Thorpe,Livock,24,tlivockqr@devhub.com,History,2/2/2022,9/27/2025,1.45,Thorpe Livock,13,Main Campus,true,Active,Krona
+965,Jodi,Scorthorne,25,jscorthorneqs@devhub.com,Computer Science,8/2/2020,12/21/2026,1.95,Jodi Scorthorne,2,West Campus,false,Withdrawn,Zloty
+966,Daron,McGriffin,29,dmcgriffinqt@hud.gov,Biology,5/2/2020,2/26/2025,0.46,Daron McGriffin,0,West Campus,false,On Leave,Peso
+967,Lonna,Metzing,26,lmetzingqu@house.gov,Computer Science,10/1/2023,8/10/2024,0.33,Lonna Metzing,17,West Campus,false,Graduated,Euro
+968,Emyle,Hairsnape,20,ehairsnapeqv@is.gd,Psychology,11/10/2020,3/11/2027,2.92,Emyle Hairsnape,11,Main Campus,false,Active,Euro
+969,Alley,Bigmore,23,abigmoreqw@webeden.co.uk,History,5/5/2021,12/28/2026,0.34,Alley Bigmore,19,East Campus,true,Active,Peso
+970,Angelia,Northidge,22,anorthidgeqx@prweb.com,History,5/5/2023,7/26/2027,0.79,Angelia Northidge,14,East Campus,false,On Leave,Yuan Renminbi
+971,Yovonnda,Drummer,30,ydrummerqy@cargocollective.com,History,9/19/2020,8/25/2025,2.37,Yovonnda Drummer,18,East Campus,true,On Leave,Euro
+972,Mannie,Ryland,27,mrylandqz@fda.gov,Biology,2/10/2021,9/3/2025,0.11,Mannie Ryland,19,West Campus,true,On Leave,Euro
+973,Devland,Mucklo,19,dmucklor0@wp.com,History,2/20/2021,4/1/2027,3.55,Devland Mucklo,4,West Campus,false,On Leave,Ruble
+974,Val,Crathorne,21,vcrathorner1@prweb.com,Psychology,4/7/2022,3/17/2027,3.11,Val Crathorne,3,East Campus,true,Withdrawn,Ruble
+975,Sherwynd,Inkpen,22,sinkpenr2@slashdot.org,Computer Science,6/26/2023,6/27/2027,1.86,Sherwynd Inkpen,20,Main Campus,true,Active,Real
+976,Boniface,Koomar,27,bkoomarr3@alibaba.com,History,6/23/2020,8/25/2026,3.67,Boniface Koomar,0,West Campus,true,Graduated,Yuan Renminbi
+977,Mile,Python,28,mpythonr4@samsung.com,Psychology,10/3/2023,1/12/2025,2.79,Mile Python,14,West Campus,true,Graduated,Hryvnia
+978,Goldi,Furney,24,gfurneyr5@de.vu,History,4/19/2021,6/11/2026,3.57,Goldi Furney,3,Main Campus,true,Graduated,Real
+979,Jonathon,Gruszka,20,jgruszkar6@buzzfeed.com,History,1/22/2022,10/8/2027,0.41,Jonathon Gruszka,1,Main Campus,false,Withdrawn,Rand
+980,Lazar,Bondy,28,lbondyr7@cocolog-nifty.com,Biology,3/5/2021,10/27/2027,1.2,Lazar Bondy,18,East Campus,false,On Leave,Euro
+981,Vernon,O Mullen,27,vor8@twitter.com,Biology,1/11/2023,6/16/2027,1.5,Vernon O Mullen,18,Main Campus,true,Withdrawn,Yuan Renminbi
+982,Jamil,Loxly,21,jloxlyr9@google.ru,Biology,6/28/2022,6/5/2026,0.16,Jamil Loxly,10,West Campus,false,On Leave,Yen
+983,Kassie,Cuff,26,kcuffra@surveymonkey.com,Computer Science,11/1/2020,4/10/2026,2.3,Kassie Cuff,20,East Campus,true,Graduated,Yuan Renminbi
+984,Gaile,Kohtler,19,gkohtlerrb@redcross.org,Psychology,10/7/2022,1/11/2026,1.09,Gaile Kohtler,20,Main Campus,false,Graduated,Yuan Renminbi
+985,Hansiain,Robinson,28,hrobinsonrc@networksolutions.com,Biology,9/14/2023,5/16/2027,3.3,Hansiain Robinson,1,West Campus,true,Active,Koruna
+986,Jennica,Lade,27,jladerd@bing.com,Computer Science,1/14/2022,3/4/2027,1.04,Jennica Lade,10,West Campus,true,On Leave,Yen
+987,Abbye,Ecclestone,26,aecclestonere@w3.org,Biology,3/21/2021,8/24/2027,0.53,Abbye Ecclestone,17,West Campus,true,Active,Lek
+988,Sula,Zanicchelli,18,szanicchellirf@xinhuanet.com,History,7/22/2022,10/12/2026,1.68,Sula Zanicchelli,12,West Campus,false,On Leave,Euro
+989,Glennie,Steer,24,gsteerrg@psu.edu,Computer Science,8/10/2023,3/13/2026,1.83,Glennie Steer,3,Main Campus,false,Withdrawn,Peso
+990,Cary,Timblett,21,ctimblettrh@whitehouse.gov,History,1/26/2021,8/20/2025,3.47,Cary Timblett,6,West Campus,true,Graduated,Rial
+991,Yvette,Lidgertwood,23,ylidgertwoodri@360.cn,History,6/26/2023,10/5/2025,2.1,Yvette Lidgertwood,2,West Campus,true,On Leave,Baht
+992,Daryl,Franken,29,dfrankenrj@about.com,Biology,8/11/2023,10/7/2025,0.73,Daryl Franken,1,West Campus,false,Active,Krone
+993,Nero,Rubroe,22,nrubroerk@aboutads.info,Biology,3/20/2020,4/8/2024,2.8,Nero Rubroe,18,Main Campus,true,Active,Rupiah
+994,Erina,Brownell,19,ebrownellrl@yolasite.com,Computer Science,2/14/2022,10/4/2024,2.99,Erina Brownell,6,East Campus,true,Graduated,Dollar
+995,Herbert,Palomba,24,hpalombarm@icio.us,Psychology,2/21/2022,3/13/2027,1.15,Herbert Palomba,10,Main Campus,false,Graduated,Zloty
+996,Amil,Marlen,22,amarlenrn@home.pl,Psychology,10/30/2023,3/16/2025,1.32,Amil Marlen,17,Main Campus,true,Active,Peso
+997,Quintin,Allard,25,qallardro@patch.com,Biology,6/10/2021,8/9/2025,0.67,Quintin Allard,12,West Campus,false,Withdrawn,Yen
+998,Ardra,Baxstair,27,abaxstairrp@symantec.com,Computer Science,5/3/2020,3/8/2026,3.98,Ardra Baxstair,5,East Campus,false,Graduated,Yuan Renminbi
+999,Hermine,Eddies,21,heddiesrq@free.fr,Computer Science,12/21/2022,5/22/2027,3.22,Hermine Eddies,1,West Campus,false,Graduated,Tugrik
+1000,Deborah,O'Cannavan,23,docannavanrr@irs.gov,Computer Science,12/17/2023,3/31/2027,3.51,Deborah O'Cannavan,6,West Campus,true,Active,Euro

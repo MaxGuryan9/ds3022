@@ -1,0 +1,1001 @@
+flight_number,airline_name,departure_airport,departure_city,departure_country,departure_time,arrival_airport,arrival_city,arrival_country,duration_hours,passenger_name,passenger_age,passenger_gender,seat_number,ticket_price,baggage_weight,meal_preference,flight_status,gate_number,arrival_date
+AI2923,Air India,Indira Gandhi International,Delhi,India,11:12 AM,Chhatrapati Shivaji International,Mumbai,India,2,Lemmy Rooper,18,Male,C3,Rupiah,31,Vegan,On time,34,5/4/2022
+LH7040,Lufthansa,Frankfurt Airport,Frankfurt,Germany,2:42 AM,Charles de Gaulle,Paris,France,17,Laurens Giamelli,68,Male,C3,Peso,50,Vegan,Cancelled,49,1/29/2022
+AA4621,American Airlines,John F. Kennedy International,New York,USA,6:00 PM,Hartsfield-Jackson Atlanta,Atlanta,USA,1,Valina Knath,82,Female,A1,Rand,23,Vegetarian,On time,24,3/1/2022
+SK8375,SAS Scandinavian,Copenhagen Airport,Copenhagen,Denmark,4:26 PM,Charles de Gaulle,Paris,France,1,Yasmeen Zecchii,116,Female,A1,Euro,29,Vegetarian,Delayed,27,10/29/2022
+LH3446,Lufthansa,Frankfurt Airport,Frankfurt,Germany,7:10 AM,Charles de Gaulle,Paris,France,23,Orion Briscam,62,Male,C3,Yuan Renminbi,27,Vegan,On time,1,11/9/2022
+UA1486,United Airlines,Los Angeles International,Los Angeles,USA,9:22 PM,San Francisco International,San Francisco,USA,22,Whitney Theriot,108,Non-binary,C3,Rupiah,28,Gluten-free,On time,19,1/18/2022
+AI6865,Air India,Indira Gandhi International,Delhi,India,1:56 AM,Dubai International,Dubai,UAE,11,Alessandro Liptrod,14,Male,C3,Dollar,48,Vegan,Delayed,30,10/22/2022
+QF1241,Qantas,Sydney Airport,Sydney,Australia,2:40 AM,Melbourne Airport,Melbourne,Australia,10,Ginevra Emerine,3,Female,C3,Rupiah,31,Vegan,Cancelled,9,11/24/2022
+LH2907,Lufthansa,Frankfurt Airport,Frankfurt,Germany,5:25 AM,Charles de Gaulle,Paris,France,10,Giraud Hubbuck,78,Male,B2,Dinar,27,Gluten-free,Cancelled,37,12/27/2022
+AF8541,Air France,Charles de Gaulle,Paris,France,6:46 AM,Frankfurt Airport,Frankfurt,Germany,5,Broddie Pawelczyk,117,Male,A1,Franc,34,Gluten-free,On time,34,8/21/2022
+SQ1217,Singapore Airlines,Changi,Singapore,Singapore,2:23 PM,Beijing Capital International,Beijing,China,17,Deni Crosham,88,Female,A1,Rupiah,40,Vegan,On time,11,8/8/2022
+AI6943,Air India,Indira Gandhi International,Delhi,India,8:01 PM,Chhatrapati Shivaji International,Mumbai,India,17,Mendel Gatesman,48,Male,C3,Euro,43,Vegetarian,On time,3,1/7/2022
+AM6970,Aeroméxico,Benito Juárez International,Mexico City,Mexico,5:37 PM,O'Hare International,Chicago,USA,4,Libby Harrisson,114,Female,A1,Yuan Renminbi,10,Vegan,Cancelled,34,10/2/2022
+AF5655,Air France,Charles de Gaulle,Paris,France,9:23 PM,Bole International,Addis Ababa,Ethiopia,17,Doralin Kiffe,39,Female,B2,Baht,46,Gluten-free,On time,40,12/6/2022
+AZ5777,Alitalia,Leonardo da Vinci International,Rome,Italy,1:02 AM,Dubai International,Dubai,UAE,8,Riva Wyburn,109,Female,B2,Hryvnia,0,Vegetarian,Delayed,10,8/14/2022
+DL1921,Delta Air Lines,John F. Kennedy International,New York,USA,5:29 AM,Hartsfield-Jackson Atlanta,Atlanta,USA,21,Clerkclaude Rosettini,70,Male,C3,Yuan Renminbi,8,Vegetarian,Cancelled,44,4/14/2022
+SQ8680,Singapore Airlines,Changi,Singapore,Singapore,10:50 AM,Beijing Capital International,Beijing,China,24,Blair Pietzner,36,Male,B2,Yen,40,Gluten-free,Cancelled,14,5/15/2022
+QF1724,Qantas,Sydney Airport,Sydney,Australia,11:07 AM,Melbourne Airport,Melbourne,Australia,19,Leoline Cretney,73,Female,C3,Dollar,22,Vegetarian,Cancelled,43,1/1/2022
+AA2358,American Airlines,John F. Kennedy International,New York,USA,1:09 PM,Vancouver International,Vancouver,Canada,4,Korrie Kibbe,85,Female,C3,Dinar,14,Gluten-free,On time,18,12/17/2022
+AI1429,Air India,Indira Gandhi International,Delhi,India,12:56 AM,Dubai International,Dubai,UAE,7,Lusa Grzeszczyk,97,Female,C3,Baht,50,Vegetarian,Cancelled,29,7/13/2022
+KL3616,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Netherlands,9:17 PM,Charles de Gaulle,Paris,France,2,Dietrich Murcott,117,Male,B2,Real,42,Vegan,Cancelled,8,1/7/2022
+NZ8173,Air New Zealand,Auckland Airport,Auckland,New Zealand,2:01 AM,Sydney Airport,Sydney,Australia,12,Angele Buntain,31,Female,C3,Kuna,13,Vegetarian,Cancelled,6,12/10/2022
+LA5103,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,3:45 AM,Ministro Pistarini International,Buenos Aires,Argentina,14,Crawford Luthwood,33,Male,C3,Euro,40,Vegan,On time,20,12/13/2022
+KE7517,Korean Air,Incheon International,Seoul,South Korea,12:20 PM,Bole International,Addis Ababa,Ethiopia,8,Rubin Sunock,57,Male,A1,Peso,36,Gluten-free,On time,13,3/28/2022
+QR7176,Qatar Airways,Hamad International,Doha,Qatar,2:54 PM,Bole International,Addis Ababa,Ethiopia,10,Jennica Hallitt,91,Female,C3,Euro,9,Vegan,On time,11,1/7/2022
+ET6943,Ethiopian Airlines,Bole International,Addis Ababa,Ethiopia,2:58 AM,Miami International,Miami,USA,7,Pier Graalmans,80,Female,B2,Ruble,27,Vegetarian,Delayed,26,12/11/2022
+TG4368,Thai Airways,Suvarnabhumi,Bangkok,Thailand,10:54 PM,Changi,Singapore,Singapore,22,Dalt Brambell,54,Male,A1,Hryvnia,6,Vegetarian,Delayed,27,6/10/2022
+AC9211,Air Canada,Toronto Pearson,Toronto,Canada,11:34 AM,Miami International,Miami,USA,3,Agretha Duerden,105,Female,C3,Ruble,25,Vegan,Cancelled,21,8/7/2022
+AA1215,American Airlines,John F. Kennedy International,New York,USA,10:58 AM,Hartsfield-Jackson Atlanta,Atlanta,USA,16,Libbie Pybus,61,Female,B2,Real,27,Vegetarian,Cancelled,50,4/20/2022
+SQ8734,Singapore Airlines,Changi,Singapore,Singapore,2:21 PM,Beijing Capital International,Beijing,China,9,Mildred Gartenfeld,73,Female,A1,Krona,28,Gluten-free,Delayed,8,6/7/2022
+AM3648,Aeroméxico,Benito Juárez International,Mexico City,Mexico,4:31 PM,Charles de Gaulle,Paris,France,4,Jayne Dacombe,48,Female,C3,Real,39,Vegetarian,Cancelled,49,5/2/2022
+KL4907,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Netherlands,10:14 AM,Frankfurt Airport,Frankfurt,Germany,23,Cassie Pottell,94,Male,A1,Zloty,26,Vegetarian,Delayed,5,7/8/2022
+KL7108,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Netherlands,7:45 AM,Cape Town International,Cape Town,South Africa,14,Barton Beckford,8,Male,B2,Euro,6,Vegetarian,On time,31,4/4/2022
+KL3236,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Netherlands,10:01 AM,Dallas/Fort Worth International,Dallas,USA,7,Corabel Saller,24,Female,C3,Ruble,20,Gluten-free,Cancelled,50,11/4/2022
+WN4981,Southwest Airlines,Los Angeles International,Los Angeles,USA,4:48 PM,San Francisco International,San Francisco,USA,3,Dominique Sillett,120,Male,A1,Yuan Renminbi,12,Vegan,Cancelled,49,2/16/2022
+TG5038,Thai Airways,Suvarnabhumi,Bangkok,Thailand,4:14 PM,Changi,Singapore,Singapore,20,Frank Thomesson,86,Female,C3,Hryvnia,37,Vegetarian,Cancelled,49,10/20/2022
+KL6392,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Netherlands,12:04 PM,Charles de Gaulle,Paris,France,14,Buiron Van Dale,70,Male,A1,Sol,34,Gluten-free,Delayed,35,4/12/2022
+LA2475,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,2:26 AM,O.R. Tambo International,Johannesburg,South Africa,16,Witty McCorry,39,Male,B2,Euro,8,Gluten-free,Delayed,44,10/13/2022
+SK8606,SAS Scandinavian,Copenhagen Airport,Copenhagen,Denmark,12:55 PM,Charles de Gaulle,Paris,France,4,Maddi Eastbrook,86,Female,C3,Yuan Renminbi,24,Vegan,Delayed,20,11/14/2022
+EK2263,Emirates,Dubai International,Dubai,UAE,7:39 AM,Hamad International,Doha,Qatar,5,Constancia Dryburgh,49,Female,A1,Baht,29,Vegan,On time,40,3/5/2022
+AV3423,Avianca,El Dorado International,Bogotá,Colombia,7:06 AM,O'Hare International,Chicago,USA,5,Aggi Patemore,90,Genderqueer,A1,Real,29,Gluten-free,On time,11,8/8/2022
+KL7370,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Netherlands,6:32 PM,Charles de Gaulle,Paris,France,18,Cletus Roux,57,Male,B2,Real,32,Gluten-free,On time,32,3/27/2022
+SA4845,South African Airways,O.R. Tambo International,Johannesburg,South Africa,7:10 AM,Charles de Gaulle,Paris,France,7,Jourdan Paris,29,Bigender,A1,Zloty,4,Gluten-free,Cancelled,36,6/29/2022
+ET6241,Ethiopian Airlines,Bole International,Addis Ababa,Ethiopia,10:02 AM,Hamad International,Doha,Qatar,15,Junia Cleave,49,Female,A1,Rupiah,45,Gluten-free,On time,33,9/30/2022
+LH7839,Lufthansa,Frankfurt Airport,Frankfurt,Germany,8:08 AM,Zurich Airport,Zurich,Switzerland,8,Germain Kemer,36,Male,B2,Rupiah,26,Gluten-free,On time,14,8/5/2022
+QR8304,Qatar Airways,Hamad International,Doha,Qatar,7:02 AM,Bole International,Addis Ababa,Ethiopia,9,Chad Pillans,116,Male,B2,Rupiah,4,Vegan,Delayed,47,5/14/2022
+UA3491,United Airlines,Los Angeles International,Los Angeles,USA,10:31 AM,San Francisco International,San Francisco,USA,7,Rahal Pietron,29,Female,C3,Dollar,12,Vegan,Delayed,12,6/19/2022
+EK6800,Emirates,Dubai International,Dubai,UAE,3:39 AM,Hamad International,Doha,Qatar,15,Ervin O'Brogane,120,Male,B2,Peso,47,Vegetarian,Delayed,2,8/4/2022
+LA3378,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,3:16 PM,Ministro Pistarini International,Buenos Aires,Argentina,14,Em Parvin,96,Female,A1,Forint,40,Gluten-free,On time,27,8/26/2022
+NH9522,All Nippon Airways,Haneda,Tokyo,Japan,10:11 PM,Hong Kong International,Hong Kong,China,22,Blake Inett,35,Female,A1,Yuan Renminbi,6,Gluten-free,Cancelled,46,4/24/2022
+AA4882,American Airlines,John F. Kennedy International,New York,USA,6:16 AM,Amsterdam Airport Schiphol,Amsterdam,Netherlands,20,Galven Gransden,8,Male,B2,Yuan Renminbi,44,Vegetarian,On time,7,2/5/2022
+AZ9026,Alitalia,Leonardo da Vinci International,Rome,Italy,1:56 AM,Charles de Gaulle,Paris,France,12,Dallis Tassell,93,Male,C3,Ruble,22,Gluten-free,Cancelled,46,8/29/2022
+KE4629,Korean Air,Incheon International,Seoul,South Korea,8:41 PM,Ministro Pistarini International,Buenos Aires,Argentina,1,Galen Challoner,95,Male,C3,Euro,39,Vegan,On time,34,1/20/2022
+SA4845,South African Airways,O.R. Tambo International,Johannesburg,South Africa,11:36 AM,Charles de Gaulle,Paris,France,1,Noel Hinken,92,Male,A1,Rupiah,14,Gluten-free,Delayed,1,12/9/2022
+NZ9634,Air New Zealand,Auckland Airport,Auckland,New Zealand,1:06 AM,Beijing Capital International,Beijing,China,17,Chickie Arthur,37,Female,A1,Peso,25,Gluten-free,Delayed,38,9/24/2022
+LA9846,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,5:54 PM,Ministro Pistarini International,Buenos Aires,Argentina,20,Wallas O'Neill,51,Male,B2,Yuan Renminbi,18,Gluten-free,On time,22,8/13/2022
+LH9851,Lufthansa,Frankfurt Airport,Frankfurt,Germany,2:10 AM,Charles de Gaulle,Paris,France,13,Drusilla O'Suaird,18,Female,B2,Kwanza,44,Gluten-free,On time,34,12/25/2022
+AI3506,Air India,Indira Gandhi International,Delhi,India,11:00 PM,Chhatrapati Shivaji International,Mumbai,India,1,Marmaduke Hakking,12,Male,C3,Yuan Renminbi,22,Vegetarian,Cancelled,9,1/1/2022
+AZ1037,Alitalia,Leonardo da Vinci International,Rome,Italy,11:04 PM,Charles de Gaulle,Paris,France,4,Andras Galpen,57,Male,B2,Yuan Renminbi,22,Vegetarian,Delayed,15,4/11/2022
+NH8158,All Nippon Airways,Haneda,Tokyo,Japan,4:26 AM,Incheon International,Seoul,South Korea,11,Reinhard Trees,34,Male,B2,Pound,28,Vegetarian,On time,3,5/25/2022
+DL3421,Delta Air Lines,John F. Kennedy International,New York,USA,8:07 AM,Hartsfield-Jackson Atlanta,Atlanta,USA,10,Eydie Lanahan,74,Female,A1,Zloty,43,Vegan,Cancelled,42,12/12/2022
+QF3525,Qantas,Sydney Airport,Sydney,Australia,12:55 AM,Melbourne Airport,Melbourne,Australia,10,Kizzie Lindeberg,101,Female,C3,Dollar,42,Vegan,Cancelled,32,5/14/2022
+DL2308,Delta Air Lines,John F. Kennedy International,New York,USA,4:59 PM,Hartsfield-Jackson Atlanta,Atlanta,USA,14,Leontyne Rother,30,Female,A1,Euro,35,Vegan,On time,50,6/20/2022
+IB2973,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,9:18 PM,Charles de Gaulle,Paris,France,5,Flss Maddams,96,Female,B2,Yuan Renminbi,49,Gluten-free,On time,36,8/19/2022
+UA8158,United Airlines,Los Angeles International,Los Angeles,USA,12:27 PM,O'Hare International,Chicago,USA,11,Noble Lakey,52,Male,A1,Krona,4,Gluten-free,Delayed,35,11/10/2022
+SK7036,SAS Scandinavian,Copenhagen Airport,Copenhagen,Denmark,8:12 AM,Zurich Airport,Zurich,Switzerland,16,Alberto Heeran,26,Agender,C3,Euro,48,Vegan,Delayed,43,7/19/2022
+EK7276,Emirates,Dubai International,Dubai,UAE,9:37 PM,Bole International,Addis Ababa,Ethiopia,9,Kate Sanney,41,Female,B2,Krone,13,Gluten-free,Delayed,48,1/10/2022
+SK5287,SAS Scandinavian,Copenhagen Airport,Copenhagen,Denmark,9:13 AM,Charles de Gaulle,Paris,France,4,Tybi Tweedle,69,Female,C3,Zloty,22,Vegetarian,Cancelled,20,5/14/2022
+KL5867,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Netherlands,1:33 AM,Frankfurt Airport,Frankfurt,Germany,9,Lil Dibbin,103,Female,A1,Ruble,8,Vegetarian,On time,23,12/12/2022
+IB5615,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,10:02 PM,Charles de Gaulle,Paris,France,24,Bengt Arsey,95,Male,B2,Peso,26,Vegetarian,On time,17,7/28/2022
+SK3956,SAS Scandinavian,Copenhagen Airport,Copenhagen,Denmark,3:01 PM,Charles de Gaulle,Paris,France,23,Belita Abram,60,Female,C3,Koruna,19,Vegetarian,Delayed,14,6/3/2022
+AC7951,Air Canada,Toronto Pearson,Toronto,Canada,2:50 AM,John F. Kennedy International,New York,USA,19,Gottfried Sadd,102,Male,A1,Cordoba,45,Gluten-free,On time,42,12/24/2022
+AV6190,Avianca,El Dorado International,Bogotá,Colombia,8:28 AM,Jorge Chávez International,Lima,Peru,3,Bel St. Pierre,4,Female,C3,Ruble,45,Vegan,Delayed,3,8/22/2022
+AZ3806,Alitalia,Leonardo da Vinci International,Rome,Italy,3:29 PM,Charles de Gaulle,Paris,France,2,Chloe Clemintoni,103,Female,B2,Euro,44,Vegan,Delayed,13,10/27/2022
+NZ1420,Air New Zealand,Auckland Airport,Auckland,New Zealand,12:07 PM,Sydney Airport,Sydney,Australia,4,Barrett Costard,93,Male,B2,Yuan Renminbi,1,Vegetarian,Cancelled,33,7/16/2022
+SK3956,SAS Scandinavian,Copenhagen Airport,Copenhagen,Denmark,4:47 PM,Charles de Gaulle,Paris,France,7,Fons Ditty,77,Polygender,A1,Dollar,43,Gluten-free,Delayed,34,6/5/2022
+TG3656,Thai Airways,Suvarnabhumi,Bangkok,Thailand,6:36 PM,Changi,Singapore,Singapore,14,Alysa Mullaly,76,Female,C3,Rand,18,Vegan,Cancelled,10,11/3/2022
+SK4443,SAS Scandinavian,Copenhagen Airport,Copenhagen,Denmark,9:26 PM,Melbourne Airport,Melbourne,Australia,11,Samson Luxmoore,108,Male,B2,Rupee,9,Vegetarian,On time,42,6/20/2022
+TG1620,Thai Airways,Suvarnabhumi,Bangkok,Thailand,2:06 AM,Hong Kong International,Hong Kong,China,4,Dud MacGowing,78,Male,B2,Euro,43,Vegan,Delayed,31,9/11/2022
+AZ7909,Alitalia,Leonardo da Vinci International,Rome,Italy,5:00 AM,Charles de Gaulle,Paris,France,9,Maddie Mantripp,63,Male,B2,Euro,25,Vegetarian,Delayed,16,9/26/2022
+IB2973,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,4:50 PM,Charles de Gaulle,Paris,France,17,Leif Shorrock,57,Male,B2,Yuan Renminbi,2,Vegetarian,Delayed,33,8/24/2022
+NZ5050,Air New Zealand,Auckland Airport,Auckland,New Zealand,6:51 PM,Haneda,Tokyo,Japan,18,Elfrida Emmert,109,Female,A1,Dollar,14,Vegetarian,Delayed,8,7/20/2022
+NH8860,All Nippon Airways,Haneda,Tokyo,Japan,11:56 AM,Incheon International,Seoul,South Korea,3,Eberto Offener,114,Male,B2,Yuan Renminbi,28,Vegetarian,Delayed,21,2/3/2022
+NH4775,All Nippon Airways,Haneda,Tokyo,Japan,8:09 AM,Amsterdam Airport Schiphol,Amsterdam,Netherlands,6,Kym McGuffog,51,Female,C3,Rupiah,21,Vegetarian,On time,21,2/1/2022
+IB6654,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,2:49 AM,Dubai International,Dubai,UAE,20,Fenelia MacWhan,16,Female,B2,Ruble,14,Vegan,Delayed,16,3/21/2022
+QR4818,Qatar Airways,Hamad International,Doha,Qatar,8:42 AM,Bole International,Addis Ababa,Ethiopia,9,Sauveur Tegler,73,Genderqueer,A1,Zloty,44,Vegan,Cancelled,4,1/22/2022
+KE9018,Korean Air,Incheon International,Seoul,South Korea,6:31 AM,Haneda,Tokyo,Japan,13,Randie Zute,98,Female,C3,Real,48,Vegan,Delayed,36,8/5/2022
+BA7617,British Airways,Heathrow,London,UK,3:10 AM,Charles de Gaulle,Paris,France,16,Charley Gabriel,92,Male,C3,Yuan Renminbi,32,Vegan,Delayed,9,9/11/2022
+LA7812,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,5:28 PM,Seattle-Tacoma International,Seattle,USA,7,Bartlet Maddrell,96,Male,B2,Tenge,13,Vegetarian,Delayed,6,11/30/2022
+UA6087,United Airlines,Los Angeles International,Los Angeles,USA,7:35 PM,San Francisco International,San Francisco,USA,17,Glori Dabes,46,Female,B2,Euro,38,Vegetarian,Delayed,25,6/24/2022
+LA9846,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,10:35 PM,Ministro Pistarini International,Buenos Aires,Argentina,16,Willie Malkinson,116,Male,C3,Sol,35,Vegan,On time,17,5/3/2022
+AI9127,Air India,Indira Gandhi International,Delhi,India,7:10 AM,Chhatrapati Shivaji International,Mumbai,India,17,Corissa Aldwinckle,103,Female,A1,Yuan Renminbi,11,Vegan,Cancelled,50,10/10/2022
+IB2915,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,4:17 AM,Charles de Gaulle,Paris,France,9,Silvester Braxton,39,Male,A1,Franc,24,Gluten-free,On time,1,4/26/2022
+KL8123,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Netherlands,12:36 PM,Heathrow,London,UK,6,Alfonse Brackley,2,Male,C3,Rupiah,16,Vegetarian,Delayed,32,7/7/2022
+NZ1218,Air New Zealand,Auckland Airport,Auckland,New Zealand,9:20 PM,Melbourne Airport,Melbourne,Australia,11,Benyamin Screach,4,Male,A1,Real,17,Gluten-free,On time,46,12/29/2022
+WN6320,Southwest Airlines,Los Angeles International,Los Angeles,USA,7:35 AM,San Francisco International,San Francisco,USA,1,Thadeus Berthomieu,76,Male,C3,Rupiah,42,Vegetarian,Delayed,30,9/25/2022
+DL8353,Delta Air Lines,John F. Kennedy International,New York,USA,6:12 AM,Hartsfield-Jackson Atlanta,Atlanta,USA,13,Roi Bernette,35,Male,B2,Peso,43,Gluten-free,Delayed,12,3/22/2022
+AM6207,Aeroméxico,Benito Juárez International,Mexico City,Mexico,5:04 PM,Incheon International,Seoul,South Korea,13,Cilka Stanex,45,Female,B2,Real,17,Vegetarian,Delayed,31,8/31/2022
+BA4267,British Airways,Heathrow,London,UK,10:57 PM,Charles de Gaulle,Paris,France,19,Lloyd Masseo,49,Male,B2,Dollar,28,Vegan,Cancelled,30,2/12/2022
+KE6873,Korean Air,Incheon International,Seoul,South Korea,10:05 AM,Jomo Kenyatta International,Nairobi,Kenya,16,Ermengarde Bartelet,60,Female,A1,Bolivar,44,Gluten-free,On time,47,7/26/2022
+AM2515,Aeroméxico,Benito Juárez International,Mexico City,Mexico,8:17 PM,Adolfo Suárez Madrid–Barajas,Madrid,Spain,6,Ellen Moir,118,Female,B2,Yuan Renminbi,24,Vegetarian,On time,7,10/19/2022
+AV5545,Avianca,El Dorado International,Bogotá,Colombia,5:02 AM,O'Hare International,Chicago,USA,18,Fayette Wagge,15,Female,C3,Ruble,14,Gluten-free,On time,10,4/7/2022
+NZ6947,Air New Zealand,Auckland Airport,Auckland,New Zealand,3:12 PM,Sydney Airport,Sydney,Australia,7,Kermit Labet,8,Male,A1,Yuan Renminbi,22,Gluten-free,On time,2,2/28/2022
+SK5206,SAS Scandinavian,Copenhagen Airport,Copenhagen,Denmark,6:14 AM,Charles de Gaulle,Paris,France,1,Linet Hayter,74,Female,C3,Euro,44,Vegetarian,On time,4,10/9/2022
+SA2779,South African Airways,O.R. Tambo International,Johannesburg,South Africa,2:01 PM,Charles de Gaulle,Paris,France,11,Erika Chaman,12,Female,A1,Yuan Renminbi,6,Gluten-free,On time,34,1/11/2022
+DL7004,Delta Air Lines,John F. Kennedy International,New York,USA,5:22 PM,Los Angeles International,Los Angeles,USA,7,Dall Gummoe,63,Male,C3,Euro,19,Vegan,On time,14,8/15/2022
+AV3075,Avianca,El Dorado International,Bogotá,Colombia,10:43 AM,Haneda,Tokyo,Japan,12,Sophronia Duiged,112,Genderfluid,C3,Yuan Renminbi,8,Vegan,On time,18,1/11/2022
+AF8413,Air France,Charles de Gaulle,Paris,France,7:09 AM,Frankfurt Airport,Frankfurt,Germany,13,Elli Pendre,107,Female,C3,Zloty,26,Vegan,Delayed,38,8/15/2022
+UA7694,United Airlines,Los Angeles International,Los Angeles,USA,12:38 PM,Vancouver International,Vancouver,Canada,20,Terri Tythe,10,Female,C3,Dollar,40,Gluten-free,On time,31,4/13/2022
+IB1302,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,4:29 AM,Dubai International,Dubai,UAE,18,Shandie Matuszyk,95,Female,A1,Rupiah,8,Vegetarian,Delayed,7,11/16/2022
+SQ3887,Singapore Airlines,Changi,Singapore,Singapore,6:52 AM,Beijing Capital International,Beijing,China,19,Hermy Death,115,Male,C3,Peso,30,Vegetarian,Delayed,3,1/16/2022
+SA1965,South African Airways,O.R. Tambo International,Johannesburg,South Africa,3:07 AM,Zurich Airport,Zurich,Switzerland,23,Brody Gowler,84,Male,A1,Baht,5,Vegan,On time,29,4/30/2022
+UA8484,United Airlines,Los Angeles International,Los Angeles,USA,8:08 PM,San Francisco International,San Francisco,USA,1,Leopold Gonnin,25,Male,B2,Krona,23,Gluten-free,Cancelled,2,2/7/2022
+AV5220,Avianca,El Dorado International,Bogotá,Colombia,2:12 PM,O'Hare International,Chicago,USA,20,Una Rudiger,43,Female,A1,Peso,31,Vegan,Delayed,27,3/22/2022
+ET4010,Ethiopian Airlines,Bole International,Addis Ababa,Ethiopia,3:22 AM,Hamad International,Doha,Qatar,18,Kellby O'Scully,115,Bigender,A1,Euro,12,Gluten-free,On time,22,1/9/2022
+UA1392,United Airlines,Los Angeles International,Los Angeles,USA,1:44 PM,San Francisco International,San Francisco,USA,3,Rowena Scarborough,27,Agender,C3,Krona,9,Vegan,On time,48,9/12/2022
+QF2364,Qantas,Sydney Airport,Sydney,Australia,1:30 AM,Melbourne Airport,Melbourne,Australia,13,Loreen Bolver,23,Female,A1,Hryvnia,13,Gluten-free,Cancelled,33,1/7/2022
+LA4303,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,7:28 AM,Ministro Pistarini International,Buenos Aires,Argentina,6,Georges Hasel,55,Male,A1,Rupiah,4,Vegan,On time,46,10/5/2022
+AM2190,Aeroméxico,Benito Juárez International,Mexico City,Mexico,12:36 AM,Melbourne Airport,Melbourne,Australia,8,Kellia Tremolieres,55,Female,C3,Yuan Renminbi,37,Vegetarian,Delayed,24,8/14/2022
+ET8668,Ethiopian Airlines,Bole International,Addis Ababa,Ethiopia,9:29 AM,Hamad International,Doha,Qatar,14,Camel Obeney,81,Female,A1,Hryvnia,5,Vegan,Cancelled,50,3/21/2022
+TG4572,Thai Airways,Suvarnabhumi,Bangkok,Thailand,3:53 PM,Beijing Capital International,Beijing,China,1,Jaquelin Huntar,106,Female,C3,Zloty,5,Vegetarian,Cancelled,17,12/23/2022
+EK5144,Emirates,Dubai International,Dubai,UAE,4:47 AM,Brisbane Airport,Brisbane,Australia,21,Mano Dalliwater,102,Male,C3,Yuan Renminbi,41,Gluten-free,On time,27,8/8/2022
+AZ3705,Alitalia,Leonardo da Vinci International,Rome,Italy,4:29 AM,Charles de Gaulle,Paris,France,19,Heath Sargood,68,Male,C3,Rupiah,9,Vegetarian,Delayed,1,1/22/2022
+AV3620,Avianca,El Dorado International,Bogotá,Colombia,7:39 AM,Toronto Pearson,Toronto,Canada,7,Saunders Barratt,13,Male,B2,Peso,42,Vegetarian,Cancelled,15,3/23/2022
+TG2367,Thai Airways,Suvarnabhumi,Bangkok,Thailand,5:25 PM,Changi,Singapore,Singapore,14,Steffen Ragate,21,Male,C3,Yuan Renminbi,24,Vegetarian,Delayed,30,8/15/2022
+SA2079,South African Airways,O.R. Tambo International,Johannesburg,South Africa,2:34 AM,Charles de Gaulle,Paris,France,13,Duane Mucklow,49,Male,A1,Koruna,45,Gluten-free,Cancelled,5,5/3/2022
+QR4004,Qatar Airways,Hamad International,Doha,Qatar,10:28 AM,Bole International,Addis Ababa,Ethiopia,4,Skelly Hardway,66,Male,A1,Rupiah,33,Gluten-free,Delayed,49,9/18/2022
+AF4188,Air France,Charles de Gaulle,Paris,France,1:44 PM,Vienna International,Vienna,Austria,17,Wilona Sprankling,76,Female,C3,Peso,22,Gluten-free,On time,41,9/11/2022
+NZ6571,Air New Zealand,Auckland Airport,Auckland,New Zealand,9:29 PM,Brisbane Airport,Brisbane,Australia,6,Ki Jacquemy,65,Female,A1,Euro,41,Vegan,Delayed,27,10/9/2022
+AC3505,Air Canada,Toronto Pearson,Toronto,Canada,8:23 AM,John F. Kennedy International,New York,USA,17,Merrile De Vaan,44,Female,C3,Koruna,9,Gluten-free,Delayed,19,5/28/2022
+CX6654,Cathay Pacific,Hong Kong International,Hong Kong,China,4:26 PM,Changi,Singapore,Singapore,19,Clair Angrick,40,Female,B2,Euro,28,Vegetarian,Delayed,41,10/7/2022
+AZ2051,Alitalia,Leonardo da Vinci International,Rome,Italy,10:12 PM,Charles de Gaulle,Paris,France,8,Derrick Pinnion,29,Male,B2,Zloty,23,Vegan,Cancelled,17,6/15/2022
+BA3914,British Airways,Heathrow,London,UK,6:32 AM,Charles de Gaulle,Paris,France,3,Angelico Stapleton,106,Male,A1,Franc,34,Vegetarian,On time,28,4/16/2022
+CX1015,Cathay Pacific,Hong Kong International,Hong Kong,China,9:23 AM,Melbourne Airport,Melbourne,Australia,24,Dasya Wardle,27,Female,C3,Koruna,35,Vegetarian,Delayed,24,1/21/2022
+WN8883,Southwest Airlines,Los Angeles International,Los Angeles,USA,3:15 AM,Chhatrapati Shivaji International,Mumbai,India,5,Jeanette Jerrems,75,Female,B2,Zloty,10,Gluten-free,On time,21,9/16/2022
+BA2135,British Airways,Heathrow,London,UK,7:56 PM,Charles de Gaulle,Paris,France,20,Gwenni McMurtyr,10,Agender,C3,Zloty,34,Vegan,Delayed,23,5/12/2022
+AF9091,Air France,Charles de Gaulle,Paris,France,1:27 PM,Hamad International,Doha,Qatar,24,Adriane Novelli,42,Female,A1,Ruble,2,Vegan,Cancelled,27,11/21/2022
+LA1646,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,8:36 AM,Ministro Pistarini International,Buenos Aires,Argentina,11,Joscelin Swatten,114,Female,C3,Sol,47,Vegan,On time,31,5/8/2022
+AI2719,Air India,Indira Gandhi International,Delhi,India,4:04 PM,Kuala Lumpur International,Kuala Lumpur,Malaysia,4,Mortie Ralling,49,Male,C3,Ruble,40,Vegetarian,Delayed,11,4/12/2022
+TG8329,Thai Airways,Suvarnabhumi,Bangkok,Thailand,1:43 PM,Changi,Singapore,Singapore,16,Chucho Passingham,97,Male,B2,Rupiah,11,Vegetarian,Cancelled,7,11/27/2022
+WN3136,Southwest Airlines,Los Angeles International,Los Angeles,USA,3:00 PM,John F. Kennedy International,New York,USA,19,Zollie Winny,69,Male,A1,Yuan Renminbi,23,Vegan,Delayed,13,4/14/2022
+AZ4071,Alitalia,Leonardo da Vinci International,Rome,Italy,8:09 AM,Haneda,Tokyo,Japan,14,Minda Ryce,53,Female,A1,Yuan Renminbi,6,Vegan,On time,31,9/18/2022
+EK9724,Emirates,Dubai International,Dubai,UAE,3:11 AM,Hamad International,Doha,Qatar,6,Nilson Wade,58,Male,A1,Yuan Renminbi,42,Vegetarian,Delayed,22,11/5/2022
+AA7634,American Airlines,John F. Kennedy International,New York,USA,9:37 PM,Hartsfield-Jackson Atlanta,Atlanta,USA,3,Bobbi Piddle,58,Female,A1,Dollar,6,Vegetarian,On time,2,3/27/2022
+KE1298,Korean Air,Incheon International,Seoul,South Korea,9:20 AM,Haneda,Tokyo,Japan,18,Dani Volkers,27,Female,C3,Ruble,1,Vegetarian,Cancelled,49,6/16/2022
+AF9326,Air France,Charles de Gaulle,Paris,France,2:42 PM,Incheon International,Seoul,South Korea,11,Erina Peakman,30,Genderfluid,A1,Yuan Renminbi,8,Gluten-free,Delayed,12,12/5/2022
+AI4273,Air India,Indira Gandhi International,Delhi,India,1:01 AM,Chhatrapati Shivaji International,Mumbai,India,23,Jacques Cavaney,9,Male,A1,Bolivar,6,Gluten-free,On time,33,8/14/2022
+WN8822,Southwest Airlines,Los Angeles International,Los Angeles,USA,9:02 PM,Miami International,Miami,USA,16,Elsy Petrelli,68,Female,B2,Real,33,Vegan,Delayed,9,9/19/2022
+ET8142,Ethiopian Airlines,Bole International,Addis Ababa,Ethiopia,7:52 PM,Chhatrapati Shivaji International,Mumbai,India,2,Louie Reynault,103,Male,B2,Peso,40,Vegan,Delayed,37,1/22/2022
+KL3670,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Netherlands,9:00 AM,Charles de Gaulle,Paris,France,24,Carey O'Bradden,58,Male,A1,Dong,40,Vegan,Delayed,2,2/5/2022
+QR4593,Qatar Airways,Hamad International,Doha,Qatar,11:00 AM,Bole International,Addis Ababa,Ethiopia,19,Dar Levane,58,Male,C3,Peso,23,Vegan,On time,43,2/14/2022
+AM4416,Aeroméxico,Benito Juárez International,Mexico City,Mexico,1:53 AM,John F. Kennedy International,New York,USA,2,Angelle Hellard,14,Female,B2,Yuan Renminbi,48,Gluten-free,On time,49,3/15/2022
+QR6840,Qatar Airways,Hamad International,Doha,Qatar,9:12 PM,Bole International,Addis Ababa,Ethiopia,23,Whitney Shapiro,94,Male,B2,Quetzal,46,Gluten-free,Delayed,28,12/3/2022
+AV4300,Avianca,El Dorado International,Bogotá,Colombia,5:29 AM,O'Hare International,Chicago,USA,8,Thoma Emps,13,Male,C3,Yuan Renminbi,47,Vegetarian,Cancelled,28,1/5/2022
+SA5534,South African Airways,O.R. Tambo International,Johannesburg,South Africa,1:25 AM,Charles de Gaulle,Paris,France,10,Ivy Beecker,116,Female,B2,Peso,39,Vegetarian,On time,30,3/6/2022
+AM9841,Aeroméxico,Benito Juárez International,Mexico City,Mexico,11:19 PM,O'Hare International,Chicago,USA,24,Dominic Lehenmann,111,Male,A1,Dollar,46,Vegan,Cancelled,47,3/2/2022
+BA2345,British Airways,Heathrow,London,UK,4:38 PM,Charles de Gaulle,Paris,France,16,Cozmo Linny,11,Male,B2,Yuan Renminbi,47,Gluten-free,On time,22,11/12/2022
+ET3617,Ethiopian Airlines,Bole International,Addis Ababa,Ethiopia,8:23 AM,Hartsfield-Jackson Atlanta,Atlanta,USA,1,Thaddus Olliar,42,Male,B2,Krona,13,Vegan,On time,2,12/8/2022
+AI8171,Air India,Indira Gandhi International,Delhi,India,9:05 PM,Chhatrapati Shivaji International,Mumbai,India,10,Audie Puddan,18,Female,B2,Peso,16,Gluten-free,Cancelled,9,1/30/2022
+AA7550,American Airlines,John F. Kennedy International,New York,USA,9:01 AM,Hartsfield-Jackson Atlanta,Atlanta,USA,14,Suellen Ready,106,Female,C3,Rupiah,37,Vegan,Cancelled,47,11/10/2022
+LH5941,Lufthansa,Frankfurt Airport,Frankfurt,Germany,3:50 PM,Charles de Gaulle,Paris,France,10,Homere Fetherby,100,Male,B2,Rupiah,17,Vegetarian,Delayed,45,5/8/2022
+KE1048,Korean Air,Incheon International,Seoul,South Korea,1:48 AM,Hong Kong International,Hong Kong,China,18,Julianna Coldrick,90,Female,A1,Kuna,27,Vegan,On time,46,11/8/2022
+WN8004,Southwest Airlines,Los Angeles International,Los Angeles,USA,1:44 AM,San Francisco International,San Francisco,USA,24,Tracy Gyford,47,Female,A1,Rupiah,40,Gluten-free,On time,49,12/24/2022
+KL3711,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Netherlands,8:49 PM,Charles de Gaulle,Paris,France,2,Elliot Commins,93,Male,C3,Rupiah,46,Vegetarian,On time,46,6/11/2022
+AM1862,Aeroméxico,Benito Juárez International,Mexico City,Mexico,1:21 AM,Arturo Merino Benítez International,Santiago,Chile,12,Lizzy Gussin,12,Female,C3,Dollar,30,Gluten-free,On time,31,11/25/2022
+AF4644,Air France,Charles de Gaulle,Paris,France,2:53 AM,Stockholm Arlanda,Stockholm,Sweden,12,Reece Hallgath,103,Male,A1,Franc,28,Vegan,Cancelled,24,3/5/2022
+AM6666,Aeroméxico,Benito Juárez International,Mexico City,Mexico,9:50 AM,O'Hare International,Chicago,USA,5,Shirlee Costelloe,30,Female,C3,Kina,1,Vegan,Cancelled,1,1/30/2022
+AF5181,Air France,Charles de Gaulle,Paris,France,7:52 AM,Frankfurt Airport,Frankfurt,Germany,11,Randolph Hearsum,52,Male,B2,Yuan Renminbi,26,Vegetarian,Delayed,45,4/14/2022
+AM4377,Aeroméxico,Benito Juárez International,Mexico City,Mexico,10:03 AM,O'Hare International,Chicago,USA,14,Jarib Haig,50,Polygender,A1,Quetzal,19,Vegan,Delayed,50,10/1/2022
+SK2359,SAS Scandinavian,Copenhagen Airport,Copenhagen,Denmark,2:51 PM,Charles de Gaulle,Paris,France,4,Theressa Guiden,56,Female,C3,Yuan Renminbi,18,Gluten-free,Delayed,10,2/19/2022
+KE6811,Korean Air,Incheon International,Seoul,South Korea,8:22 PM,Haneda,Tokyo,Japan,9,Magdalena Fowles,111,Female,B2,Euro,43,Vegetarian,Cancelled,11,12/24/2022
+SK4238,SAS Scandinavian,Copenhagen Airport,Copenhagen,Denmark,2:57 AM,Charles de Gaulle,Paris,France,6,Gary Bandy,101,Male,B2,Yuan Renminbi,9,Gluten-free,On time,23,1/11/2022
+AF7593,Air France,Charles de Gaulle,Paris,France,9:41 PM,Frankfurt Airport,Frankfurt,Germany,9,Colet Baseke,81,Male,C3,Real,35,Vegetarian,Cancelled,25,5/22/2022
+NZ8880,Air New Zealand,Auckland Airport,Auckland,New Zealand,6:15 PM,Sydney Airport,Sydney,Australia,10,Elnore Dabbes,65,Female,B2,Sol,22,Gluten-free,Delayed,23,10/23/2022
+DL9341,Delta Air Lines,John F. Kennedy International,New York,USA,12:32 AM,Hartsfield-Jackson Atlanta,Atlanta,USA,16,Corissa Fasset,79,Female,B2,Euro,33,Vegetarian,Delayed,44,9/25/2022
+AF1748,Air France,Charles de Gaulle,Paris,France,10:14 PM,Frankfurt Airport,Frankfurt,Germany,1,Les Silverthorn,112,Genderqueer,B2,Dong,32,Gluten-free,On time,49,2/11/2022
+SQ8804,Singapore Airlines,Changi,Singapore,Singapore,10:59 PM,Beijing Capital International,Beijing,China,16,Barbe Caddies,56,Female,B2,Rupiah,13,Gluten-free,Delayed,7,4/28/2022
+NH7134,All Nippon Airways,Haneda,Tokyo,Japan,6:07 PM,Incheon International,Seoul,South Korea,20,Bard Comrie,2,Male,A1,Koruna,14,Gluten-free,Delayed,47,7/7/2022
+DL5099,Delta Air Lines,John F. Kennedy International,New York,USA,10:25 AM,Hartsfield-Jackson Atlanta,Atlanta,USA,17,Rora Kinnaird,94,Female,A1,Hryvnia,17,Vegan,On time,4,2/27/2022
+TG4718,Thai Airways,Suvarnabhumi,Bangkok,Thailand,5:25 PM,Changi,Singapore,Singapore,18,Darya Donalson,1,Female,C3,Sol,43,Gluten-free,Cancelled,33,12/11/2022
+NH9502,All Nippon Airways,Haneda,Tokyo,Japan,12:23 PM,Incheon International,Seoul,South Korea,18,Elise Wattins,19,Female,C3,Euro,5,Vegetarian,Delayed,38,11/5/2022
+QR3556,Qatar Airways,Hamad International,Doha,Qatar,5:40 PM,Miami International,Miami,USA,9,Rey Edards,72,Female,A1,Rupiah,4,Gluten-free,Delayed,32,6/19/2022
+AA4559,American Airlines,John F. Kennedy International,New York,USA,8:57 AM,Hartsfield-Jackson Atlanta,Atlanta,USA,4,Langston Dayborne,92,Male,C3,Zloty,17,Vegetarian,Delayed,14,3/26/2022
+NZ4078,Air New Zealand,Auckland Airport,Auckland,New Zealand,5:57 PM,Sydney Airport,Sydney,Australia,5,Ethyl Shovelton,48,Female,C3,Rial,46,Gluten-free,Delayed,39,12/20/2022
+IB8974,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,2:31 AM,Charles de Gaulle,Paris,France,10,Charis Woolner,76,Female,A1,Euro,18,Vegetarian,Delayed,39,10/21/2022
+DL5548,Delta Air Lines,John F. Kennedy International,New York,USA,9:49 AM,Hartsfield-Jackson Atlanta,Atlanta,USA,18,Rosabel Lorden,58,Female,B2,Real,40,Gluten-free,On time,37,2/20/2022
+KL5672,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Netherlands,12:39 AM,Charles de Gaulle,Paris,France,3,Yanaton Warmisham,52,Male,C3,Sol,13,Vegan,Cancelled,16,8/2/2022
+CX9670,Cathay Pacific,Hong Kong International,Hong Kong,China,7:40 AM,Changi,Singapore,Singapore,8,Franky Garvan,107,Male,A1,Naira,11,Gluten-free,Cancelled,50,12/20/2022
+BA2312,British Airways,Heathrow,London,UK,9:07 AM,Vienna International,Vienna,Austria,17,Fernandina Balding,46,Female,A1,Yuan Renminbi,37,Vegetarian,Cancelled,7,3/8/2022
+QF6818,Qantas,Sydney Airport,Sydney,Australia,1:53 PM,O.R. Tambo International,Johannesburg,South Africa,1,Essa Charge,76,Female,A1,Koruna,18,Vegan,Cancelled,4,9/6/2022
+TG7094,Thai Airways,Suvarnabhumi,Bangkok,Thailand,1:50 AM,Changi,Singapore,Singapore,15,Hendrick Mawdsley,93,Bigender,A1,Euro,41,Gluten-free,Cancelled,11,9/21/2022
+BA5073,British Airways,Heathrow,London,UK,7:33 PM,Charles de Gaulle,Paris,France,19,Briny Mapis,77,Female,A1,Yuan Renminbi,21,Gluten-free,Cancelled,35,8/11/2022
+QR6105,Qatar Airways,Hamad International,Doha,Qatar,7:00 PM,Bole International,Addis Ababa,Ethiopia,1,Cordi Cane,34,Female,C3,Rial,5,Vegetarian,On time,11,6/2/2022
+LH5512,Lufthansa,Frankfurt Airport,Frankfurt,Germany,9:16 AM,Charles de Gaulle,Paris,France,6,Giraud Tidbold,74,Male,B2,Dirham,15,Gluten-free,Delayed,32,1/15/2022
+QR9862,Qatar Airways,Hamad International,Doha,Qatar,9:25 PM,Bole International,Addis Ababa,Ethiopia,13,Garland Maddin,49,Female,C3,Yuan Renminbi,23,Vegan,Cancelled,11,11/7/2022
+AM9388,Aeroméxico,Benito Juárez International,Mexico City,Mexico,12:43 PM,O'Hare International,Chicago,USA,21,Edgard Kirman,98,Male,A1,Real,17,Vegan,Cancelled,7,10/7/2022
+AM2109,Aeroméxico,Benito Juárez International,Mexico City,Mexico,8:05 PM,Dallas/Fort Worth International,Dallas,USA,7,Catherina Meaney,78,Female,B2,Dollar,24,Vegan,On time,20,8/3/2022
+UA8466,United Airlines,Los Angeles International,Los Angeles,USA,9:13 PM,John F. Kennedy International,New York,USA,10,Vernor Hatfield,110,Male,B2,Krona,32,Vegetarian,Cancelled,38,1/2/2022
+WN7063,Southwest Airlines,Los Angeles International,Los Angeles,USA,2:44 AM,San Francisco International,San Francisco,USA,24,Berti Catterill,53,Male,C3,Franc,23,Vegetarian,On time,49,10/5/2022
+SQ4254,Singapore Airlines,Changi,Singapore,Singapore,12:22 PM,Beijing Capital International,Beijing,China,6,Tiphanie Yglesias,115,Female,B2,Peso,45,Vegan,On time,4,5/24/2022
+AV9889,Avianca,El Dorado International,Bogotá,Colombia,3:55 AM,O'Hare International,Chicago,USA,4,Con Lotherington,90,Female,C3,Denar,15,Vegan,On time,24,5/28/2022
+KL3664,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Netherlands,2:49 AM,Frankfurt Airport,Frankfurt,Germany,10,Phillipp Fassbindler,59,Male,A1,Baht,29,Vegan,On time,50,6/20/2022
+AZ4247,Alitalia,Leonardo da Vinci International,Rome,Italy,4:12 PM,Charles de Gaulle,Paris,France,5,Kalli Potes,61,Female,C3,Krona,43,Vegetarian,Cancelled,30,9/25/2022
+AI3656,Air India,Indira Gandhi International,Delhi,India,12:00 PM,Chhatrapati Shivaji International,Mumbai,India,18,Scottie Edmeads,34,Male,C3,Yuan Renminbi,34,Gluten-free,Cancelled,43,7/27/2022
+AV6412,Avianca,El Dorado International,Bogotá,Colombia,12:15 AM,O'Hare International,Chicago,USA,11,Emlynn Rhule,32,Female,C3,Krona,38,Vegan,Cancelled,42,6/15/2022
+IB7853,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,11:35 AM,Charles de Gaulle,Paris,France,15,Diahann Mompesson,16,Female,A1,Rupiah,36,Vegetarian,Cancelled,48,10/6/2022
+KL6764,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Netherlands,3:23 PM,Charles de Gaulle,Paris,France,11,Alexis Wickett,18,Male,C3,Peso,40,Vegetarian,Cancelled,34,8/13/2022
+AC1668,Air Canada,Toronto Pearson,Toronto,Canada,4:26 AM,John F. Kennedy International,New York,USA,9,Bambi Kleynen,96,Female,A1,Euro,17,Vegan,Delayed,41,2/18/2022
+EK8084,Emirates,Dubai International,Dubai,UAE,3:32 AM,Hamad International,Doha,Qatar,3,Bertie Bassick,91,Male,C3,Rupiah,30,Vegetarian,Cancelled,21,4/7/2022
+UA5434,United Airlines,Los Angeles International,Los Angeles,USA,7:55 PM,San Francisco International,San Francisco,USA,16,Eunice Mertin,5,Female,C3,Denar,27,Vegan,Delayed,11,10/29/2022
+ET7859,Ethiopian Airlines,Bole International,Addis Ababa,Ethiopia,6:33 AM,Hamad International,Doha,Qatar,6,Morissa Brokenshire,61,Female,B2,Ruble,23,Vegan,Cancelled,30,5/18/2022
+UA3730,United Airlines,Los Angeles International,Los Angeles,USA,6:41 PM,San Francisco International,San Francisco,USA,11,Alida Furtado,9,Bigender,B2,Peso,32,Vegan,Cancelled,31,10/28/2022
+TG7029,Thai Airways,Suvarnabhumi,Bangkok,Thailand,4:09 AM,Changi,Singapore,Singapore,19,Sharron Walhedd,98,Female,B2,Dollar,13,Vegan,On time,43,2/4/2022
+AM4822,Aeroméxico,Benito Juárez International,Mexico City,Mexico,4:48 PM,John F. Kennedy International,New York,USA,16,Talyah Ranner,119,Female,A1,Peso,12,Vegan,Delayed,22,1/13/2022
+SA7873,South African Airways,O.R. Tambo International,Johannesburg,South Africa,11:42 AM,Logan International,Boston,USA,4,Kerrie Abby,22,Female,B2,Euro,11,Vegan,Delayed,17,7/7/2022
+NH3534,All Nippon Airways,Haneda,Tokyo,Japan,5:00 PM,Incheon International,Seoul,South Korea,19,Dedie Canavan,2,Female,C3,Yuan Renminbi,3,Gluten-free,Cancelled,24,6/30/2022
+AI4844,Air India,Indira Gandhi International,Delhi,India,2:44 AM,Chhatrapati Shivaji International,Mumbai,India,1,Kinnie Yuryaev,115,Male,C3,Peso,9,Gluten-free,On time,6,7/29/2022
+DL9163,Delta Air Lines,John F. Kennedy International,New York,USA,1:30 PM,Hartsfield-Jackson Atlanta,Atlanta,USA,24,Arlyne Kinglesyd,66,Female,B2,Euro,12,Vegetarian,Delayed,11,5/13/2022
+AI2219,Air India,Indira Gandhi International,Delhi,India,11:58 PM,Chhatrapati Shivaji International,Mumbai,India,16,Diego Sherwell,118,Male,C3,Yuan Renminbi,39,Vegan,On time,36,2/28/2022
+TG1198,Thai Airways,Suvarnabhumi,Bangkok,Thailand,7:29 PM,Zurich Airport,Zurich,Switzerland,4,Terza Dowsett,74,Female,B2,Rupiah,44,Vegan,Delayed,22,3/19/2022
+AM6524,Aeroméxico,Benito Juárez International,Mexico City,Mexico,5:13 PM,O'Hare International,Chicago,USA,10,Shirline Iapico,97,Non-binary,A1,Dinar,18,Gluten-free,Cancelled,27,9/30/2022
+TG9132,Thai Airways,Suvarnabhumi,Bangkok,Thailand,12:48 AM,Changi,Singapore,Singapore,24,Shell Aldis,83,Male,C3,Shekel,39,Vegan,On time,45,5/15/2022
+TG1360,Thai Airways,Suvarnabhumi,Bangkok,Thailand,3:20 AM,Changi,Singapore,Singapore,11,Lynnette Whight,65,Female,C3,Kwanza,7,Vegan,Delayed,13,4/11/2022
+SQ5181,Singapore Airlines,Changi,Singapore,Singapore,4:57 PM,Hong Kong International,Hong Kong,China,3,Gil Grieves,36,Male,C3,Rial,20,Vegan,Cancelled,12,3/19/2022
+CX9649,Cathay Pacific,Hong Kong International,Hong Kong,China,1:09 PM,Changi,Singapore,Singapore,6,Wanda Comusso,32,Female,A1,Litas,2,Vegan,Cancelled,9,8/23/2022
+SA4001,South African Airways,O.R. Tambo International,Johannesburg,South Africa,11:03 PM,John F. Kennedy International,New York,USA,4,Harriet Lillie,88,Female,A1,Rupiah,48,Gluten-free,Delayed,37,6/9/2022
+AA4410,American Airlines,John F. Kennedy International,New York,USA,4:47 PM,Leonardo da Vinci International,Rome,Italy,15,Erick Speer,47,Male,C3,Sol,42,Gluten-free,Delayed,46,9/10/2022
+SK2761,SAS Scandinavian,Copenhagen Airport,Copenhagen,Denmark,1:28 PM,Indira Gandhi International,Delhi,India,17,Ariadne Dineen,75,Agender,C3,Naira,5,Vegan,Delayed,33,12/17/2022
+AM4741,Aeroméxico,Benito Juárez International,Mexico City,Mexico,4:44 PM,O'Hare International,Chicago,USA,24,Lawry Patillo,61,Male,C3,Real,41,Gluten-free,On time,20,3/26/2022
+LH5015,Lufthansa,Frankfurt Airport,Frankfurt,Germany,7:36 AM,Zurich Airport,Zurich,Switzerland,19,Allx Heathcote,98,Female,C3,Rupiah,16,Gluten-free,On time,35,4/11/2022
+TG3165,Thai Airways,Suvarnabhumi,Bangkok,Thailand,12:09 AM,Indira Gandhi International,Delhi,India,23,Linoel Taylder,15,Male,A1,Baht,6,Gluten-free,On time,12,5/12/2022
+LA3470,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,1:49 AM,Ministro Pistarini International,Buenos Aires,Argentina,3,Hart Mushrow,35,Male,A1,Ruble,33,Vegan,On time,27,6/3/2022
+LA7466,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,3:30 AM,Ministro Pistarini International,Buenos Aires,Argentina,12,Rog Paylor,104,Male,A1,Zloty,24,Vegan,Cancelled,46,5/7/2022
+LA7200,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,7:04 PM,Ministro Pistarini International,Buenos Aires,Argentina,6,Keriann Ties,46,Female,A1,Yen,14,Gluten-free,On time,1,7/27/2022
+LA9176,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,3:18 PM,Ministro Pistarini International,Buenos Aires,Argentina,15,Pegeen Cayet,84,Female,A1,Dollar,43,Gluten-free,Delayed,22,6/16/2022
+EK5372,Emirates,Dubai International,Dubai,UAE,10:15 PM,Bole International,Addis Ababa,Ethiopia,17,Merv Ffrench,32,Male,B2,Rupee,34,Vegan,Cancelled,32,3/13/2022
+AV6383,Avianca,El Dorado International,Bogotá,Colombia,2:12 PM,O'Hare International,Chicago,USA,19,Grethel Lawman,7,Female,C3,Real,10,Gluten-free,Delayed,15,5/19/2022
+CX8341,Cathay Pacific,Hong Kong International,Hong Kong,China,8:04 PM,Incheon International,Seoul,South Korea,2,Tobey Feek,21,Female,A1,Rupiah,0,Vegetarian,Cancelled,45,3/14/2022
+TG4764,Thai Airways,Suvarnabhumi,Bangkok,Thailand,2:59 AM,Changi,Singapore,Singapore,17,Erda Usborn,108,Female,C3,Yuan Renminbi,4,Gluten-free,On time,18,11/22/2022
+DL2593,Delta Air Lines,John F. Kennedy International,New York,USA,5:09 PM,Hartsfield-Jackson Atlanta,Atlanta,USA,3,Cyrillus George,43,Male,B2,Peso,14,Vegetarian,On time,50,7/14/2022
+AA1659,American Airlines,John F. Kennedy International,New York,USA,1:57 AM,Munich Airport,Munich,Germany,7,Walliw Streatley,6,Female,A1,Pound,10,Vegetarian,Cancelled,44,3/29/2022
+KL3432,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Netherlands,12:33 PM,Beijing Capital International,Beijing,China,19,Annabal Kemsley,14,Female,C3,Kuna,27,Vegan,Cancelled,23,3/11/2022
+SQ9836,Singapore Airlines,Changi,Singapore,Singapore,6:57 PM,Beijing Capital International,Beijing,China,4,Frederico Kirvin,101,Male,C3,Dollar,40,Vegan,Cancelled,2,11/7/2022
+CX6018,Cathay Pacific,Hong Kong International,Hong Kong,China,2:13 AM,Changi,Singapore,Singapore,15,Aldus McTrustrie,114,Male,B2,Zloty,37,Vegetarian,Delayed,27,8/25/2022
+AM4613,Aeroméxico,Benito Juárez International,Mexico City,Mexico,3:16 PM,O'Hare International,Chicago,USA,3,Vanny Zarfati,31,Female,A1,Rupiah,2,Gluten-free,On time,31,11/10/2022
+LA3944,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,4:30 AM,Ministro Pistarini International,Buenos Aires,Argentina,19,Karlan Imison,9,Male,B2,Yuan Renminbi,13,Vegetarian,On time,33,6/11/2022
+QF7728,Qantas,Sydney Airport,Sydney,Australia,1:18 AM,O'Hare International,Chicago,USA,19,Julie Konrad,75,Genderqueer,A1,Yen,6,Gluten-free,On time,34,2/26/2022
+AZ9985,Alitalia,Leonardo da Vinci International,Rome,Italy,5:04 PM,Charles de Gaulle,Paris,France,13,Kim Tettersell,33,Male,A1,Peso,46,Vegan,Delayed,17,9/30/2022
+AC2732,Air Canada,Toronto Pearson,Toronto,Canada,10:08 PM,John F. Kennedy International,New York,USA,13,Melisenda Zorzoni,7,Female,C3,Yuan Renminbi,29,Vegetarian,Cancelled,45,2/28/2022
+SK8133,SAS Scandinavian,Copenhagen Airport,Copenhagen,Denmark,7:05 AM,Charles de Gaulle,Paris,France,13,Hyman Jelfs,60,Male,B2,Yuan Renminbi,48,Vegetarian,Delayed,3,4/7/2022
+AM1964,Aeroméxico,Benito Juárez International,Mexico City,Mexico,7:26 PM,O'Hare International,Chicago,USA,19,Terri Godrich,63,Agender,A1,Shilling,19,Vegetarian,Delayed,4,7/17/2022
+WN9434,Southwest Airlines,Los Angeles International,Los Angeles,USA,4:11 AM,San Francisco International,San Francisco,USA,13,Vanda Ishchenko,102,Female,A1,Real,15,Gluten-free,Cancelled,24,3/6/2022
+SK4873,SAS Scandinavian,Copenhagen Airport,Copenhagen,Denmark,4:08 PM,Charles de Gaulle,Paris,France,3,Lenka Messier,80,Female,B2,Ruble,46,Gluten-free,On time,43,4/13/2022
+AM5515,Aeroméxico,Benito Juárez International,Mexico City,Mexico,4:49 AM,O'Hare International,Chicago,USA,23,Linoel Koubek,112,Male,C3,Yuan Renminbi,36,Vegetarian,Delayed,49,11/28/2022
+LH4170,Lufthansa,Frankfurt Airport,Frankfurt,Germany,1:13 AM,Charles de Gaulle,Paris,France,21,Latrena Merfin,90,Female,B2,Yuan Renminbi,32,Vegan,Delayed,15,1/28/2022
+UA4288,United Airlines,Los Angeles International,Los Angeles,USA,5:43 PM,San Francisco International,San Francisco,USA,13,Debbi Tallowin,46,Female,B2,Ruble,13,Gluten-free,Cancelled,4,4/14/2022
+AC8533,Air Canada,Toronto Pearson,Toronto,Canada,10:25 PM,El Dorado International,Bogotá,Colombia,24,Cello Foard,75,Male,B2,Won,5,Vegan,On time,19,11/13/2022
+WN1641,Southwest Airlines,Los Angeles International,Los Angeles,USA,12:27 PM,San Francisco International,San Francisco,USA,24,Douglass Agastina,65,Male,C3,Dollar,27,Vegetarian,Cancelled,26,6/22/2022
+LA2548,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,9:33 PM,Ministro Pistarini International,Buenos Aires,Argentina,22,Dewitt Byers,79,Male,A1,Won,23,Vegan,Cancelled,34,11/6/2022
+KE5697,Korean Air,Incheon International,Seoul,South Korea,8:19 AM,São Paulo/Guarulhos International,São Paulo,Brazil,24,Bambi Thumann,58,Bigender,B2,Pound,9,Vegetarian,Cancelled,28,7/16/2022
+AZ5490,Alitalia,Leonardo da Vinci International,Rome,Italy,8:04 PM,Charles de Gaulle,Paris,France,20,Malorie Venner,4,Female,B2,Euro,42,Vegan,Cancelled,22,9/2/2022
+DL3408,Delta Air Lines,John F. Kennedy International,New York,USA,4:34 PM,Hartsfield-Jackson Atlanta,Atlanta,USA,14,Murdock Karolewski,16,Male,A1,Yuan Renminbi,37,Vegetarian,Cancelled,15,12/19/2022
+BA3590,British Airways,Heathrow,London,UK,6:20 AM,Charles de Gaulle,Paris,France,23,Fina Hayer,10,Female,C3,Euro,49,Vegetarian,On time,2,10/26/2022
+AA4065,American Airlines,John F. Kennedy International,New York,USA,12:06 AM,Logan International,Boston,USA,11,Clarabelle Kynton,47,Female,A1,Zloty,9,Vegetarian,Cancelled,3,10/17/2022
+AI1800,Air India,Indira Gandhi International,Delhi,India,10:13 PM,Chhatrapati Shivaji International,Mumbai,India,16,Cindy Claffey,67,Female,C3,Yuan Renminbi,24,Vegetarian,Cancelled,40,1/24/2022
+UA7792,United Airlines,Los Angeles International,Los Angeles,USA,4:32 PM,Dallas/Fort Worth International,Dallas,USA,20,Kori Godfray,13,Female,C3,Baht,21,Vegan,Delayed,13,2/15/2022
+QF5881,Qantas,Sydney Airport,Sydney,Australia,9:07 AM,Bole International,Addis Ababa,Ethiopia,6,Mitchel Brugemann,71,Male,C3,Ariary,38,Vegetarian,On time,44,7/4/2022
+NZ2181,Air New Zealand,Auckland Airport,Auckland,New Zealand,11:18 AM,Sydney Airport,Sydney,Australia,10,Smitty Tattershall,92,Male,C3,Ringgit,13,Vegetarian,On time,39,12/11/2022
+IB8620,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,11:50 PM,Charles de Gaulle,Paris,France,20,Libbie Lutwyche,74,Female,A1,Euro,31,Gluten-free,Cancelled,33,11/18/2022
+TG1198,Thai Airways,Suvarnabhumi,Bangkok,Thailand,4:51 PM,Zurich Airport,Zurich,Switzerland,9,Clayborn Kaubisch,8,Male,B2,Ruble,0,Gluten-free,On time,40,6/23/2022
+IB1986,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,8:49 AM,Benito Juárez International,Mexico City,Mexico,12,Rollin Hevner,94,Bigender,C3,Zloty,34,Vegetarian,Delayed,5,7/6/2022
+LH1740,Lufthansa,Frankfurt Airport,Frankfurt,Germany,6:03 PM,Charles de Gaulle,Paris,France,12,Ebba Manilo,110,Female,B2,Rupiah,40,Vegetarian,Delayed,40,6/2/2022
+CX4795,Cathay Pacific,Hong Kong International,Hong Kong,China,6:26 AM,Changi,Singapore,Singapore,14,Patten Bachman,17,Male,C3,Dinar,11,Gluten-free,Cancelled,30,1/22/2022
+UA9423,United Airlines,Los Angeles International,Los Angeles,USA,6:05 PM,San Francisco International,San Francisco,USA,16,Myrvyn Marsie,48,Bigender,B2,Dollar,42,Vegan,On time,2,7/2/2022
+NH6177,All Nippon Airways,Haneda,Tokyo,Japan,10:52 AM,Amsterdam Airport Schiphol,Amsterdam,Netherlands,3,Toni Faulconbridge,3,Female,B2,Rupiah,29,Gluten-free,Delayed,11,4/1/2022
+BA6896,British Airways,Heathrow,London,UK,4:53 PM,Amsterdam Airport Schiphol,Amsterdam,Netherlands,21,Norry Mesant,41,Male,B2,Rupee,48,Vegetarian,On time,12,12/18/2022
+QR8144,Qatar Airways,Hamad International,Doha,Qatar,1:05 AM,Bole International,Addis Ababa,Ethiopia,12,Dehlia Pedrielli,11,Female,C3,Ruble,34,Gluten-free,Delayed,17,11/24/2022
+LA9967,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,12:16 AM,Arturo Merino Benítez International,Santiago,Chile,10,Michaeline Morgans,111,Female,B2,Rupiah,6,Vegan,Cancelled,44,2/1/2022
+WN1265,Southwest Airlines,Los Angeles International,Los Angeles,USA,12:34 AM,Vancouver International,Vancouver,Canada,24,Bailey Dumbrall,54,Male,B2,Yuan Renminbi,47,Vegetarian,Cancelled,8,12/2/2022
+ET3337,Ethiopian Airlines,Bole International,Addis Ababa,Ethiopia,4:27 AM,Jomo Kenyatta International,Nairobi,Kenya,12,Sebastian Ghirardi,48,Male,B2,Zloty,15,Gluten-free,Cancelled,13,7/6/2022
+AF8178,Air France,Charles de Gaulle,Paris,France,9:03 PM,Frankfurt Airport,Frankfurt,Germany,1,Colene Harverson,66,Female,C3,Yuan Renminbi,19,Vegetarian,Delayed,32,7/2/2022
+AI6733,Air India,Indira Gandhi International,Delhi,India,6:10 AM,Chhatrapati Shivaji International,Mumbai,India,16,Murry Bazell,90,Male,A1,Euro,14,Gluten-free,On time,4,6/1/2022
+CX6018,Cathay Pacific,Hong Kong International,Hong Kong,China,8:31 AM,Changi,Singapore,Singapore,13,Thaddeus Husby,30,Male,B2,Franc,42,Vegan,On time,1,1/27/2022
+AA4128,American Airlines,John F. Kennedy International,New York,USA,3:25 PM,Hartsfield-Jackson Atlanta,Atlanta,USA,4,Cheslie Kiossel,35,Female,B2,Krona,47,Gluten-free,On time,11,10/30/2022
+AZ9034,Alitalia,Leonardo da Vinci International,Rome,Italy,6:48 AM,Amsterdam Airport Schiphol,Amsterdam,Netherlands,18,Indira Matthessen,54,Female,C3,Ariary,17,Vegetarian,Delayed,2,8/14/2022
+AM1832,Aeroméxico,Benito Juárez International,Mexico City,Mexico,7:31 PM,O'Hare International,Chicago,USA,17,Horst Allibon,55,Male,C3,Zloty,45,Vegetarian,On time,1,5/27/2022
+IB8526,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,4:12 PM,Charles de Gaulle,Paris,France,24,Stuart Cutridge,80,Male,A1,Peso,47,Vegetarian,On time,42,8/3/2022
+UA9753,United Airlines,Los Angeles International,Los Angeles,USA,9:58 PM,San Francisco International,San Francisco,USA,13,Ted Duny,49,Female,A1,Naira,6,Vegan,Cancelled,9,4/25/2022
+AF9045,Air France,Charles de Gaulle,Paris,France,4:20 PM,Frankfurt Airport,Frankfurt,Germany,1,Abbey Arrighetti,89,Male,A1,Yuan Renminbi,4,Vegetarian,Delayed,45,1/22/2022
+WN6141,Southwest Airlines,Los Angeles International,Los Angeles,USA,2:10 AM,San Francisco International,San Francisco,USA,19,Kayla McPharlain,66,Female,C3,Rupiah,14,Vegetarian,Delayed,41,11/15/2022
+AI6503,Air India,Indira Gandhi International,Delhi,India,4:59 PM,Suvarnabhumi,Bangkok,Thailand,10,Jenn Grichukhanov,38,Female,A1,Yuan Renminbi,22,Vegan,On time,8,8/9/2022
+IB5775,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,8:43 AM,Leonardo da Vinci International,Rome,Italy,9,Jon Lipp,89,Male,B2,Rupiah,7,Gluten-free,Cancelled,24,12/20/2022
+AA2984,American Airlines,John F. Kennedy International,New York,USA,12:09 AM,Hartsfield-Jackson Atlanta,Atlanta,USA,14,Eddie Yankeev,72,Female,C3,Rupiah,28,Gluten-free,On time,34,4/23/2022
+UA3447,United Airlines,Los Angeles International,Los Angeles,USA,2:42 AM,San Francisco International,San Francisco,USA,18,Adara Tollit,5,Female,C3,Rupiah,23,Gluten-free,On time,34,11/26/2022
+NH2223,All Nippon Airways,Haneda,Tokyo,Japan,6:53 AM,Changi,Singapore,Singapore,7,Elna Mechem,40,Female,C3,Real,31,Vegetarian,Cancelled,44,2/17/2022
+BA3483,British Airways,Heathrow,London,UK,2:12 PM,Charles de Gaulle,Paris,France,14,Randell Soro,60,Male,C3,Yuan Renminbi,42,Gluten-free,Cancelled,34,12/14/2022
+AA1730,American Airlines,John F. Kennedy International,New York,USA,4:06 PM,Arturo Merino Benítez International,Santiago,Chile,4,Ansel Veare,12,Agender,C3,Euro,40,Vegetarian,Delayed,11,5/28/2022
+WN2104,Southwest Airlines,Los Angeles International,Los Angeles,USA,3:24 AM,Seattle-Tacoma International,Seattle,USA,16,Genni Springthorpe,116,Female,A1,Peso,47,Vegan,On time,42,3/26/2022
+AA6703,American Airlines,John F. Kennedy International,New York,USA,10:14 AM,Hartsfield-Jackson Atlanta,Atlanta,USA,12,Keriann Girardetti,84,Female,B2,Lempira,20,Vegetarian,On time,15,7/4/2022
+BA5740,British Airways,Heathrow,London,UK,5:44 PM,Charles de Gaulle,Paris,France,4,Honey Rosenblatt,10,Female,C3,Yuan Renminbi,38,Gluten-free,Cancelled,18,3/20/2022
+AI5205,Air India,Indira Gandhi International,Delhi,India,2:17 PM,Dubai International,Dubai,UAE,21,Domenico Whissell,68,Genderfluid,B2,Yuan Renminbi,30,Gluten-free,Delayed,23,6/17/2022
+SQ6733,Singapore Airlines,Changi,Singapore,Singapore,8:30 PM,Brisbane Airport,Brisbane,Australia,17,Reider Livett,72,Male,B2,Rupiah,1,Vegetarian,Delayed,34,8/9/2022
+UA5839,United Airlines,Los Angeles International,Los Angeles,USA,9:48 AM,Vancouver International,Vancouver,Canada,14,Margie Tonry,42,Female,B2,Shilling,33,Vegan,Cancelled,12,2/5/2022
+AC9854,Air Canada,Toronto Pearson,Toronto,Canada,6:23 PM,John F. Kennedy International,New York,USA,6,Phebe Dahl,40,Female,A1,Yuan Renminbi,13,Vegetarian,Cancelled,11,1/2/2022
+UA5308,United Airlines,Los Angeles International,Los Angeles,USA,11:21 AM,Jorge Chávez International,Lima,Peru,15,Jaynell Thomasen,104,Female,B2,Lempira,25,Vegetarian,Cancelled,38,7/13/2022
+SA2497,South African Airways,O.R. Tambo International,Johannesburg,South Africa,3:22 AM,Charles de Gaulle,Paris,France,6,Jabez Ivatts,77,Male,B2,Ruble,31,Vegetarian,Delayed,48,11/19/2022
+AM1046,Aeroméxico,Benito Juárez International,Mexico City,Mexico,10:20 AM,O'Hare International,Chicago,USA,1,Rudy Patemore,52,Male,C3,Dollar,21,Gluten-free,Delayed,29,11/7/2022
+WN3122,Southwest Airlines,Los Angeles International,Los Angeles,USA,5:18 AM,San Francisco International,San Francisco,USA,20,Atlanta Arniz,100,Female,B2,Rupiah,36,Vegan,On time,5,1/15/2022
+DL1991,Delta Air Lines,John F. Kennedy International,New York,USA,8:33 PM,Vancouver International,Vancouver,Canada,13,Janela Kelshaw,6,Female,A1,Krone,47,Vegan,Delayed,34,4/10/2022
+BA5126,British Airways,Heathrow,London,UK,12:18 AM,Charles de Gaulle,Paris,France,7,Louie O' Culligan,10,Male,A1,Euro,2,Vegan,Delayed,16,1/15/2022
+AV3548,Avianca,El Dorado International,Bogotá,Colombia,2:03 AM,O'Hare International,Chicago,USA,16,Gabrila Elph,1,Female,B2,Zloty,4,Vegan,Delayed,2,11/7/2022
+EK4610,Emirates,Dubai International,Dubai,UAE,11:14 AM,Cairo International,Cairo,Egypt,8,Ramonda Jacobs,35,Female,B2,Yuan Renminbi,23,Vegan,Delayed,13,4/7/2022
+AZ6701,Alitalia,Leonardo da Vinci International,Rome,Italy,10:46 AM,Frankfurt Airport,Frankfurt,Germany,4,Kearney Tuft,76,Male,C3,Euro,41,Vegan,Cancelled,19,10/29/2022
+AZ3341,Alitalia,Leonardo da Vinci International,Rome,Italy,12:20 AM,Haneda,Tokyo,Japan,12,Ranee Bernardet,53,Female,B2,Peso,46,Vegan,On time,43,12/24/2022
+CX5974,Cathay Pacific,Hong Kong International,Hong Kong,China,4:35 PM,Suvarnabhumi,Bangkok,Thailand,12,Wakefield Fairholme,19,Male,B2,Colon,42,Vegetarian,On time,12,3/21/2022
+SQ4766,Singapore Airlines,Changi,Singapore,Singapore,8:10 PM,Beijing Capital International,Beijing,China,17,Pyotr Barthrop,67,Male,A1,Naira,29,Vegan,On time,8,6/20/2022
+SK5257,SAS Scandinavian,Copenhagen Airport,Copenhagen,Denmark,3:26 PM,Charles de Gaulle,Paris,France,3,Ernest Kirsch,65,Male,A1,Yuan Renminbi,32,Vegan,Cancelled,21,8/21/2022
+QF3711,Qantas,Sydney Airport,Sydney,Australia,4:19 AM,Melbourne Airport,Melbourne,Australia,14,Clarabelle Gaskall,48,Female,B2,Real,7,Gluten-free,On time,14,7/23/2022
+KE5551,Korean Air,Incheon International,Seoul,South Korea,9:08 PM,Kuala Lumpur International,Kuala Lumpur,Malaysia,12,Estevan Lamprecht,96,Male,B2,Tugrik,21,Vegan,On time,17,8/11/2022
+AI8209,Air India,Indira Gandhi International,Delhi,India,2:41 AM,Chhatrapati Shivaji International,Mumbai,India,3,Karin Eliyahu,103,Polygender,A1,Dram,16,Vegetarian,On time,39,4/18/2022
+AA7149,American Airlines,John F. Kennedy International,New York,USA,5:31 AM,Hartsfield-Jackson Atlanta,Atlanta,USA,13,Heddi Moores,86,Female,B2,Baht,31,Vegan,Cancelled,11,9/13/2022
+LA2448,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,10:11 AM,Ministro Pistarini International,Buenos Aires,Argentina,8,Felix Walkey,17,Genderfluid,B2,Pound,23,Gluten-free,Cancelled,40,8/9/2022
+SQ4809,Singapore Airlines,Changi,Singapore,Singapore,6:59 AM,Leonardo da Vinci International,Rome,Italy,19,Anastasia Witcher,113,Female,B2,Ruble,20,Gluten-free,Cancelled,31,10/14/2022
+SK8223,SAS Scandinavian,Copenhagen Airport,Copenhagen,Denmark,6:21 PM,Dubai International,Dubai,UAE,2,Kahlil Gower,67,Non-binary,C3,Peso,7,Gluten-free,Cancelled,21,2/20/2022
+SK1999,SAS Scandinavian,Copenhagen Airport,Copenhagen,Denmark,10:59 PM,Munich Airport,Munich,Germany,20,Neda Burnep,87,Female,B2,Yuan Renminbi,38,Gluten-free,On time,26,8/5/2022
+IB4913,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,6:57 AM,Amsterdam Airport Schiphol,Amsterdam,Netherlands,14,Dickie Glencross,63,Male,B2,Sol,26,Vegetarian,Cancelled,31,1/9/2022
+AZ3842,Alitalia,Leonardo da Vinci International,Rome,Italy,5:29 PM,Charles de Gaulle,Paris,France,11,Germain Monget,108,Male,B2,Yuan Renminbi,31,Gluten-free,On time,10,6/29/2022
+LH9661,Lufthansa,Frankfurt Airport,Frankfurt,Germany,4:03 AM,Charles de Gaulle,Paris,France,4,Wainwright Becraft,37,Male,A1,Koruna,24,Gluten-free,On time,9,7/23/2022
+LH3518,Lufthansa,Frankfurt Airport,Frankfurt,Germany,4:23 PM,Charles de Gaulle,Paris,France,1,Brennan Beamish,81,Male,C3,Peso,41,Vegan,Delayed,19,11/2/2022
+QF9225,Qantas,Sydney Airport,Sydney,Australia,11:18 PM,Melbourne Airport,Melbourne,Australia,15,Elwood Cassell,74,Male,A1,Euro,12,Vegan,Delayed,23,11/28/2022
+BA3224,British Airways,Heathrow,London,UK,7:10 PM,Hamad International,Doha,Qatar,20,Roger Dimbleby,100,Male,A1,Euro,29,Vegan,Cancelled,45,8/31/2022
+AZ6818,Alitalia,Leonardo da Vinci International,Rome,Italy,3:00 AM,Charles de Gaulle,Paris,France,22,Maurie Mackin,76,Male,A1,Zloty,11,Vegetarian,On time,41,6/8/2022
+CX8163,Cathay Pacific,Hong Kong International,Hong Kong,China,9:01 PM,Kuala Lumpur International,Kuala Lumpur,Malaysia,23,Deirdre Genders,58,Female,C3,Dollar,3,Gluten-free,Cancelled,50,4/29/2022
+EK9582,Emirates,Dubai International,Dubai,UAE,2:00 AM,Hamad International,Doha,Qatar,9,Jamey Fantini,22,Male,B2,Forint,7,Vegan,Delayed,10,3/1/2022
+SQ3273,Singapore Airlines,Changi,Singapore,Singapore,4:48 AM,Chhatrapati Shivaji International,Mumbai,India,14,Edsel Heinemann,1,Male,B2,Dirham,35,Gluten-free,Cancelled,44,1/19/2022
+SK2389,SAS Scandinavian,Copenhagen Airport,Copenhagen,Denmark,5:06 PM,Charles de Gaulle,Paris,France,10,Lynsey Sieghard,109,Female,C3,Euro,28,Vegan,On time,39,10/25/2022
+AF3537,Air France,Charles de Gaulle,Paris,France,8:17 AM,Frankfurt Airport,Frankfurt,Germany,5,Nealson Hinners,64,Male,C3,Afghani,32,Vegan,Cancelled,11,6/7/2022
+UA1609,United Airlines,Los Angeles International,Los Angeles,USA,5:23 PM,Vancouver International,Vancouver,Canada,7,Colas Dummer,58,Male,B2,Real,43,Vegetarian,Cancelled,27,1/4/2022
+QF4102,Qantas,Sydney Airport,Sydney,Australia,10:17 AM,Kuala Lumpur International,Kuala Lumpur,Malaysia,10,Cherice Lamberts,74,Female,A1,Koruna,2,Vegan,Delayed,10,8/12/2022
+WN5400,Southwest Airlines,Los Angeles International,Los Angeles,USA,8:31 AM,San Francisco International,San Francisco,USA,6,Sydel Maddrah,114,Female,C3,Real,41,Vegan,Cancelled,5,6/30/2022
+UA9709,United Airlines,Los Angeles International,Los Angeles,USA,2:55 PM,San Francisco International,San Francisco,USA,15,Darin Featherstonehaugh,21,Male,B2,Euro,42,Vegan,Delayed,11,12/16/2022
+NH7298,All Nippon Airways,Haneda,Tokyo,Japan,11:43 AM,Suvarnabhumi,Bangkok,Thailand,18,Clementia Middell,50,Female,C3,Naira,23,Gluten-free,Delayed,48,12/21/2022
+AA6628,American Airlines,John F. Kennedy International,New York,USA,1:13 PM,Hartsfield-Jackson Atlanta,Atlanta,USA,7,Hope Cogley,92,Female,A1,Euro,44,Vegetarian,Cancelled,2,2/12/2022
+NZ5940,Air New Zealand,Auckland Airport,Auckland,New Zealand,2:05 PM,Sydney Airport,Sydney,Australia,24,Cathie Wiley,82,Female,B2,Franc,10,Vegan,Delayed,14,1/29/2022
+NH3402,All Nippon Airways,Haneda,Tokyo,Japan,9:41 AM,Incheon International,Seoul,South Korea,5,Adolphe Olek,82,Male,B2,Yuan Renminbi,39,Vegetarian,On time,1,6/7/2022
+QF8051,Qantas,Sydney Airport,Sydney,Australia,6:36 AM,Melbourne Airport,Melbourne,Australia,22,Loreen Queenborough,89,Female,B2,Euro,30,Gluten-free,On time,7,8/5/2022
+AM2164,Aeroméxico,Benito Juárez International,Mexico City,Mexico,11:14 AM,Heathrow,London,UK,19,Harmony Bolstridge,63,Female,B2,Peso,23,Vegan,Cancelled,29,6/22/2022
+EK4332,Emirates,Dubai International,Dubai,UAE,4:03 AM,Hamad International,Doha,Qatar,5,Karl Libri,47,Male,A1,Shekel,23,Vegan,On time,16,5/31/2022
+KL7602,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Netherlands,1:45 AM,Charles de Gaulle,Paris,France,14,Conan Healing,59,Male,B2,Yen,3,Gluten-free,Cancelled,18,1/6/2022
+ET6504,Ethiopian Airlines,Bole International,Addis Ababa,Ethiopia,9:11 PM,Hamad International,Doha,Qatar,8,Dominique Noorwood,87,Bigender,B2,Rupiah,19,Vegetarian,Delayed,46,8/6/2022
+ET8204,Ethiopian Airlines,Bole International,Addis Ababa,Ethiopia,1:05 PM,Hamad International,Doha,Qatar,6,Igor Deer,49,Male,B2,Krona,27,Gluten-free,Cancelled,24,8/31/2022
+AF6875,Air France,Charles de Gaulle,Paris,France,1:26 AM,Melbourne Airport,Melbourne,Australia,11,Danice Merveille,68,Female,A1,Rupiah,23,Vegetarian,Cancelled,27,11/5/2022
+AF4414,Air France,Charles de Gaulle,Paris,France,5:37 PM,El Dorado International,Bogotá,Colombia,10,Wynnie Corbert,22,Female,A1,Sol,2,Vegan,Cancelled,19,2/20/2022
+NH8723,All Nippon Airways,Haneda,Tokyo,Japan,5:09 AM,Incheon International,Seoul,South Korea,2,Fowler McHugh,117,Male,B2,Rupiah,47,Vegan,Cancelled,27,1/28/2022
+LH1832,Lufthansa,Frankfurt Airport,Frankfurt,Germany,2:33 AM,Charles de Gaulle,Paris,France,2,Jaine Bispham,93,Female,C3,Zloty,11,Gluten-free,Delayed,36,4/12/2022
+SA8115,South African Airways,O.R. Tambo International,Johannesburg,South Africa,1:22 PM,Charles de Gaulle,Paris,France,3,Oliy McKeney,38,Female,B2,Boliviano,0,Gluten-free,On time,23,8/22/2022
+AI5467,Air India,Indira Gandhi International,Delhi,India,1:10 PM,Incheon International,Seoul,South Korea,23,Carter Jordanson,73,Male,B2,Yuan Renminbi,29,Gluten-free,Cancelled,27,5/29/2022
+DL5874,Delta Air Lines,John F. Kennedy International,New York,USA,7:19 PM,Los Angeles International,Los Angeles,USA,3,Fleming Fido,89,Male,B2,Pound,34,Vegetarian,Cancelled,24,10/25/2022
+QF2863,Qantas,Sydney Airport,Sydney,Australia,7:41 PM,Melbourne Airport,Melbourne,Australia,17,Ferdinand Fausch,108,Male,C3,Rupiah,25,Gluten-free,On time,30,2/10/2022
+AC5745,Air Canada,Toronto Pearson,Toronto,Canada,12:46 AM,Logan International,Boston,USA,13,Bert Melbourn,61,Genderfluid,B2,Peso,20,Vegan,Delayed,37,3/13/2022
+NH8629,All Nippon Airways,Haneda,Tokyo,Japan,5:01 AM,Stockholm Arlanda,Stockholm,Sweden,5,Clerkclaude Itzkovwitch,13,Male,C3,Euro,9,Vegan,On time,27,5/1/2022
+CX6773,Cathay Pacific,Hong Kong International,Hong Kong,China,6:40 AM,Changi,Singapore,Singapore,6,Clementius Bantham,106,Male,B2,Dollar,41,Vegan,Delayed,32,5/23/2022
+ET8283,Ethiopian Airlines,Bole International,Addis Ababa,Ethiopia,11:20 PM,Vienna International,Vienna,Austria,21,Odie Outerbridge,53,Male,A1,Rupiah,42,Gluten-free,On time,35,6/30/2022
+SA6127,South African Airways,O.R. Tambo International,Johannesburg,South Africa,10:45 AM,Charles de Gaulle,Paris,France,15,Arley Bottinelli,45,Male,C3,Euro,23,Vegan,Cancelled,13,9/11/2022
+ET8279,Ethiopian Airlines,Bole International,Addis Ababa,Ethiopia,12:59 AM,Leonardo da Vinci International,Rome,Italy,3,Teodorico Kelinge,8,Male,A1,Bolivar,32,Vegan,Delayed,45,6/16/2022
+NZ1419,Air New Zealand,Auckland Airport,Auckland,New Zealand,10:51 AM,Sydney Airport,Sydney,Australia,7,Erek Hankins,20,Male,B2,Dirham,41,Vegetarian,On time,3,10/4/2022
+CX9277,Cathay Pacific,Hong Kong International,Hong Kong,China,4:46 AM,Charles de Gaulle,Paris,France,17,Lorettalorna Longridge,91,Female,B2,Dong,15,Vegan,Cancelled,40,4/28/2022
+AV1076,Avianca,El Dorado International,Bogotá,Colombia,1:43 PM,O'Hare International,Chicago,USA,16,Baudoin Di Pietro,68,Male,C3,Ruble,38,Vegetarian,Delayed,17,3/26/2022
+LA8222,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,9:35 PM,Ministro Pistarini International,Buenos Aires,Argentina,19,Nonnah Baruch,69,Female,C3,Peso,36,Gluten-free,Delayed,34,1/2/2022
+UA3264,United Airlines,Los Angeles International,Los Angeles,USA,5:04 AM,Seattle-Tacoma International,Seattle,USA,6,Yovonnda Hughson,80,Female,B2,Yuan Renminbi,5,Gluten-free,Cancelled,20,5/4/2022
+AV2851,Avianca,El Dorado International,Bogotá,Colombia,9:18 AM,O'Hare International,Chicago,USA,5,Teena McJury,4,Female,A1,Sol,13,Gluten-free,Cancelled,35,1/17/2022
+AZ8352,Alitalia,Leonardo da Vinci International,Rome,Italy,1:06 AM,Charles de Gaulle,Paris,France,10,Nikola Kellegher,12,Male,C3,Koruna,33,Gluten-free,Cancelled,1,2/25/2022
+SQ6672,Singapore Airlines,Changi,Singapore,Singapore,5:12 AM,Beijing Capital International,Beijing,China,7,Bette Minchenton,56,Female,B2,Yuan Renminbi,36,Vegan,Cancelled,15,7/17/2022
+CX3703,Cathay Pacific,Hong Kong International,Hong Kong,China,5:03 PM,Changi,Singapore,Singapore,8,Aurel Zanassi,46,Female,A1,Yuan Renminbi,47,Vegan,On time,16,4/22/2022
+AI1565,Air India,Indira Gandhi International,Delhi,India,2:12 AM,Chhatrapati Shivaji International,Mumbai,India,19,Michail Truswell,62,Male,A1,Kwanza,40,Vegan,Delayed,43,8/29/2022
+ET9590,Ethiopian Airlines,Bole International,Addis Ababa,Ethiopia,10:09 AM,Indira Gandhi International,Delhi,India,18,Kile Kubyszek,59,Male,A1,Rupiah,35,Vegetarian,Cancelled,43,10/25/2022
+KE7203,Korean Air,Incheon International,Seoul,South Korea,3:04 PM,Haneda,Tokyo,Japan,2,Mathias Edson,42,Male,A1,Peso,22,Gluten-free,Delayed,19,2/2/2022
+DL2579,Delta Air Lines,John F. Kennedy International,New York,USA,12:41 AM,San Francisco International,San Francisco,USA,17,Giff Oliveti,19,Male,A1,Rupiah,27,Vegetarian,On time,37,5/3/2022
+SA2814,South African Airways,O.R. Tambo International,Johannesburg,South Africa,6:04 PM,Charles de Gaulle,Paris,France,18,Vale Janoschek,23,Male,B2,Kwacha,28,Gluten-free,On time,2,4/13/2022
+AV1794,Avianca,El Dorado International,Bogotá,Colombia,9:07 PM,Leonardo da Vinci International,Rome,Italy,19,Kim Marriott,18,Male,B2,Peso,40,Vegan,On time,28,5/28/2022
+DL7687,Delta Air Lines,John F. Kennedy International,New York,USA,10:09 PM,Hartsfield-Jackson Atlanta,Atlanta,USA,13,Claudette Roft,92,Genderfluid,C3,Rupiah,50,Vegan,Cancelled,30,10/31/2022
+QR5348,Qatar Airways,Hamad International,Doha,Qatar,6:06 PM,Bole International,Addis Ababa,Ethiopia,2,Collette Hammell,18,Female,B2,Zloty,12,Vegan,On time,13,4/10/2022
+UA2884,United Airlines,Los Angeles International,Los Angeles,USA,2:30 PM,Seattle-Tacoma International,Seattle,USA,24,Drona Coetzee,77,Genderfluid,B2,Yuan Renminbi,31,Vegetarian,Delayed,11,11/10/2022
+QR7949,Qatar Airways,Hamad International,Doha,Qatar,7:51 PM,Jomo Kenyatta International,Nairobi,Kenya,13,Gradeigh Chartre,104,Male,A1,Yuan Renminbi,41,Vegan,Delayed,15,3/29/2022
+AA9225,American Airlines,John F. Kennedy International,New York,USA,11:14 AM,Hartsfield-Jackson Atlanta,Atlanta,USA,12,Adrianne Hortop,29,Polygender,C3,Yuan Renminbi,33,Gluten-free,Cancelled,15,9/24/2022
+NZ3828,Air New Zealand,Auckland Airport,Auckland,New Zealand,11:52 AM,Sydney Airport,Sydney,Australia,14,Magdalene Dallimare,75,Agender,A1,Yuan Renminbi,1,Vegan,On time,7,6/15/2022
+NZ5050,Air New Zealand,Auckland Airport,Auckland,New Zealand,5:16 AM,Haneda,Tokyo,Japan,12,Frederica Chappel,105,Female,A1,Euro,3,Vegetarian,On time,28,7/13/2022
+SQ4686,Singapore Airlines,Changi,Singapore,Singapore,3:06 PM,Beijing Capital International,Beijing,China,24,Cammy Branno,19,Male,B2,Yuan Renminbi,30,Vegetarian,On time,24,7/3/2022
+AF1136,Air France,Charles de Gaulle,Paris,France,12:19 PM,Leonardo da Vinci International,Rome,Italy,18,Noak Killerby,70,Male,C3,Krona,21,Vegan,Cancelled,23,6/14/2022
+EK8650,Emirates,Dubai International,Dubai,UAE,11:36 PM,Hamad International,Doha,Qatar,3,Jere Netherwood,84,Male,B2,Dong,7,Gluten-free,Delayed,46,7/19/2022
+LH4742,Lufthansa,Frankfurt Airport,Frankfurt,Germany,1:34 PM,Charles de Gaulle,Paris,France,13,Sterne MacDuffie,92,Male,C3,Kip,23,Gluten-free,On time,44,7/25/2022
+QF3279,Qantas,Sydney Airport,Sydney,Australia,2:33 PM,Beijing Capital International,Beijing,China,15,Alfie Goater,100,Male,B2,Peso,15,Gluten-free,Cancelled,41,9/11/2022
+LA7466,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,1:46 PM,Ministro Pistarini International,Buenos Aires,Argentina,13,Jackson Croyser,81,Male,B2,Yuan Renminbi,11,Gluten-free,On time,31,5/12/2022
+LH2563,Lufthansa,Frankfurt Airport,Frankfurt,Germany,12:37 AM,Charles de Gaulle,Paris,France,11,Jedd Mardy,120,Male,A1,Yuan Renminbi,20,Gluten-free,On time,8,12/18/2022
+NZ4344,Air New Zealand,Auckland Airport,Auckland,New Zealand,4:34 PM,Sydney Airport,Sydney,Australia,16,Leontine Beamiss,83,Female,C3,Yuan Renminbi,38,Vegan,Cancelled,13,7/27/2022
+IB3864,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,5:27 PM,Charles de Gaulle,Paris,France,8,Ransom Willarton,107,Male,A1,Yuan Renminbi,28,Vegetarian,On time,24,10/18/2022
+QR5364,Qatar Airways,Hamad International,Doha,Qatar,8:39 PM,Bole International,Addis Ababa,Ethiopia,24,Maxi Whetson,21,Female,C3,Pound,2,Gluten-free,On time,36,5/8/2022
+AM5578,Aeroméxico,Benito Juárez International,Mexico City,Mexico,2:20 PM,Adolfo Suárez Madrid–Barajas,Madrid,Spain,16,Alvis Iacomettii,84,Male,C3,Rupiah,26,Vegan,On time,23,8/12/2022
+BA9697,British Airways,Heathrow,London,UK,10:56 PM,Frankfurt Airport,Frankfurt,Germany,7,Keary MacHarg,15,Male,C3,Yen,17,Gluten-free,On time,22,7/23/2022
+KL9596,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Netherlands,1:54 AM,Charles de Gaulle,Paris,France,11,Moyna De Zuani,53,Female,C3,Euro,45,Vegetarian,Cancelled,22,12/26/2022
+CX9197,Cathay Pacific,Hong Kong International,Hong Kong,China,5:25 AM,Amsterdam Airport Schiphol,Amsterdam,Netherlands,20,Grannie Hammell,103,Male,A1,Real,50,Gluten-free,Delayed,40,12/6/2022
+AA1385,American Airlines,John F. Kennedy International,New York,USA,3:50 PM,Hartsfield-Jackson Atlanta,Atlanta,USA,6,Denys Boar,70,Male,C3,Yuan Renminbi,1,Vegan,Delayed,24,9/17/2022
+ET9925,Ethiopian Airlines,Bole International,Addis Ababa,Ethiopia,5:56 PM,Hamad International,Doha,Qatar,17,Violette Blowes,21,Female,B2,Yuan Renminbi,15,Vegan,Cancelled,1,3/27/2022
+AZ1464,Alitalia,Leonardo da Vinci International,Rome,Italy,10:41 AM,Charles de Gaulle,Paris,France,11,Aeriela Rodson,95,Female,B2,Zloty,19,Vegetarian,Cancelled,39,3/4/2022
+CX5062,Cathay Pacific,Hong Kong International,Hong Kong,China,11:31 AM,Changi,Singapore,Singapore,6,Wallis Beven,109,Male,C3,Zloty,2,Vegan,Delayed,2,6/8/2022
+AC5450,Air Canada,Toronto Pearson,Toronto,Canada,3:33 AM,Suvarnabhumi,Bangkok,Thailand,7,Ernaline Brewis,71,Female,A1,Escudo,24,Vegetarian,Delayed,9,1/10/2022
+NH4808,All Nippon Airways,Haneda,Tokyo,Japan,2:27 AM,Incheon International,Seoul,South Korea,13,Waiter Crawcour,108,Male,C3,Dollar,44,Gluten-free,Delayed,44,11/29/2022
+NZ1688,Air New Zealand,Auckland Airport,Auckland,New Zealand,3:35 AM,Sydney Airport,Sydney,Australia,4,Hanni Luckes,96,Female,A1,Yuan Renminbi,45,Vegan,Delayed,41,6/1/2022
+SA8513,South African Airways,O.R. Tambo International,Johannesburg,South Africa,10:47 PM,Charles de Gaulle,Paris,France,12,Lynna Laise,26,Female,A1,Yuan Renminbi,17,Gluten-free,On time,23,8/31/2022
+QR4818,Qatar Airways,Hamad International,Doha,Qatar,6:23 PM,Bole International,Addis Ababa,Ethiopia,23,Anett Ellingsworth,74,Agender,C3,Hryvnia,8,Vegan,On time,28,12/9/2022
+IB6663,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,9:55 AM,Hamad International,Doha,Qatar,22,Carolin Kelly,120,Female,A1,Zloty,46,Vegetarian,Delayed,4,4/18/2022
+LH6336,Lufthansa,Frankfurt Airport,Frankfurt,Germany,3:27 PM,Cairo International,Cairo,Egypt,10,Margi O'Brollachain,108,Genderfluid,B2,Rupiah,48,Vegan,Cancelled,17,5/29/2022
+SQ4603,Singapore Airlines,Changi,Singapore,Singapore,8:41 AM,Beijing Capital International,Beijing,China,15,Martita Lowsely,94,Female,B2,Peso,35,Gluten-free,Delayed,26,11/15/2022
+LH4170,Lufthansa,Frankfurt Airport,Frankfurt,Germany,8:43 PM,Charles de Gaulle,Paris,France,3,Baldwin Canete,75,Agender,B2,Shilling,32,Gluten-free,Cancelled,1,9/3/2022
+SK9514,SAS Scandinavian,Copenhagen Airport,Copenhagen,Denmark,3:22 PM,Charles de Gaulle,Paris,France,11,Burty Gibbie,75,Male,B2,Dollar,29,Gluten-free,Cancelled,10,9/6/2022
+QR4927,Qatar Airways,Hamad International,Doha,Qatar,12:13 AM,Bole International,Addis Ababa,Ethiopia,2,Cullen Francino,41,Male,B2,Peso,11,Vegetarian,Cancelled,27,10/22/2022
+AA5573,American Airlines,John F. Kennedy International,New York,USA,9:10 AM,São Paulo/Guarulhos International,São Paulo,Brazil,24,Eadith Fortye,16,Female,A1,Peso,33,Vegetarian,Cancelled,9,3/13/2022
+QF5757,Qantas,Sydney Airport,Sydney,Australia,3:43 PM,Melbourne Airport,Melbourne,Australia,4,Devonna Kneafsey,33,Female,A1,Rupiah,37,Vegetarian,Delayed,35,8/17/2022
+IB8664,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,12:28 PM,Charles de Gaulle,Paris,France,9,Hannah Hendrix,115,Female,C3,Real,13,Gluten-free,Cancelled,20,5/23/2022
+LA1106,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,10:33 PM,Ministro Pistarini International,Buenos Aires,Argentina,16,Jennie Kalkofen,60,Female,B2,Real,36,Gluten-free,On time,16,7/15/2022
+DL6420,Delta Air Lines,John F. Kennedy International,New York,USA,2:00 PM,Hartsfield-Jackson Atlanta,Atlanta,USA,22,Carter Bolan,94,Male,C3,Zloty,0,Vegan,Cancelled,10,10/27/2022
+KE9265,Korean Air,Incheon International,Seoul,South Korea,6:53 AM,Haneda,Tokyo,Japan,15,Denice Alldis,64,Female,A1,Yen,27,Vegan,Cancelled,14,11/11/2022
+LA7443,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,10:46 AM,Los Angeles International,Los Angeles,USA,22,Gretel Savoury,27,Female,C3,Ngultrum,7,Vegan,Delayed,3,10/11/2022
+AZ5690,Alitalia,Leonardo da Vinci International,Rome,Italy,5:05 PM,Amsterdam Airport Schiphol,Amsterdam,Netherlands,11,Gaultiero Waddup,53,Male,B2,Quetzal,13,Vegan,On time,11,10/19/2022
+BA8735,British Airways,Heathrow,London,UK,6:26 AM,Charles de Gaulle,Paris,France,23,Melanie Boule,75,Female,A1,Somoni,38,Vegan,Delayed,16,12/26/2022
+NZ8208,Air New Zealand,Auckland Airport,Auckland,New Zealand,10:46 AM,Sydney Airport,Sydney,Australia,6,Vikki Pieroni,53,Female,C3,Ruble,3,Vegan,Delayed,26,11/4/2022
+AM6577,Aeroméxico,Benito Juárez International,Mexico City,Mexico,8:39 PM,O'Hare International,Chicago,USA,15,Cheryl Perfitt,80,Female,B2,Franc,43,Vegan,Cancelled,47,7/30/2022
+KL8781,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Netherlands,10:03 PM,Charles de Gaulle,Paris,France,3,Naoma Alldread,66,Female,A1,Sol,40,Vegan,Cancelled,32,4/15/2022
+UA2884,United Airlines,Los Angeles International,Los Angeles,USA,1:02 PM,Seattle-Tacoma International,Seattle,USA,13,Fraze Tidder,6,Genderfluid,B2,Euro,5,Vegetarian,On time,11,3/3/2022
+NZ5311,Air New Zealand,Auckland Airport,Auckland,New Zealand,1:54 PM,Sydney Airport,Sydney,Australia,8,Helli MacAdie,66,Non-binary,B2,Peso,49,Vegetarian,Cancelled,14,1/13/2022
+AI8973,Air India,Indira Gandhi International,Delhi,India,3:11 AM,Chhatrapati Shivaji International,Mumbai,India,10,Hazel Zywicki,38,Male,B2,Rupiah,18,Vegan,Cancelled,24,3/26/2022
+BA7461,British Airways,Heathrow,London,UK,3:20 PM,Bole International,Addis Ababa,Ethiopia,14,Lainey Parminter,103,Genderfluid,A1,Rupiah,49,Vegan,Cancelled,26,12/18/2022
+SK1258,SAS Scandinavian,Copenhagen Airport,Copenhagen,Denmark,10:49 AM,Charles de Gaulle,Paris,France,1,Gordie Imlock,6,Male,C3,Krona,7,Vegan,Cancelled,5,6/15/2022
+SK2916,SAS Scandinavian,Copenhagen Airport,Copenhagen,Denmark,11:34 AM,Charles de Gaulle,Paris,France,5,Louis Gook,62,Male,B2,Pound,38,Gluten-free,On time,17,8/5/2022
+BA5347,British Airways,Heathrow,London,UK,10:57 AM,O.R. Tambo International,Johannesburg,South Africa,19,Arthur Crocetto,42,Male,B2,Peso,16,Vegetarian,Delayed,42,2/23/2022
+EK4100,Emirates,Dubai International,Dubai,UAE,11:19 AM,Hamad International,Doha,Qatar,18,Leelah Jessop,10,Female,A1,Dollar,29,Vegan,Delayed,22,11/26/2022
+ET5759,Ethiopian Airlines,Bole International,Addis Ababa,Ethiopia,11:33 PM,Munich Airport,Munich,Germany,3,Catha Arnault,24,Female,B2,Koruna,44,Vegan,On time,5,12/12/2022
+IB3933,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,3:32 PM,Frankfurt Airport,Frankfurt,Germany,15,Lise Kilgannon,41,Female,B2,Krona,13,Vegetarian,Cancelled,21,6/26/2022
+IB3405,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,2:35 AM,Charles de Gaulle,Paris,France,20,Lurline Rubinlicht,110,Female,A1,Real,6,Vegetarian,Delayed,32,7/21/2022
+AF9694,Air France,Charles de Gaulle,Paris,France,5:31 PM,Frankfurt Airport,Frankfurt,Germany,5,Atlante Yerrill,104,Female,B2,Hryvnia,20,Gluten-free,On time,16,1/29/2022
+LH8174,Lufthansa,Frankfurt Airport,Frankfurt,Germany,6:11 PM,Charles de Gaulle,Paris,France,11,Inessa Crofts,44,Non-binary,A1,Peso,1,Vegetarian,Cancelled,7,11/11/2022
+AM7303,Aeroméxico,Benito Juárez International,Mexico City,Mexico,2:55 PM,O'Hare International,Chicago,USA,2,Ardine Shilston,57,Female,B2,Peso,27,Vegetarian,Delayed,20,6/3/2022
+QR9262,Qatar Airways,Hamad International,Doha,Qatar,5:52 PM,Bole International,Addis Ababa,Ethiopia,16,Ethelred Jurs,7,Male,A1,Dollar,8,Gluten-free,On time,29,7/28/2022
+AV9472,Avianca,El Dorado International,Bogotá,Colombia,8:47 PM,Benito Juárez International,Mexico City,Mexico,11,Paxon Ottawell,26,Male,B2,Yen,4,Gluten-free,On time,4,1/15/2022
+WN8491,Southwest Airlines,Los Angeles International,Los Angeles,USA,4:52 PM,San Francisco International,San Francisco,USA,1,Gerik Peakman,30,Male,A1,Euro,43,Vegetarian,Delayed,17,12/24/2022
+AM3096,Aeroméxico,Benito Juárez International,Mexico City,Mexico,6:18 PM,O'Hare International,Chicago,USA,10,Rorke Jedrzejewicz,81,Male,C3,Pound,14,Vegetarian,Cancelled,50,12/7/2022
+DL9974,Delta Air Lines,John F. Kennedy International,New York,USA,5:53 PM,Hong Kong International,Hong Kong,China,14,Erin Assaf,65,Female,B2,Euro,49,Vegetarian,On time,7,5/14/2022
+NH9393,All Nippon Airways,Haneda,Tokyo,Japan,8:44 PM,Incheon International,Seoul,South Korea,14,Gib Sallnow,104,Male,C3,Peso,29,Vegan,Cancelled,34,9/27/2022
+LA4827,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,1:40 PM,Frankfurt Airport,Frankfurt,Germany,16,Ulla Rootham,64,Female,C3,Dollar,23,Vegan,Delayed,40,1/21/2022
+BA3159,British Airways,Heathrow,London,UK,10:46 AM,Charles de Gaulle,Paris,France,13,Nikolai Saffe,58,Male,A1,Zloty,26,Vegetarian,Delayed,35,7/24/2022
+LH7008,Lufthansa,Frankfurt Airport,Frankfurt,Germany,12:29 AM,Charles de Gaulle,Paris,France,23,Sioux Dominik,102,Female,B2,Yen,6,Vegan,Cancelled,36,6/10/2022
+QR6001,Qatar Airways,Hamad International,Doha,Qatar,2:27 PM,Bole International,Addis Ababa,Ethiopia,13,Yolanda Latour,4,Female,B2,Rupiah,21,Gluten-free,On time,20,8/12/2022
+SK7231,SAS Scandinavian,Copenhagen Airport,Copenhagen,Denmark,7:32 AM,Charles de Gaulle,Paris,France,9,Stacia Pettett,11,Female,A1,Afghani,42,Vegan,Cancelled,8,7/3/2022
+SQ8074,Singapore Airlines,Changi,Singapore,Singapore,8:46 AM,Beijing Capital International,Beijing,China,11,Ralina Crannis,83,Female,A1,Rupiah,5,Vegan,Cancelled,14,10/21/2022
+LH2509,Lufthansa,Frankfurt Airport,Frankfurt,Germany,3:37 PM,Charles de Gaulle,Paris,France,12,Archaimbaud Paybody,89,Male,A1,Yuan Renminbi,14,Vegetarian,Cancelled,37,6/12/2022
+SQ4272,Singapore Airlines,Changi,Singapore,Singapore,7:41 PM,Brisbane Airport,Brisbane,Australia,11,Ermanno Belson,73,Genderqueer,C3,Euro,45,Vegetarian,On time,23,7/3/2022
+SQ8449,Singapore Airlines,Changi,Singapore,Singapore,7:17 PM,Cairo International,Cairo,Egypt,21,Merv Goggen,59,Male,C3,Yuan Renminbi,30,Vegan,On time,27,10/2/2022
+AM3516,Aeroméxico,Benito Juárez International,Mexico City,Mexico,1:30 AM,Dallas/Fort Worth International,Dallas,USA,14,Lancelot Ritmeyer,87,Male,C3,Euro,6,Vegetarian,Cancelled,10,12/25/2022
+SQ1339,Singapore Airlines,Changi,Singapore,Singapore,11:41 PM,Beijing Capital International,Beijing,China,1,Constancy Dimitriades,7,Female,A1,Yen,33,Vegetarian,Cancelled,24,7/7/2022
+QF8392,Qantas,Sydney Airport,Sydney,Australia,3:31 AM,Jomo Kenyatta International,Nairobi,Kenya,23,Sammy Lammas,80,Agender,A1,Rupee,38,Vegetarian,Delayed,33,2/4/2022
+KL6096,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Netherlands,6:06 AM,Charles de Gaulle,Paris,France,13,Roderic Willoughby,92,Male,A1,Rupiah,38,Vegetarian,Cancelled,38,2/10/2022
+DL2527,Delta Air Lines,John F. Kennedy International,New York,USA,7:15 AM,Hartsfield-Jackson Atlanta,Atlanta,USA,20,Karel Haibel,90,Female,C3,Euro,18,Vegetarian,On time,3,3/24/2022
+QR1871,Qatar Airways,Hamad International,Doha,Qatar,8:08 AM,Jomo Kenyatta International,Nairobi,Kenya,6,Timmy Cossem,47,Female,A1,Yuan Renminbi,13,Vegetarian,Delayed,35,8/3/2022
+SK6642,SAS Scandinavian,Copenhagen Airport,Copenhagen,Denmark,7:55 PM,Stockholm Arlanda,Stockholm,Sweden,11,Iorgo Kohrs,75,Male,C3,Franc,26,Vegetarian,Delayed,15,12/25/2022
+SQ4857,Singapore Airlines,Changi,Singapore,Singapore,5:21 AM,Vienna International,Vienna,Austria,3,Selina Tayloe,45,Female,C3,Euro,41,Gluten-free,On time,40,10/28/2022
+WN8753,Southwest Airlines,Los Angeles International,Los Angeles,USA,3:28 PM,Seattle-Tacoma International,Seattle,USA,24,Atalanta Burmingham,34,Female,B2,Franc,27,Gluten-free,Delayed,12,11/12/2022
+SA7873,South African Airways,O.R. Tambo International,Johannesburg,South Africa,4:38 PM,Logan International,Boston,USA,16,Otis De Ambrosis,58,Male,C3,Denar,11,Gluten-free,On time,28,4/8/2022
+AZ8084,Alitalia,Leonardo da Vinci International,Rome,Italy,1:15 PM,Charles de Gaulle,Paris,France,13,Gabey McCrainor,50,Female,A1,Yuan Renminbi,25,Vegan,Cancelled,47,4/29/2022
+SQ2544,Singapore Airlines,Changi,Singapore,Singapore,12:32 PM,Beijing Capital International,Beijing,China,21,Knox Balaam,62,Male,C3,Euro,6,Gluten-free,Delayed,12,4/19/2022
+AM5332,Aeroméxico,Benito Juárez International,Mexico City,Mexico,10:20 AM,O'Hare International,Chicago,USA,2,Velvet Careless,3,Female,C3,Dollar,0,Gluten-free,Delayed,11,11/28/2022
+AF2705,Air France,Charles de Gaulle,Paris,France,12:48 PM,Frankfurt Airport,Frankfurt,Germany,11,Anestassia Moorman,73,Female,C3,Pound,47,Gluten-free,Delayed,13,11/16/2022
+LA4827,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,5:34 AM,Frankfurt Airport,Frankfurt,Germany,20,Joshia Espadater,55,Male,B2,Rupiah,38,Vegetarian,Cancelled,1,7/29/2022
+AI5401,Air India,Indira Gandhi International,Delhi,India,8:40 PM,Suvarnabhumi,Bangkok,Thailand,4,Robert Clowes,42,Non-binary,C3,Yuan Renminbi,31,Vegan,Cancelled,10,9/7/2022
+UA9423,United Airlines,Los Angeles International,Los Angeles,USA,1:47 PM,San Francisco International,San Francisco,USA,15,Lorinda Blance,110,Female,B2,Euro,27,Gluten-free,Cancelled,35,3/25/2022
+NZ8005,Air New Zealand,Auckland Airport,Auckland,New Zealand,10:08 AM,Sydney Airport,Sydney,Australia,24,Jean Causer,86,Male,B2,Peso,24,Gluten-free,On time,40,1/9/2022
+AV5379,Avianca,El Dorado International,Bogotá,Colombia,12:27 PM,Jorge Chávez International,Lima,Peru,1,Doreen Folshom,12,Agender,A1,Yuan Renminbi,32,Vegetarian,On time,20,8/25/2022
+QF5892,Qantas,Sydney Airport,Sydney,Australia,7:37 AM,Melbourne Airport,Melbourne,Australia,15,Shannon Gilbody,100,Female,A1,Rupiah,7,Vegan,Delayed,24,5/31/2022
+SA4087,South African Airways,O.R. Tambo International,Johannesburg,South Africa,6:21 PM,Charles de Gaulle,Paris,France,9,Ferdie Fleckness,101,Male,C3,Krona,3,Gluten-free,Cancelled,23,2/4/2022
+AZ1674,Alitalia,Leonardo da Vinci International,Rome,Italy,2:35 AM,Charles de Gaulle,Paris,France,19,Fitz Burree,34,Male,C3,Euro,38,Vegan,Delayed,23,3/16/2022
+AA9114,American Airlines,John F. Kennedy International,New York,USA,4:41 PM,Hartsfield-Jackson Atlanta,Atlanta,USA,13,Boot Gauson,111,Male,B2,Sol,37,Vegan,Delayed,2,3/19/2022
+NH1801,All Nippon Airways,Haneda,Tokyo,Japan,5:41 PM,Incheon International,Seoul,South Korea,22,Gabie Riseborough,36,Female,A1,Ariary,45,Gluten-free,On time,48,9/9/2022
+LH2563,Lufthansa,Frankfurt Airport,Frankfurt,Germany,5:59 PM,Charles de Gaulle,Paris,France,3,Kennan Brooks,27,Male,C3,Euro,5,Vegetarian,On time,19,11/28/2022
+EK9217,Emirates,Dubai International,Dubai,UAE,12:15 PM,Hamad International,Doha,Qatar,2,Arny Crosdill,98,Male,A1,Yuan Renminbi,36,Gluten-free,Cancelled,14,5/26/2022
+IB6663,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,9:21 AM,Hamad International,Doha,Qatar,16,Elsey Ronald,5,Female,C3,Koruna,13,Gluten-free,On time,32,3/7/2022
+EK8648,Emirates,Dubai International,Dubai,UAE,11:46 PM,Hamad International,Doha,Qatar,19,Phelia McGrayle,102,Female,C3,Yuan Renminbi,29,Gluten-free,Delayed,17,5/5/2022
+CX9836,Cathay Pacific,Hong Kong International,Hong Kong,China,11:24 AM,Changi,Singapore,Singapore,3,Therine Trinke,87,Female,C3,Peso,34,Vegetarian,Delayed,48,12/10/2022
+BA6286,British Airways,Heathrow,London,UK,9:12 PM,Munich Airport,Munich,Germany,7,Chloe Addionizio,90,Female,A1,Real,28,Vegan,Delayed,15,10/13/2022
+IB3912,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,12:09 AM,John F. Kennedy International,New York,USA,18,Alberik Ausher,3,Male,A1,Krona,43,Vegan,Cancelled,22,4/11/2022
+UA1293,United Airlines,Los Angeles International,Los Angeles,USA,7:24 PM,San Francisco International,San Francisco,USA,20,Natal Stonbridge,86,Male,B2,Rupiah,1,Vegetarian,On time,34,10/25/2022
+UA3037,United Airlines,Los Angeles International,Los Angeles,USA,10:40 AM,San Francisco International,San Francisco,USA,18,Cally Tippings,36,Female,A1,Yuan Renminbi,41,Vegetarian,Delayed,49,3/8/2022
+SA8685,South African Airways,O.R. Tambo International,Johannesburg,South Africa,9:57 PM,Charles de Gaulle,Paris,France,20,Moll Hordell,107,Female,C3,Zloty,20,Vegetarian,Cancelled,21,8/9/2022
+SQ3948,Singapore Airlines,Changi,Singapore,Singapore,7:58 AM,Beijing Capital International,Beijing,China,17,Maia Ariss,110,Female,A1,Ruble,37,Vegan,Cancelled,13,11/19/2022
+LH8334,Lufthansa,Frankfurt Airport,Frankfurt,Germany,11:40 PM,Charles de Gaulle,Paris,France,10,Stillmann Jocelyn,35,Male,C3,Euro,7,Gluten-free,Cancelled,3,10/13/2022
+KE9760,Korean Air,Incheon International,Seoul,South Korea,12:02 PM,Jorge Chávez International,Lima,Peru,21,Alis Grimestone,40,Female,A1,Rupiah,41,Vegetarian,On time,34,4/15/2022
+SA8877,South African Airways,O.R. Tambo International,Johannesburg,South Africa,8:20 AM,Bole International,Addis Ababa,Ethiopia,8,Horatio Donaho,59,Male,C3,Zloty,25,Vegan,On time,45,2/25/2022
+QR2435,Qatar Airways,Hamad International,Doha,Qatar,5:01 PM,Frankfurt Airport,Frankfurt,Germany,24,Yanaton Cuel,19,Male,C3,Rupiah,46,Vegetarian,Delayed,13,1/10/2022
+TG2457,Thai Airways,Suvarnabhumi,Bangkok,Thailand,6:18 AM,Changi,Singapore,Singapore,23,Clary Hartly,47,Female,C3,Naira,29,Gluten-free,Delayed,34,6/18/2022
+AF2465,Air France,Charles de Gaulle,Paris,France,8:22 AM,Frankfurt Airport,Frankfurt,Germany,15,Lorrayne Raunds,12,Agender,A1,Yuan Renminbi,0,Gluten-free,On time,38,7/5/2022
+QR2379,Qatar Airways,Hamad International,Doha,Qatar,2:07 PM,Amsterdam Airport Schiphol,Amsterdam,Netherlands,10,Layne Madrell,48,Female,C3,Cedi,24,Vegan,Delayed,19,9/4/2022
+LH1697,Lufthansa,Frankfurt Airport,Frankfurt,Germany,8:04 AM,Charles de Gaulle,Paris,France,18,Rodrigo Klessmann,27,Male,B2,Shekel,33,Vegetarian,Cancelled,46,9/15/2022
+KE1138,Korean Air,Incheon International,Seoul,South Korea,11:32 AM,Haneda,Tokyo,Japan,13,Jonas Lydiard,38,Male,C3,Dong,41,Vegetarian,Delayed,22,5/25/2022
+NZ7151,Air New Zealand,Auckland Airport,Auckland,New Zealand,12:12 AM,Sydney Airport,Sydney,Australia,1,Tawnya Sarfass,66,Female,A1,Pula,31,Gluten-free,On time,3,1/10/2022
+SA9852,South African Airways,O.R. Tambo International,Johannesburg,South Africa,5:43 PM,Charles de Gaulle,Paris,France,18,Marysa Hampstead,60,Female,C3,Hryvnia,42,Gluten-free,Delayed,1,2/13/2022
+AF4149,Air France,Charles de Gaulle,Paris,France,3:16 PM,Frankfurt Airport,Frankfurt,Germany,12,Tyson Pessolt,84,Male,B2,Ruble,23,Vegan,On time,50,8/26/2022
+QF7414,Qantas,Sydney Airport,Sydney,Australia,11:18 PM,Beijing Capital International,Beijing,China,12,Jessee Sparey,77,Male,A1,Yuan Renminbi,1,Vegetarian,Cancelled,36,12/4/2022
+QR4841,Qatar Airways,Hamad International,Doha,Qatar,3:27 AM,Bole International,Addis Ababa,Ethiopia,19,Debee Housbie,60,Female,C3,Kuna,29,Vegetarian,Delayed,10,5/21/2022
+ET5456,Ethiopian Airlines,Bole International,Addis Ababa,Ethiopia,6:44 AM,Hamad International,Doha,Qatar,6,Mano Mainland,75,Male,C3,Lempira,13,Gluten-free,On time,22,10/20/2022
+QF6609,Qantas,Sydney Airport,Sydney,Australia,4:37 PM,Melbourne Airport,Melbourne,Australia,14,Michele Wyant,76,Genderfluid,C3,Krona,6,Vegetarian,Delayed,17,2/1/2022
+AZ6753,Alitalia,Leonardo da Vinci International,Rome,Italy,12:28 AM,Arturo Merino Benítez International,Santiago,Chile,3,Leyla Hawkins,105,Female,B2,Yuan Renminbi,48,Vegetarian,On time,16,8/3/2022
+LA4298,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,6:24 AM,Ministro Pistarini International,Buenos Aires,Argentina,4,Carolin Merrill,99,Female,C3,Rial,7,Vegan,On time,19,10/21/2022
+DL3314,Delta Air Lines,John F. Kennedy International,New York,USA,6:18 PM,Hartsfield-Jackson Atlanta,Atlanta,USA,23,Charlena Muscott,54,Female,A1,Ringgit,2,Gluten-free,Delayed,12,1/23/2022
+IB2276,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,2:24 AM,Charles de Gaulle,Paris,France,22,Lusa Sokill,92,Female,C3,Ruble,49,Vegan,On time,10,3/28/2022
+AA6628,American Airlines,John F. Kennedy International,New York,USA,3:48 AM,Hartsfield-Jackson Atlanta,Atlanta,USA,23,Sonnie Pochet,107,Genderfluid,C3,Peso,4,Vegetarian,Delayed,14,1/2/2022
+WN4001,Southwest Airlines,Los Angeles International,Los Angeles,USA,2:04 AM,Zurich Airport,Zurich,Switzerland,16,Fran Pinney,16,Female,C3,Koruna,6,Gluten-free,On time,31,1/17/2022
+AZ5348,Alitalia,Leonardo da Vinci International,Rome,Italy,12:12 AM,Charles de Gaulle,Paris,France,2,Anestassia Terrey,21,Female,B2,Dollar,25,Gluten-free,On time,48,4/18/2022
+QR9598,Qatar Airways,Hamad International,Doha,Qatar,11:44 AM,Charles de Gaulle,Paris,France,8,Costa Bannell,52,Male,A1,Ruble,50,Vegetarian,Delayed,23,2/10/2022
+SA7414,South African Airways,O.R. Tambo International,Johannesburg,South Africa,9:12 PM,Logan International,Boston,USA,2,Care Hazeltine,87,Male,B2,Peso,29,Vegetarian,Cancelled,31,4/24/2022
+EK3724,Emirates,Dubai International,Dubai,UAE,3:33 PM,Hamad International,Doha,Qatar,2,Annadiana Yewdale,63,Female,C3,Quetzal,50,Gluten-free,On time,12,1/28/2022
+NH9722,All Nippon Airways,Haneda,Tokyo,Japan,6:19 AM,Incheon International,Seoul,South Korea,2,Bowie Girkin,11,Male,B2,Real,48,Gluten-free,Cancelled,17,10/21/2022
+SK9370,SAS Scandinavian,Copenhagen Airport,Copenhagen,Denmark,3:50 PM,Charles de Gaulle,Paris,France,3,Harmony Blackshaw,55,Female,A1,Peso,40,Vegan,Delayed,1,3/8/2022
+SK1604,SAS Scandinavian,Copenhagen Airport,Copenhagen,Denmark,11:00 AM,Charles de Gaulle,Paris,France,18,Mildrid Veneur,66,Female,A1,Rand,5,Vegan,On time,26,2/6/2022
+QF1138,Qantas,Sydney Airport,Sydney,Australia,4:27 AM,Leonardo da Vinci International,Rome,Italy,22,Fredek Vennart,113,Male,C3,Yuan Renminbi,48,Vegan,Cancelled,30,1/9/2022
+AZ9148,Alitalia,Leonardo da Vinci International,Rome,Italy,5:54 PM,Charles de Gaulle,Paris,France,13,Aleksandr Ranken,119,Male,A1,Rupiah,11,Vegetarian,Delayed,2,12/13/2022
+SA6382,South African Airways,O.R. Tambo International,Johannesburg,South Africa,7:30 AM,Charles de Gaulle,Paris,France,18,Ramona Souley,108,Female,C3,Euro,11,Gluten-free,On time,9,7/31/2022
+DL3425,Delta Air Lines,John F. Kennedy International,New York,USA,11:29 AM,Logan International,Boston,USA,7,Olympie Saunders,59,Female,B2,Euro,17,Gluten-free,Cancelled,8,12/15/2022
+SQ5883,Singapore Airlines,Changi,Singapore,Singapore,8:02 PM,Beijing Capital International,Beijing,China,3,Gib Jozwik,78,Male,B2,Krona,37,Vegan,Cancelled,7,3/17/2022
+AV2185,Avianca,El Dorado International,Bogotá,Colombia,4:29 PM,O'Hare International,Chicago,USA,6,Bronnie Renwick,4,Male,A1,Rupiah,44,Gluten-free,Delayed,20,8/14/2022
+AV4300,Avianca,El Dorado International,Bogotá,Colombia,9:01 PM,O'Hare International,Chicago,USA,20,Doris Lambarth,53,Female,A1,Peso,45,Gluten-free,Cancelled,11,10/16/2022
+QR5080,Qatar Airways,Hamad International,Doha,Qatar,10:33 PM,John F. Kennedy International,New York,USA,17,Gasparo Lutsch,64,Male,B2,Yuan Renminbi,24,Vegan,Cancelled,50,7/11/2022
+AC5745,Air Canada,Toronto Pearson,Toronto,Canada,3:17 PM,Logan International,Boston,USA,6,Michaella Ivanyushin,52,Female,A1,Peso,15,Vegetarian,Cancelled,7,1/4/2022
+BA7761,British Airways,Heathrow,London,UK,3:19 PM,Amsterdam Airport Schiphol,Amsterdam,Netherlands,10,Gib Boud,116,Male,C3,Real,30,Vegetarian,On time,50,8/8/2022
+AV5838,Avianca,El Dorado International,Bogotá,Colombia,8:23 AM,O'Hare International,Chicago,USA,13,Bram Blaszczak,40,Male,B2,Yuan Renminbi,32,Gluten-free,On time,13,8/8/2022
+SA9580,South African Airways,O.R. Tambo International,Johannesburg,South Africa,3:12 AM,Charles de Gaulle,Paris,France,12,Hervey Cluff,63,Male,C3,Ruble,35,Gluten-free,Cancelled,29,2/28/2022
+AA4559,American Airlines,John F. Kennedy International,New York,USA,11:18 AM,Hartsfield-Jackson Atlanta,Atlanta,USA,7,Betteann Donaway,24,Female,B2,Yuan Renminbi,17,Gluten-free,Cancelled,28,5/26/2022
+AZ8697,Alitalia,Leonardo da Vinci International,Rome,Italy,7:59 AM,Haneda,Tokyo,Japan,10,Pen Wartonby,90,Male,A1,Dong,46,Vegetarian,Delayed,32,12/4/2022
+TG3255,Thai Airways,Suvarnabhumi,Bangkok,Thailand,2:15 PM,Changi,Singapore,Singapore,18,Waly Short,119,Female,C3,Naira,35,Vegetarian,Delayed,17,5/29/2022
+AV9166,Avianca,El Dorado International,Bogotá,Colombia,2:32 PM,Denver International,Denver,USA,9,Archy Seear,56,Male,C3,Rupiah,27,Vegan,On time,14,12/13/2022
+ET4536,Ethiopian Airlines,Bole International,Addis Ababa,Ethiopia,7:44 PM,São Paulo/Guarulhos International,São Paulo,Brazil,1,Paule Landreth,35,Female,A1,Euro,15,Vegetarian,On time,45,11/18/2022
+AC7423,Air Canada,Toronto Pearson,Toronto,Canada,12:33 AM,John F. Kennedy International,New York,USA,18,Jerri Muirden,120,Male,A1,Yuan Renminbi,29,Gluten-free,Delayed,22,6/30/2022
+SQ8500,Singapore Airlines,Changi,Singapore,Singapore,10:06 PM,Beijing Capital International,Beijing,China,21,Hammad Haggeth,101,Agender,C3,Koruna,18,Vegan,On time,32,1/12/2022
+NZ2195,Air New Zealand,Auckland Airport,Auckland,New Zealand,11:08 AM,Sydney Airport,Sydney,Australia,9,Joanie Novacek,5,Female,A1,Euro,47,Gluten-free,Cancelled,25,5/30/2022
+AI6534,Air India,Indira Gandhi International,Delhi,India,1:49 AM,Chhatrapati Shivaji International,Mumbai,India,9,Vi Prickett,70,Female,B2,Lev,1,Gluten-free,Cancelled,9,9/21/2022
+QR6530,Qatar Airways,Hamad International,Doha,Qatar,5:05 PM,Bole International,Addis Ababa,Ethiopia,6,Mohandis Cann,52,Male,A1,Rupee,28,Gluten-free,On time,44,9/18/2022
+EK2269,Emirates,Dubai International,Dubai,UAE,11:21 AM,Hamad International,Doha,Qatar,13,Gwendolen Parmer,15,Female,B2,Rupiah,9,Vegetarian,Cancelled,34,10/7/2022
+IB6581,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,3:47 AM,Charles de Gaulle,Paris,France,15,Helge Baiyle,107,Female,B2,Yuan Renminbi,43,Vegan,On time,2,9/30/2022
+SK9753,SAS Scandinavian,Copenhagen Airport,Copenhagen,Denmark,7:39 PM,Vancouver International,Vancouver,Canada,11,Ted Cawdell,76,Male,C3,Yuan Renminbi,49,Vegan,Delayed,26,7/9/2022
+SK8778,SAS Scandinavian,Copenhagen Airport,Copenhagen,Denmark,3:35 PM,Kuala Lumpur International,Kuala Lumpur,Malaysia,18,Krissie Wittier,39,Polygender,C3,Krona,7,Vegan,On time,9,1/20/2022
+SA8526,South African Airways,O.R. Tambo International,Johannesburg,South Africa,4:02 AM,Charles de Gaulle,Paris,France,3,Vidovik Cerith,48,Male,C3,Denar,15,Vegetarian,Cancelled,3,10/7/2022
+SQ4603,Singapore Airlines,Changi,Singapore,Singapore,3:38 AM,Beijing Capital International,Beijing,China,24,Lyndell Tosney,96,Female,C3,Zloty,41,Vegan,On time,44,7/23/2022
+ET6970,Ethiopian Airlines,Bole International,Addis Ababa,Ethiopia,12:46 AM,Hamad International,Doha,Qatar,14,Giraud Curcher,65,Male,C3,Peso,10,Gluten-free,Delayed,41,12/24/2022
+AC5689,Air Canada,Toronto Pearson,Toronto,Canada,1:27 AM,John F. Kennedy International,New York,USA,7,Grantham Wroe,100,Male,B2,Zloty,30,Vegan,Cancelled,34,7/17/2022
+AV3433,Avianca,El Dorado International,Bogotá,Colombia,12:38 PM,O'Hare International,Chicago,USA,24,Mandy O'Nion,19,Female,C3,Zloty,38,Gluten-free,Cancelled,24,7/23/2022
+KL9083,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Netherlands,9:26 PM,Munich Airport,Munich,Germany,19,Lamond Fawdrie,2,Male,C3,Yuan Renminbi,20,Gluten-free,Cancelled,50,3/30/2022
+NH5711,All Nippon Airways,Haneda,Tokyo,Japan,10:41 AM,Incheon International,Seoul,South Korea,8,Sabrina Tuft,107,Non-binary,A1,Dollar,10,Vegan,Cancelled,11,7/15/2022
+LH5166,Lufthansa,Frankfurt Airport,Frankfurt,Germany,11:00 AM,Charles de Gaulle,Paris,France,1,Beatriz Brogiotti,96,Female,C3,Rupiah,26,Vegetarian,Delayed,11,4/9/2022
+SA8898,South African Airways,O.R. Tambo International,Johannesburg,South Africa,10:59 PM,Charles de Gaulle,Paris,France,19,Sibel Messenger,26,Bigender,A1,Baht,16,Gluten-free,On time,5,1/27/2022
+LA6794,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,9:18 PM,Ministro Pistarini International,Buenos Aires,Argentina,15,Thurston MacCambridge,52,Male,A1,Rupiah,17,Gluten-free,On time,18,3/19/2022
+SQ8844,Singapore Airlines,Changi,Singapore,Singapore,6:13 AM,Beijing Capital International,Beijing,China,13,Bogey Nayer,51,Male,A1,Peso,42,Vegan,Cancelled,23,4/25/2022
+QR3251,Qatar Airways,Hamad International,Doha,Qatar,8:05 PM,Bole International,Addis Ababa,Ethiopia,4,Oralie Grange,95,Female,B2,Yuan Renminbi,45,Vegetarian,Delayed,48,8/24/2022
+AM6125,Aeroméxico,Benito Juárez International,Mexico City,Mexico,12:43 PM,Hartsfield-Jackson Atlanta,Atlanta,USA,16,Casie Samwaye,57,Female,B2,Euro,28,Vegan,Cancelled,9,1/18/2022
+SQ8216,Singapore Airlines,Changi,Singapore,Singapore,12:04 AM,Beijing Capital International,Beijing,China,17,Sanford Towlson,79,Male,C3,Real,37,Vegan,Cancelled,42,12/18/2022
+QF8880,Qantas,Sydney Airport,Sydney,Australia,6:58 PM,Melbourne Airport,Melbourne,Australia,23,Mab Gorling,92,Female,A1,Yuan Renminbi,5,Vegetarian,Cancelled,8,12/22/2022
+NH8541,All Nippon Airways,Haneda,Tokyo,Japan,7:28 AM,Melbourne Airport,Melbourne,Australia,14,Kay Poynzer,118,Female,B2,Krona,22,Vegan,Cancelled,36,5/19/2022
+EK1215,Emirates,Dubai International,Dubai,UAE,6:28 PM,Hamad International,Doha,Qatar,5,Andrea Glas,97,Male,C3,Euro,16,Gluten-free,Delayed,26,8/23/2022
+NH8283,All Nippon Airways,Haneda,Tokyo,Japan,6:50 AM,Incheon International,Seoul,South Korea,12,Evangelia Phillpotts,63,Female,A1,Rupiah,27,Gluten-free,Delayed,14,3/19/2022
+IB1120,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,5:02 AM,Charles de Gaulle,Paris,France,18,Daren Lusher,81,Male,C3,Yuan Renminbi,49,Vegetarian,Cancelled,13,11/7/2022
+KE8581,Korean Air,Incheon International,Seoul,South Korea,3:29 AM,Suvarnabhumi,Bangkok,Thailand,18,Yetty Kalf,113,Female,A1,Won,8,Gluten-free,Delayed,18,7/12/2022
+NZ5033,Air New Zealand,Auckland Airport,Auckland,New Zealand,3:45 PM,Hamad International,Doha,Qatar,14,Binky Grime,100,Male,A1,Zloty,11,Gluten-free,Cancelled,41,9/14/2022
+CX6106,Cathay Pacific,Hong Kong International,Hong Kong,China,6:46 AM,Changi,Singapore,Singapore,22,Burtie Tribe,51,Male,C3,Rupiah,42,Vegetarian,Cancelled,46,2/19/2022
+KL7820,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Netherlands,7:37 PM,Charles de Gaulle,Paris,France,2,Branden Liles,23,Non-binary,A1,Yuan Renminbi,46,Vegan,Cancelled,48,8/31/2022
+WN7040,Southwest Airlines,Los Angeles International,Los Angeles,USA,10:59 AM,Arturo Merino Benítez International,Santiago,Chile,18,Tina D'Ambrogio,2,Female,C3,Naira,46,Vegetarian,On time,44,6/1/2022
+KL3616,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Netherlands,2:09 AM,Charles de Gaulle,Paris,France,2,Leigh Howsego,3,Male,B2,Yuan Renminbi,18,Vegan,On time,41,2/20/2022
+BA7952,British Airways,Heathrow,London,UK,2:24 PM,Charles de Gaulle,Paris,France,6,Adrian Breckon,98,Male,A1,Cedi,7,Vegetarian,On time,41,4/28/2022
+WN4007,Southwest Airlines,Los Angeles International,Los Angeles,USA,9:11 AM,San Francisco International,San Francisco,USA,6,Therese Shade,62,Female,B2,Ariary,40,Gluten-free,On time,34,1/17/2022
+NZ7253,Air New Zealand,Auckland Airport,Auckland,New Zealand,2:38 AM,Sydney Airport,Sydney,Australia,19,Kimbell Tofanelli,59,Male,B2,Real,16,Gluten-free,Cancelled,21,2/19/2022
+AV3025,Avianca,El Dorado International,Bogotá,Colombia,3:05 PM,O'Hare International,Chicago,USA,13,Micki Edmonson,2,Female,B2,Krona,3,Gluten-free,Delayed,32,12/11/2022
+DL5265,Delta Air Lines,John F. Kennedy International,New York,USA,5:21 PM,Hong Kong International,Hong Kong,China,19,Julianne Howson,103,Female,B2,Rupiah,0,Vegetarian,On time,24,9/23/2022
+DL7492,Delta Air Lines,John F. Kennedy International,New York,USA,10:04 AM,Hartsfield-Jackson Atlanta,Atlanta,USA,9,Lenette McShane,58,Female,B2,Zloty,36,Gluten-free,On time,8,6/15/2022
+AI6155,Air India,Indira Gandhi International,Delhi,India,9:45 AM,Chhatrapati Shivaji International,Mumbai,India,22,Row Stocken,71,Female,B2,Yuan Renminbi,7,Vegan,On time,10,8/30/2022
+AM9614,Aeroméxico,Benito Juárez International,Mexico City,Mexico,9:55 AM,O'Hare International,Chicago,USA,5,Vasilis Leys,63,Male,B2,Yuan Renminbi,44,Vegetarian,On time,3,9/26/2022
+BA3590,British Airways,Heathrow,London,UK,4:18 PM,Charles de Gaulle,Paris,France,11,Auberon Walthew,51,Male,C3,Peso,35,Gluten-free,On time,43,1/23/2022
+KE1663,Korean Air,Incheon International,Seoul,South Korea,11:24 AM,Hong Kong International,Hong Kong,China,6,Bradford Toe,51,Male,B2,Real,37,Gluten-free,Delayed,21,4/17/2022
+BA3604,British Airways,Heathrow,London,UK,5:36 PM,Denver International,Denver,USA,4,Cross Dumingo,94,Male,B2,Kuna,35,Vegan,Delayed,3,11/1/2022
+SQ6592,Singapore Airlines,Changi,Singapore,Singapore,1:31 PM,Incheon International,Seoul,South Korea,6,Alex Walter,18,Female,C3,Zloty,46,Vegan,Delayed,38,10/23/2022
+IB6191,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,9:42 AM,Charles de Gaulle,Paris,France,20,Astrid Gaunson,109,Female,C3,Litas,33,Vegan,On time,19,10/24/2022
+KL3196,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Netherlands,11:38 AM,Charles de Gaulle,Paris,France,3,Ruggiero Farlane,103,Male,B2,Dollar,0,Vegetarian,Cancelled,20,8/18/2022
+SK9514,SAS Scandinavian,Copenhagen Airport,Copenhagen,Denmark,10:38 AM,Charles de Gaulle,Paris,France,10,Kate Bedlington,30,Female,A1,Peso,8,Gluten-free,On time,50,7/21/2022
+AI5161,Air India,Indira Gandhi International,Delhi,India,12:01 PM,Suvarnabhumi,Bangkok,Thailand,19,Mehetabel Coppock.,106,Female,A1,Dram,7,Gluten-free,On time,4,8/28/2022
+DL8321,Delta Air Lines,John F. Kennedy International,New York,USA,10:40 PM,Hartsfield-Jackson Atlanta,Atlanta,USA,9,Haley Lavall,44,Male,C3,Dollar,2,Vegan,Cancelled,33,10/25/2022
+QR6341,Qatar Airways,Hamad International,Doha,Qatar,4:21 AM,Bole International,Addis Ababa,Ethiopia,23,Corabella Clampe,98,Female,C3,Yuan Renminbi,28,Vegan,Cancelled,42,7/31/2022
+DL1233,Delta Air Lines,John F. Kennedy International,New York,USA,5:25 PM,Hartsfield-Jackson Atlanta,Atlanta,USA,24,Analise Lound,109,Female,B2,Yuan Renminbi,34,Vegetarian,Cancelled,41,12/22/2022
+KE3468,Korean Air,Incheon International,Seoul,South Korea,7:17 PM,Haneda,Tokyo,Japan,8,Demetre Alexandersen,30,Male,C3,Taka,0,Vegan,Cancelled,47,11/4/2022
+LH2534,Lufthansa,Frankfurt Airport,Frankfurt,Germany,2:05 PM,Charles de Gaulle,Paris,France,20,Claiborn Fountian,94,Male,A1,Peso,18,Gluten-free,Cancelled,8,3/5/2022
+ET8460,Ethiopian Airlines,Bole International,Addis Ababa,Ethiopia,5:22 AM,Hamad International,Doha,Qatar,5,Bertie Cockerill,65,Female,B2,Krona,4,Vegan,On time,42,1/30/2022
+AV5027,Avianca,El Dorado International,Bogotá,Colombia,11:48 PM,O'Hare International,Chicago,USA,16,Ephraim Cowp,69,Male,B2,Real,34,Gluten-free,Delayed,2,5/28/2022
+WN2114,Southwest Airlines,Los Angeles International,Los Angeles,USA,8:29 PM,San Francisco International,San Francisco,USA,4,Falito Burborough,78,Male,B2,Yuan Renminbi,9,Gluten-free,On time,8,3/20/2022
+NZ3523,Air New Zealand,Auckland Airport,Auckland,New Zealand,11:55 PM,Sydney Airport,Sydney,Australia,5,Frederik Merrigan,84,Male,B2,Zloty,7,Gluten-free,Cancelled,31,4/12/2022
+NZ9485,Air New Zealand,Auckland Airport,Auckland,New Zealand,9:47 AM,Sydney Airport,Sydney,Australia,9,Jeno Dethloff,106,Male,B2,Yuan Renminbi,13,Gluten-free,Cancelled,45,1/31/2022
+AV8856,Avianca,El Dorado International,Bogotá,Colombia,11:46 AM,O'Hare International,Chicago,USA,6,Catherina Gibard,58,Female,C3,Real,7,Vegan,On time,49,7/6/2022
+LA4827,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,1:21 AM,Frankfurt Airport,Frankfurt,Germany,17,Jessy Tenant,47,Female,C3,Rupiah,46,Vegetarian,Cancelled,14,8/3/2022
+SK9378,SAS Scandinavian,Copenhagen Airport,Copenhagen,Denmark,4:28 PM,Charles de Gaulle,Paris,France,17,Giordano Yantsev,105,Male,B2,Euro,37,Vegetarian,Delayed,49,12/11/2022
+SQ3572,Singapore Airlines,Changi,Singapore,Singapore,5:27 PM,Beijing Capital International,Beijing,China,12,Cosetta Riddlesden,64,Female,C3,Peso,37,Vegan,Delayed,25,8/19/2022
+AV7071,Avianca,El Dorado International,Bogotá,Colombia,9:04 AM,O'Hare International,Chicago,USA,13,Wiatt Firk,76,Male,A1,Euro,45,Vegetarian,Cancelled,8,12/15/2022
+LA5649,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,7:34 AM,Ministro Pistarini International,Buenos Aires,Argentina,6,Emeline Lancaster,88,Female,C3,Cedi,9,Vegan,Cancelled,13,6/22/2022
+WN3907,Southwest Airlines,Los Angeles International,Los Angeles,USA,11:28 AM,San Francisco International,San Francisco,USA,8,Davon Bawme,59,Male,A1,Rupiah,50,Gluten-free,On time,15,10/26/2022
+AA7448,American Airlines,John F. Kennedy International,New York,USA,4:00 AM,Hartsfield-Jackson Atlanta,Atlanta,USA,11,Tierney Fardell,42,Non-binary,A1,Krona,20,Vegetarian,Delayed,6,4/8/2022
+ET1457,Ethiopian Airlines,Bole International,Addis Ababa,Ethiopia,6:22 PM,Hamad International,Doha,Qatar,7,Waldemar Kears,53,Male,A1,Euro,11,Gluten-free,On time,13,11/28/2022
+NZ4960,Air New Zealand,Auckland Airport,Auckland,New Zealand,12:54 PM,Sydney Airport,Sydney,Australia,19,Meggie Hillitt,51,Female,B2,Peso,39,Vegetarian,Cancelled,16,4/13/2022
+DL9459,Delta Air Lines,John F. Kennedy International,New York,USA,10:13 PM,Hartsfield-Jackson Atlanta,Atlanta,USA,15,Gray Hannaford,51,Male,B2,Euro,39,Vegan,Delayed,20,4/21/2022
+AC5097,Air Canada,Toronto Pearson,Toronto,Canada,3:44 AM,John F. Kennedy International,New York,USA,12,Filippa Fortnam,65,Female,B2,Yuan Renminbi,39,Gluten-free,Cancelled,24,7/10/2022
+AM4377,Aeroméxico,Benito Juárez International,Mexico City,Mexico,8:16 AM,O'Hare International,Chicago,USA,4,Augustine Grangier,114,Female,A1,Peso,18,Gluten-free,Cancelled,35,9/9/2022
+AV4829,Avianca,El Dorado International,Bogotá,Colombia,4:32 PM,Leonardo da Vinci International,Rome,Italy,16,Regine Speller,28,Female,C3,Kuna,27,Vegetarian,Delayed,19,8/7/2022
+AA3211,American Airlines,John F. Kennedy International,New York,USA,2:29 AM,Hartsfield-Jackson Atlanta,Atlanta,USA,16,Diego Menci,82,Male,B2,Yuan Renminbi,44,Gluten-free,Delayed,47,9/23/2022
+QR1441,Qatar Airways,Hamad International,Doha,Qatar,12:13 PM,Bole International,Addis Ababa,Ethiopia,23,Erek Esser,18,Male,B2,Euro,22,Vegan,On time,44,11/23/2022
+QF1757,Qantas,Sydney Airport,Sydney,Australia,4:54 AM,Melbourne Airport,Melbourne,Australia,4,Lavina Geraud,52,Agender,B2,Yuan Renminbi,13,Gluten-free,Cancelled,8,6/22/2022
+IB8371,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,1:11 AM,Charles de Gaulle,Paris,France,10,Belicia Halpin,70,Female,A1,Euro,26,Gluten-free,Delayed,32,12/25/2022
+SA2954,South African Airways,O.R. Tambo International,Johannesburg,South Africa,12:35 AM,Charles de Gaulle,Paris,France,2,Laurence Gauvin,28,Male,C3,Dollar,27,Gluten-free,On time,23,12/15/2022
+LA9236,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,1:49 PM,Logan International,Boston,USA,22,Lew Mapples,47,Male,B2,Krone,0,Gluten-free,Cancelled,5,9/3/2022
+BA7831,British Airways,Heathrow,London,UK,9:54 AM,Charles de Gaulle,Paris,France,24,Raimondo Stormouth,31,Male,B2,Rupiah,7,Vegan,On time,7,8/2/2022
+AM6158,Aeroméxico,Benito Juárez International,Mexico City,Mexico,8:27 AM,Los Angeles International,Los Angeles,USA,10,Trefor Galletley,106,Male,C3,Euro,34,Vegetarian,Delayed,48,2/6/2022
+AM8774,Aeroméxico,Benito Juárez International,Mexico City,Mexico,3:56 PM,O'Hare International,Chicago,USA,11,Thomasina Seleway,86,Female,C3,Real,45,Vegetarian,On time,42,9/15/2022
+LA4298,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,4:48 AM,Ministro Pistarini International,Buenos Aires,Argentina,16,Sharon Titford,49,Female,C3,Yuan Renminbi,22,Vegetarian,On time,34,11/26/2022
+IB2298,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,11:53 PM,Zurich Airport,Zurich,Switzerland,10,Magnum Honsch,43,Male,B2,Euro,13,Vegetarian,Cancelled,30,1/9/2022
+TG8197,Thai Airways,Suvarnabhumi,Bangkok,Thailand,4:26 AM,Changi,Singapore,Singapore,3,Berta Wabersich,79,Female,B2,Yuan Renminbi,32,Vegetarian,On time,35,2/17/2022
+SQ1339,Singapore Airlines,Changi,Singapore,Singapore,1:15 PM,Beijing Capital International,Beijing,China,18,Melissa Kitman,87,Bigender,B2,Yen,29,Vegan,Delayed,36,3/20/2022
+KL5690,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Netherlands,11:04 AM,Charles de Gaulle,Paris,France,4,Maurita Gehrts,68,Female,A1,Peso,49,Vegetarian,On time,28,7/19/2022
+SA5934,South African Airways,O.R. Tambo International,Johannesburg,South Africa,7:15 PM,Charles de Gaulle,Paris,France,15,Catarina Blais,105,Female,B2,Hryvnia,21,Vegan,On time,47,2/28/2022
+BA1624,British Airways,Heathrow,London,UK,9:07 AM,Amsterdam Airport Schiphol,Amsterdam,Netherlands,22,Natalie Connikie,32,Female,A1,Yuan Renminbi,19,Vegan,Delayed,40,7/31/2022
+QF3876,Qantas,Sydney Airport,Sydney,Australia,11:23 AM,Melbourne Airport,Melbourne,Australia,14,Renae Pritchett,29,Female,C3,Baht,47,Vegetarian,On time,50,1/5/2022
+KL1984,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Netherlands,10:45 AM,Adolfo Suárez Madrid–Barajas,Madrid,Spain,1,Pete Bradburn,18,Male,C3,Euro,43,Vegan,Delayed,9,7/13/2022
+EK3724,Emirates,Dubai International,Dubai,UAE,12:19 PM,Hamad International,Doha,Qatar,5,Sergent Kelleway,52,Male,C3,Ruble,18,Gluten-free,Cancelled,2,3/17/2022
+SA2497,South African Airways,O.R. Tambo International,Johannesburg,South Africa,5:14 PM,Charles de Gaulle,Paris,France,13,Ewen Derricoat,97,Male,C3,Birr,38,Gluten-free,On time,35,6/25/2022
+AI4480,Air India,Indira Gandhi International,Delhi,India,11:40 AM,Changi,Singapore,Singapore,23,Deloris Hurdidge,26,Female,B2,Peso,32,Vegetarian,Delayed,29,4/13/2022
+KL9874,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Netherlands,6:07 AM,Hamad International,Doha,Qatar,21,Stinky Adamo,112,Male,C3,Baht,1,Gluten-free,On time,36,9/24/2022
+UA6595,United Airlines,Los Angeles International,Los Angeles,USA,3:30 AM,San Francisco International,San Francisco,USA,17,Wilona Spinnace,11,Female,B2,Yuan Renminbi,41,Vegetarian,On time,19,8/26/2022
+KE5770,Korean Air,Incheon International,Seoul,South Korea,8:09 PM,Haneda,Tokyo,Japan,8,Ardine Buckenham,70,Female,C3,Peso,46,Gluten-free,On time,48,4/25/2022
+BA9628,British Airways,Heathrow,London,UK,3:43 PM,Charles de Gaulle,Paris,France,21,Teador Heggs,26,Male,A1,Zloty,50,Vegetarian,Delayed,30,2/23/2022
+SQ5486,Singapore Airlines,Changi,Singapore,Singapore,9:17 AM,Kuala Lumpur International,Kuala Lumpur,Malaysia,3,Lefty Burberye,73,Non-binary,A1,Rupiah,11,Gluten-free,Cancelled,3,1/6/2022
+UA4821,United Airlines,Los Angeles International,Los Angeles,USA,4:21 AM,Cape Town International,Cape Town,South Africa,11,Gregory Frye,93,Male,A1,Shilling,40,Vegan,Delayed,18,8/2/2022
+LA8837,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,5:05 AM,Ministro Pistarini International,Buenos Aires,Argentina,21,Evyn Duns,30,Male,C3,Krona,18,Vegan,On time,34,2/23/2022
+LH5061,Lufthansa,Frankfurt Airport,Frankfurt,Germany,1:07 AM,Charles de Gaulle,Paris,France,3,Kelby Cullon,120,Male,A1,Ruble,4,Vegetarian,Cancelled,46,3/5/2022
+AI8375,Air India,Indira Gandhi International,Delhi,India,11:24 AM,Chhatrapati Shivaji International,Mumbai,India,11,Foss Petrasch,46,Male,A1,Yuan Renminbi,35,Gluten-free,On time,17,6/6/2022
+LH1464,Lufthansa,Frankfurt Airport,Frankfurt,Germany,2:43 PM,Charles de Gaulle,Paris,France,16,Nedi Iacovolo,42,Female,C3,Colon,26,Gluten-free,On time,36,4/23/2022
+AZ6367,Alitalia,Leonardo da Vinci International,Rome,Italy,3:32 AM,Charles de Gaulle,Paris,France,6,Lothaire Haitlie,105,Male,A1,Yuan Renminbi,22,Vegetarian,Cancelled,5,10/7/2022
+KE6405,Korean Air,Incheon International,Seoul,South Korea,6:59 PM,Haneda,Tokyo,Japan,11,Kittie Isacoff,59,Female,B2,Peso,27,Gluten-free,Cancelled,20,4/29/2022
+NZ9000,Air New Zealand,Auckland Airport,Auckland,New Zealand,6:46 AM,Munich Airport,Munich,Germany,7,Rayner Poytress,92,Male,C3,Yuan Renminbi,32,Vegetarian,Delayed,34,6/19/2022
+AZ5154,Alitalia,Leonardo da Vinci International,Rome,Italy,10:03 AM,Adolfo Suárez Madrid–Barajas,Madrid,Spain,19,Marielle Troutbeck,82,Female,C3,Yuan Renminbi,33,Gluten-free,On time,35,2/3/2022
+AV4872,Avianca,El Dorado International,Bogotá,Colombia,1:53 PM,O'Hare International,Chicago,USA,19,Jessee Lamminam,13,Male,C3,Krona,33,Vegetarian,Delayed,29,12/9/2022
+SQ2219,Singapore Airlines,Changi,Singapore,Singapore,11:16 PM,Copenhagen Airport,Copenhagen,Denmark,2,Else O'Day,6,Bigender,B2,Yuan Renminbi,50,Gluten-free,Delayed,39,2/12/2022
+QR3296,Qatar Airways,Hamad International,Doha,Qatar,9:22 PM,Jomo Kenyatta International,Nairobi,Kenya,22,Shirleen Fidele,85,Female,B2,Ruble,30,Vegetarian,On time,11,3/15/2022
+QF4792,Qantas,Sydney Airport,Sydney,Australia,10:16 AM,Melbourne Airport,Melbourne,Australia,5,Berta Yakovl,22,Female,A1,Yuan Renminbi,7,Gluten-free,Delayed,10,4/15/2022
+SK1975,SAS Scandinavian,Copenhagen Airport,Copenhagen,Denmark,3:04 PM,Frankfurt Airport,Frankfurt,Germany,6,Elroy Harp,44,Male,A1,Krona,37,Gluten-free,Delayed,1,10/11/2022
+AM9678,Aeroméxico,Benito Juárez International,Mexico City,Mexico,2:54 AM,O'Hare International,Chicago,USA,5,Katleen Stellin,60,Female,B2,Rupiah,38,Vegan,On time,24,12/21/2022
+AI2581,Air India,Indira Gandhi International,Delhi,India,10:09 PM,Chhatrapati Shivaji International,Mumbai,India,24,Walker Rihanek,105,Male,C3,Euro,48,Vegan,On time,35,5/13/2022
+ET9488,Ethiopian Airlines,Bole International,Addis Ababa,Ethiopia,2:39 PM,Hamad International,Doha,Qatar,5,Jarid Beach,49,Male,C3,Yuan Renminbi,35,Vegan,Delayed,24,7/30/2022
+LH3115,Lufthansa,Frankfurt Airport,Frankfurt,Germany,3:44 AM,Jorge Chávez International,Lima,Peru,7,Jacquenette Bowbrick,43,Female,A1,Yuan Renminbi,17,Vegan,Delayed,23,12/16/2022
+AM2211,Aeroméxico,Benito Juárez International,Mexico City,Mexico,3:22 PM,Dallas/Fort Worth International,Dallas,USA,13,Forest Mallion,59,Male,A1,Real,1,Vegan,On time,35,11/18/2022
+AA9066,American Airlines,John F. Kennedy International,New York,USA,2:49 PM,Hartsfield-Jackson Atlanta,Atlanta,USA,1,Isabelle Infante,32,Agender,C3,Dinar,22,Vegan,Cancelled,12,12/25/2022
+QR4556,Qatar Airways,Hamad International,Doha,Qatar,7:46 AM,Bole International,Addis Ababa,Ethiopia,8,Hercules Corner,31,Male,C3,Yen,7,Vegan,Delayed,7,4/24/2022
+BA7831,British Airways,Heathrow,London,UK,2:04 PM,Charles de Gaulle,Paris,France,15,Siouxie Blaksley,14,Female,B2,Kyat,0,Vegetarian,On time,28,5/23/2022
+SK3759,SAS Scandinavian,Copenhagen Airport,Copenhagen,Denmark,6:55 PM,Charles de Gaulle,Paris,France,16,Rodie Davidzon,56,Female,A1,Baht,22,Vegetarian,Delayed,39,4/12/2022
+AF1050,Air France,Charles de Gaulle,Paris,France,2:51 AM,Frankfurt Airport,Frankfurt,Germany,14,Averyl Jakobssen,111,Female,A1,Dollar,0,Vegetarian,Delayed,16,2/4/2022
+AF8541,Air France,Charles de Gaulle,Paris,France,5:20 PM,Frankfurt Airport,Frankfurt,Germany,13,Earlie Donaway,91,Male,A1,Euro,48,Vegetarian,Delayed,32,10/14/2022
+BA3914,British Airways,Heathrow,London,UK,5:17 AM,Charles de Gaulle,Paris,France,23,Ely McGuiness,40,Male,A1,Real,15,Gluten-free,Delayed,13,2/24/2022
+AZ1037,Alitalia,Leonardo da Vinci International,Rome,Italy,10:24 PM,Charles de Gaulle,Paris,France,23,Waylen Prodrick,27,Male,C3,Zloty,27,Vegetarian,Delayed,22,5/23/2022
+AM8076,Aeroméxico,Benito Juárez International,Mexico City,Mexico,6:28 AM,Denver International,Denver,USA,13,Noby Dorgan,116,Male,B2,Yuan Renminbi,24,Vegan,Cancelled,22,5/28/2022
+SA1511,South African Airways,O.R. Tambo International,Johannesburg,South Africa,5:27 AM,Charles de Gaulle,Paris,France,2,Kaitlynn Ocklin,72,Female,A1,Yuan Renminbi,3,Vegetarian,On time,29,9/30/2022
+QR8006,Qatar Airways,Hamad International,Doha,Qatar,7:46 AM,Leonardo da Vinci International,Rome,Italy,9,Arlyne Bricklebank,10,Agender,C3,Rupiah,17,Vegan,Cancelled,5,8/29/2022
+QR3479,Qatar Airways,Hamad International,Doha,Qatar,1:08 AM,Bole International,Addis Ababa,Ethiopia,3,Lonnie M'cowis,84,Male,B2,Euro,7,Vegetarian,Delayed,43,5/8/2022
+AV3423,Avianca,El Dorado International,Bogotá,Colombia,6:50 PM,O'Hare International,Chicago,USA,14,Evangelin Baistow,3,Female,C3,Rupiah,7,Vegetarian,On time,43,6/18/2022
+QR2822,Qatar Airways,Hamad International,Doha,Qatar,11:20 AM,Bole International,Addis Ababa,Ethiopia,2,Justino Clementi,63,Male,C3,Ruble,40,Gluten-free,On time,15,6/20/2022
+DL1765,Delta Air Lines,John F. Kennedy International,New York,USA,11:27 PM,Hartsfield-Jackson Atlanta,Atlanta,USA,15,Thorstein Gregorowicz,119,Male,B2,Yen,29,Vegetarian,Delayed,8,7/14/2022
+AZ6460,Alitalia,Leonardo da Vinci International,Rome,Italy,2:33 AM,Charles de Gaulle,Paris,France,13,Jandy Gotecliffe,39,Non-binary,B2,Rupiah,35,Vegetarian,Delayed,14,3/22/2022
+KE9706,Korean Air,Incheon International,Seoul,South Korea,2:48 PM,Haneda,Tokyo,Japan,14,Karlen Retallack,3,Female,A1,Yuan Renminbi,32,Vegan,On time,38,3/16/2022
+LH4442,Lufthansa,Frankfurt Airport,Frankfurt,Germany,9:23 PM,Charles de Gaulle,Paris,France,23,Korie Budgey,12,Genderfluid,B2,Yuan Renminbi,41,Vegan,Delayed,9,9/17/2022
+KL3008,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Netherlands,8:36 PM,Charles de Gaulle,Paris,France,11,Artus Dixon,61,Male,C3,Euro,11,Gluten-free,On time,13,3/31/2022
+AM2109,Aeroméxico,Benito Juárez International,Mexico City,Mexico,4:28 AM,Dallas/Fort Worth International,Dallas,USA,14,Belicia Preon,113,Female,C3,Baht,43,Vegetarian,On time,17,3/6/2022
+QF5189,Qantas,Sydney Airport,Sydney,Australia,3:15 AM,Melbourne Airport,Melbourne,Australia,15,Linette Luscombe,2,Female,A1,Yen,8,Vegan,On time,33,7/29/2022
+AC3505,Air Canada,Toronto Pearson,Toronto,Canada,2:29 AM,John F. Kennedy International,New York,USA,20,Del Glas,57,Female,A1,Real,34,Vegetarian,Delayed,18,6/16/2022
+AZ5926,Alitalia,Leonardo da Vinci International,Rome,Italy,12:10 PM,Charles de Gaulle,Paris,France,5,Kameko Coopper,80,Female,C3,Yuan Renminbi,47,Gluten-free,On time,26,9/10/2022
+AI2455,Air India,Indira Gandhi International,Delhi,India,1:51 PM,Chhatrapati Shivaji International,Mumbai,India,9,Lynde Abdon,104,Agender,B2,Yuan Renminbi,16,Gluten-free,On time,21,12/17/2022
+KE1522,Korean Air,Incheon International,Seoul,South Korea,5:28 PM,Haneda,Tokyo,Japan,21,Tulley Gallahue,88,Male,C3,Shilling,33,Vegetarian,Delayed,32,3/18/2022
+LA9061,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,12:12 AM,Ministro Pistarini International,Buenos Aires,Argentina,14,Chelsie Gaucher,64,Female,C3,Yuan Renminbi,34,Gluten-free,On time,41,7/29/2022
+BA9450,British Airways,Heathrow,London,UK,6:37 PM,Charles de Gaulle,Paris,France,4,Bruce Andersen,100,Male,A1,Dirham,14,Gluten-free,Cancelled,12,2/17/2022
+WN9145,Southwest Airlines,Los Angeles International,Los Angeles,USA,1:44 AM,San Francisco International,San Francisco,USA,12,Diego Kohter,74,Male,A1,Euro,4,Gluten-free,On time,32,11/19/2022
+DL1126,Delta Air Lines,John F. Kennedy International,New York,USA,7:04 AM,Ministro Pistarini International,Buenos Aires,Argentina,8,Ronda Rubrow,51,Female,B2,Koruna,33,Vegetarian,Cancelled,49,3/7/2022
+SQ8993,Singapore Airlines,Changi,Singapore,Singapore,7:40 PM,Beijing Capital International,Beijing,China,12,Pammi Murrigan,117,Polygender,A1,Zloty,48,Vegetarian,Cancelled,31,8/22/2022
+NZ3523,Air New Zealand,Auckland Airport,Auckland,New Zealand,10:46 AM,Sydney Airport,Sydney,Australia,18,Kele Runham,113,Male,B2,Krona,41,Vegan,On time,20,4/19/2022
+IB8421,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,6:34 PM,Chhatrapati Shivaji International,Mumbai,India,10,Izak Tyndall,102,Male,B2,Yuan Renminbi,29,Vegetarian,Delayed,12,12/11/2022
+AM5578,Aeroméxico,Benito Juárez International,Mexico City,Mexico,2:14 AM,Adolfo Suárez Madrid–Barajas,Madrid,Spain,19,Phillip Stefanovic,20,Male,A1,Zloty,46,Gluten-free,Delayed,27,10/25/2022
+AZ5690,Alitalia,Leonardo da Vinci International,Rome,Italy,3:48 AM,Amsterdam Airport Schiphol,Amsterdam,Netherlands,17,Reynard Spitell,75,Male,A1,Euro,43,Vegan,Cancelled,33,8/29/2022
+AA7448,American Airlines,John F. Kennedy International,New York,USA,6:13 PM,Hartsfield-Jackson Atlanta,Atlanta,USA,24,Richardo Morican,58,Male,B2,Naira,26,Gluten-free,Delayed,19,8/14/2022
+IB6663,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,11:09 AM,Hamad International,Doha,Qatar,13,Evanne Arrol,26,Female,C3,Rupiah,30,Vegetarian,On time,50,8/3/2022
+SQ4965,Singapore Airlines,Changi,Singapore,Singapore,11:33 PM,Beijing Capital International,Beijing,China,7,Betty Whiskerd,34,Female,C3,Dollar,18,Vegetarian,Delayed,7,5/12/2022
+NZ2281,Air New Zealand,Auckland Airport,Auckland,New Zealand,10:35 AM,Brisbane Airport,Brisbane,Australia,11,Lexy Cardello,29,Female,C3,Yuan Renminbi,20,Gluten-free,On time,46,7/18/2022
+AF7132,Air France,Charles de Gaulle,Paris,France,12:18 PM,Melbourne Airport,Melbourne,Australia,8,Aharon Canby,102,Male,C3,Yuan Renminbi,26,Vegan,On time,38,4/8/2022
+AV9376,Avianca,El Dorado International,Bogotá,Colombia,7:11 PM,O'Hare International,Chicago,USA,18,Felice Culwen,46,Male,C3,Zloty,49,Gluten-free,Delayed,49,5/27/2022
+IB1843,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,5:26 AM,Charles de Gaulle,Paris,France,11,Rick Puckett,37,Bigender,B2,Euro,25,Vegetarian,On time,17,8/6/2022
+AA5655,American Airlines,John F. Kennedy International,New York,USA,3:12 AM,Hartsfield-Jackson Atlanta,Atlanta,USA,15,Gabe Ebi,101,Male,A1,Yen,49,Gluten-free,Delayed,35,9/6/2022
+UA3319,United Airlines,Los Angeles International,Los Angeles,USA,4:51 PM,San Francisco International,San Francisco,USA,19,Deidre Dabourne,3,Female,C3,Euro,2,Vegetarian,Cancelled,18,2/14/2022
+BA6235,British Airways,Heathrow,London,UK,3:40 AM,Arturo Merino Benítez International,Santiago,Chile,8,Cindie Bailess,19,Female,B2,Yuan Renminbi,2,Vegetarian,Cancelled,9,10/31/2022
+NZ9063,Air New Zealand,Auckland Airport,Auckland,New Zealand,12:36 AM,Sydney Airport,Sydney,Australia,23,Tadio Morton,72,Male,C3,Zloty,49,Vegetarian,Delayed,22,10/12/2022
+SA7753,South African Airways,O.R. Tambo International,Johannesburg,South Africa,10:41 PM,Charles de Gaulle,Paris,France,15,Archibald Willows,112,Male,C3,Yuan Renminbi,15,Gluten-free,Delayed,40,5/14/2022
+KL5305,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Netherlands,6:08 PM,Charles de Gaulle,Paris,France,6,Dani Stanwix,46,Agender,A1,Ruble,1,Vegetarian,On time,14,4/10/2022
+UA3225,United Airlines,Los Angeles International,Los Angeles,USA,3:28 AM,Benito Juárez International,Mexico City,Mexico,1,Bobinette Teggart,4,Female,A1,Rupiah,20,Vegetarian,On time,41,4/7/2022
+SA2908,South African Airways,O.R. Tambo International,Johannesburg,South Africa,11:56 AM,Charles de Gaulle,Paris,France,20,Helen-elizabeth Ferriere,89,Female,B2,Naira,23,Gluten-free,Delayed,22,1/29/2022
+KE8496,Korean Air,Incheon International,Seoul,South Korea,7:05 PM,Sydney Airport,Sydney,Australia,22,Reagen Evert,89,Male,C3,Ruble,42,Vegan,Delayed,40,11/16/2022
+TG6198,Thai Airways,Suvarnabhumi,Bangkok,Thailand,10:46 AM,Beijing Capital International,Beijing,China,17,Brenden Findlater,71,Male,B2,Euro,15,Vegan,Cancelled,35,8/4/2022
+AM9071,Aeroméxico,Benito Juárez International,Mexico City,Mexico,6:49 AM,O'Hare International,Chicago,USA,3,Frasier O'Gormley,77,Male,B2,Peso,6,Gluten-free,Cancelled,17,8/19/2022
+AA3791,American Airlines,John F. Kennedy International,New York,USA,7:36 PM,O'Hare International,Chicago,USA,19,Murdoch Deedes,19,Male,C3,Real,28,Vegan,Cancelled,32,4/3/2022
+AI1168,Air India,Indira Gandhi International,Delhi,India,10:28 PM,Dubai International,Dubai,UAE,8,Orlan Cockerham,115,Bigender,C3,Yuan Renminbi,49,Vegetarian,On time,11,6/19/2022
+UA8496,United Airlines,Los Angeles International,Los Angeles,USA,4:29 PM,San Francisco International,San Francisco,USA,12,Winifield Purdie,31,Male,B2,Rupiah,9,Vegan,Delayed,21,5/31/2022
+NH3133,All Nippon Airways,Haneda,Tokyo,Japan,5:02 AM,Incheon International,Seoul,South Korea,24,Cullan Rathbone,5,Male,C3,Krona,28,Vegetarian,Cancelled,44,11/9/2022
+ET9389,Ethiopian Airlines,Bole International,Addis Ababa,Ethiopia,8:06 PM,Hamad International,Doha,Qatar,14,Gabriel Pentelo,92,Male,C3,Yuan Renminbi,30,Vegetarian,Cancelled,46,1/5/2022
+AC7018,Air Canada,Toronto Pearson,Toronto,Canada,10:25 AM,John F. Kennedy International,New York,USA,9,Di Camerello,80,Female,C3,Rupiah,4,Gluten-free,Delayed,21,1/25/2022
+LA6997,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,1:17 PM,Ministro Pistarini International,Buenos Aires,Argentina,14,Gwen Hanssmann,23,Female,A1,Dollar,34,Vegetarian,Cancelled,20,1/31/2022
+UA4046,United Airlines,Los Angeles International,Los Angeles,USA,1:17 PM,San Francisco International,San Francisco,USA,20,Daryl Woolveridge,24,Male,C3,Yuan Renminbi,21,Vegetarian,Cancelled,8,7/8/2022
+QR3181,Qatar Airways,Hamad International,Doha,Qatar,12:57 AM,Bole International,Addis Ababa,Ethiopia,20,Clo Bernhard,32,Agender,B2,Yen,30,Gluten-free,Delayed,26,10/7/2022
+UA2642,United Airlines,Los Angeles International,Los Angeles,USA,7:58 PM,San Francisco International,San Francisco,USA,17,Gratia Haynes,41,Female,B2,Hryvnia,47,Vegetarian,Cancelled,27,11/25/2022
+SK6935,SAS Scandinavian,Copenhagen Airport,Copenhagen,Denmark,3:52 AM,Toronto Pearson,Toronto,Canada,16,Ruttger Castagnasso,68,Male,C3,Euro,41,Gluten-free,Delayed,10,10/31/2022
+SA8053,South African Airways,O.R. Tambo International,Johannesburg,South Africa,3:58 PM,Charles de Gaulle,Paris,France,17,Yolande MacAllen,100,Female,B2,Rupiah,38,Gluten-free,On time,21,10/10/2022
+SQ9811,Singapore Airlines,Changi,Singapore,Singapore,11:22 AM,Kuala Lumpur International,Kuala Lumpur,Malaysia,14,Ros Furbank,53,Female,B2,Rupiah,7,Gluten-free,Cancelled,10,1/13/2022
+SK5012,SAS Scandinavian,Copenhagen Airport,Copenhagen,Denmark,9:40 AM,Charles de Gaulle,Paris,France,22,Elysia Jubb,30,Female,B2,Rupiah,5,Vegan,Cancelled,19,5/3/2022
+TG1974,Thai Airways,Suvarnabhumi,Bangkok,Thailand,8:55 AM,Changi,Singapore,Singapore,8,Edmon Molian,49,Male,A1,Rial,43,Gluten-free,Delayed,5,7/14/2022
+QF1141,Qantas,Sydney Airport,Sydney,Australia,4:45 AM,Melbourne Airport,Melbourne,Australia,19,Casey Thacker,88,Female,B2,Sol,29,Vegetarian,Delayed,32,2/22/2022
+SA2360,South African Airways,O.R. Tambo International,Johannesburg,South Africa,10:28 PM,Frankfurt Airport,Frankfurt,Germany,14,Madelyn Letham,94,Female,A1,Yuan Renminbi,37,Vegetarian,Cancelled,19,2/28/2022
+AA8185,American Airlines,John F. Kennedy International,New York,USA,5:21 AM,Toronto Pearson,Toronto,Canada,24,Omero Doulden,80,Male,B2,Rupiah,0,Vegetarian,On time,12,8/9/2022
+AM8243,Aeroméxico,Benito Juárez International,Mexico City,Mexico,12:01 PM,Charles de Gaulle,Paris,France,14,Fay Nacey,24,Female,A1,Dollar,2,Gluten-free,On time,9,8/22/2022
+SQ3948,Singapore Airlines,Changi,Singapore,Singapore,9:17 PM,Beijing Capital International,Beijing,China,11,Rube Carling,16,Male,B2,Naira,31,Gluten-free,On time,10,10/3/2022
+QR4593,Qatar Airways,Hamad International,Doha,Qatar,4:59 PM,Bole International,Addis Ababa,Ethiopia,9,Bob Saile,9,Male,A1,Rupiah,2,Vegan,On time,18,6/3/2022
+IB4198,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,3:38 PM,Amsterdam Airport Schiphol,Amsterdam,Netherlands,5,Hieronymus Feldhuhn,59,Male,C3,Tenge,47,Vegan,Delayed,20,7/11/2022
+BA3159,British Airways,Heathrow,London,UK,1:22 AM,Charles de Gaulle,Paris,France,6,Marion Torrijos,36,Female,A1,Quetzal,11,Gluten-free,On time,35,10/6/2022
+WN8406,Southwest Airlines,Los Angeles International,Los Angeles,USA,7:49 AM,San Francisco International,San Francisco,USA,16,Huntley Beavington,112,Male,B2,Dollar,28,Vegan,On time,27,10/31/2022
+QF5757,Qantas,Sydney Airport,Sydney,Australia,12:57 AM,Melbourne Airport,Melbourne,Australia,4,Gill Smidmore,12,Male,C3,Boliviano,20,Gluten-free,Cancelled,27,8/28/2022
+AV2514,Avianca,El Dorado International,Bogotá,Colombia,2:50 AM,O'Hare International,Chicago,USA,16,Cozmo Nijssen,24,Male,B2,Ruble,3,Vegan,On time,38,10/30/2022
+QR9095,Qatar Airways,Hamad International,Doha,Qatar,7:36 PM,Charles de Gaulle,Paris,France,24,Robby Banfield,86,Female,B2,Zloty,44,Vegetarian,On time,26,6/26/2022
+ET7552,Ethiopian Airlines,Bole International,Addis Ababa,Ethiopia,6:52 PM,Hamad International,Doha,Qatar,4,Clemmie Stowers,85,Male,B2,Ruble,18,Vegetarian,Delayed,25,2/9/2022
+AI4479,Air India,Indira Gandhi International,Delhi,India,3:04 AM,Suvarnabhumi,Bangkok,Thailand,24,Lazare Giametti,90,Male,A1,Real,41,Vegan,On time,28,8/4/2022
+LH2563,Lufthansa,Frankfurt Airport,Frankfurt,Germany,9:44 AM,Charles de Gaulle,Paris,France,15,Mavra Brunger,29,Female,C3,Peso,32,Vegan,Cancelled,8,9/3/2022
+LH5512,Lufthansa,Frankfurt Airport,Frankfurt,Germany,5:55 PM,Charles de Gaulle,Paris,France,4,Hakim Garrood,32,Male,B2,Koruna,49,Vegetarian,On time,2,9/2/2022
+SK8474,SAS Scandinavian,Copenhagen Airport,Copenhagen,Denmark,5:22 AM,Charles de Gaulle,Paris,France,13,Aldo Askell,41,Male,C3,Rupiah,32,Vegan,Cancelled,46,7/8/2022
+SA4862,South African Airways,O.R. Tambo International,Johannesburg,South Africa,1:46 AM,Zurich Airport,Zurich,Switzerland,22,Nananne Wybrew,89,Female,B2,Rupiah,13,Vegan,On time,48,4/7/2022
+DL6563,Delta Air Lines,John F. Kennedy International,New York,USA,2:44 PM,Hartsfield-Jackson Atlanta,Atlanta,USA,4,Tallia Osbiston,102,Female,B2,Rupiah,28,Vegan,On time,6,8/15/2022
+IB7668,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,8:48 AM,Charles de Gaulle,Paris,France,24,Alvy Shankster,95,Male,C3,Lilangeni,1,Vegetarian,Delayed,8,10/26/2022
+SA3491,South African Airways,O.R. Tambo International,Johannesburg,South Africa,9:29 AM,Zurich Airport,Zurich,Switzerland,8,George Francomb,120,Male,B2,Peso,15,Gluten-free,Delayed,44,5/12/2022
+AC7975,Air Canada,Toronto Pearson,Toronto,Canada,2:25 AM,John F. Kennedy International,New York,USA,20,Catarina Victoria,93,Female,B2,Real,40,Vegan,On time,46,9/7/2022
+QR6020,Qatar Airways,Hamad International,Doha,Qatar,7:32 PM,Bole International,Addis Ababa,Ethiopia,15,Lazaro MacGilpatrick,120,Male,C3,Balboa,40,Gluten-free,Delayed,34,7/12/2022
+LH3991,Lufthansa,Frankfurt Airport,Frankfurt,Germany,3:30 AM,Charles de Gaulle,Paris,France,9,Selestina Sagrott,99,Female,C3,Tugrik,37,Vegetarian,On time,19,2/19/2022
+SK4238,SAS Scandinavian,Copenhagen Airport,Copenhagen,Denmark,4:09 AM,Charles de Gaulle,Paris,France,15,Killie Bleackley,55,Genderfluid,B2,Ruble,45,Vegan,On time,45,6/28/2022
+AV3665,Avianca,El Dorado International,Bogotá,Colombia,8:27 AM,O'Hare International,Chicago,USA,8,Ede Tomadoni,78,Non-binary,B2,Birr,49,Vegetarian,Delayed,25,9/19/2022
+TG8145,Thai Airways,Suvarnabhumi,Bangkok,Thailand,2:22 AM,Changi,Singapore,Singapore,6,Reagen Koppe,59,Male,C3,Real,27,Gluten-free,Cancelled,30,12/18/2022
+AI5439,Air India,Indira Gandhi International,Delhi,India,1:36 AM,Chhatrapati Shivaji International,Mumbai,India,6,Stern Neilan,46,Agender,B2,Euro,25,Vegan,Cancelled,33,7/31/2022
+LH7040,Lufthansa,Frankfurt Airport,Frankfurt,Germany,6:07 PM,Charles de Gaulle,Paris,France,21,Wendye Corse,77,Genderqueer,A1,Euro,27,Gluten-free,On time,25,1/19/2022
+AF5273,Air France,Charles de Gaulle,Paris,France,3:33 AM,Frankfurt Airport,Frankfurt,Germany,15,Oran Simoncello,70,Male,A1,Sol,32,Gluten-free,Cancelled,14,2/1/2022
+NH6266,All Nippon Airways,Haneda,Tokyo,Japan,9:21 AM,Sydney Airport,Sydney,Australia,24,Saba Midson,2,Female,A1,Rupiah,18,Vegan,On time,31,6/13/2022
+AI6849,Air India,Indira Gandhi International,Delhi,India,6:49 PM,Chhatrapati Shivaji International,Mumbai,India,7,Hasheem Gregon,34,Male,A1,Euro,6,Vegetarian,On time,23,9/8/2022
+AA2277,American Airlines,John F. Kennedy International,New York,USA,11:06 AM,Hartsfield-Jackson Atlanta,Atlanta,USA,21,Domenic Lavigne,107,Male,B2,Rupiah,10,Gluten-free,On time,6,8/8/2022
+AF2617,Air France,Charles de Gaulle,Paris,France,4:44 AM,Adolfo Suárez Madrid–Barajas,Madrid,Spain,9,Abie Ion,62,Male,B2,Euro,49,Vegan,On time,25,2/17/2022
+TG9555,Thai Airways,Suvarnabhumi,Bangkok,Thailand,9:43 AM,Changi,Singapore,Singapore,24,Mycah Talboy,56,Male,A1,Peso,43,Gluten-free,On time,20,7/26/2022
+SQ2818,Singapore Airlines,Changi,Singapore,Singapore,9:33 PM,Beijing Capital International,Beijing,China,1,Nikola Giorgioni,60,Male,A1,Rand,6,Vegetarian,Cancelled,20,12/27/2022
+TG6220,Thai Airways,Suvarnabhumi,Bangkok,Thailand,2:04 PM,Beijing Capital International,Beijing,China,21,Howie Mabee,101,Male,C3,Dollar,33,Vegan,On time,8,2/18/2022
+ET4228,Ethiopian Airlines,Bole International,Addis Ababa,Ethiopia,10:51 AM,Hamad International,Doha,Qatar,15,Quentin Menis,42,Genderfluid,B2,Rupiah,28,Vegetarian,Cancelled,41,7/11/2022
+NH4113,All Nippon Airways,Haneda,Tokyo,Japan,6:10 PM,Incheon International,Seoul,South Korea,6,Helge Foulds,66,Female,A1,Peso,1,Vegan,Delayed,39,9/2/2022
+NZ8553,Air New Zealand,Auckland Airport,Auckland,New Zealand,10:14 PM,Sydney Airport,Sydney,Australia,3,Granville Antat,104,Male,C3,Dollar,10,Vegetarian,Cancelled,42,8/16/2022
+AM6852,Aeroméxico,Benito Juárez International,Mexico City,Mexico,10:46 AM,Ministro Pistarini International,Buenos Aires,Argentina,1,Ker Stathers,61,Male,B2,Yuan Renminbi,4,Vegetarian,Delayed,5,11/1/2022
+AF7015,Air France,Charles de Gaulle,Paris,France,5:05 AM,Frankfurt Airport,Frankfurt,Germany,1,Morse Ludford,103,Bigender,B2,Shilling,7,Vegan,On time,32,5/17/2022
+AC6946,Air Canada,Toronto Pearson,Toronto,Canada,4:00 PM,John F. Kennedy International,New York,USA,22,Joan Sander,55,Female,B2,Naira,50,Gluten-free,Cancelled,49,6/10/2022
+AC1756,Air Canada,Toronto Pearson,Toronto,Canada,4:25 PM,John F. Kennedy International,New York,USA,15,Arlana Vasilkov,115,Female,A1,Ruble,30,Vegan,On time,8,4/27/2022
+AI4973,Air India,Indira Gandhi International,Delhi,India,2:06 AM,Beijing Capital International,Beijing,China,10,Clemmy Heindrich,113,Female,B2,Yuan Renminbi,40,Vegan,Delayed,41,9/23/2022
+IB6581,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,12:31 AM,Charles de Gaulle,Paris,France,22,Mara Bernardet,91,Female,C3,Won,27,Vegetarian,On time,48,6/16/2022
+AA3879,American Airlines,John F. Kennedy International,New York,USA,3:17 PM,Hartsfield-Jackson Atlanta,Atlanta,USA,23,Jerrie Pendrid,37,Male,B2,Ruble,49,Vegetarian,Delayed,17,10/15/2022
+AV1894,Avianca,El Dorado International,Bogotá,Colombia,2:11 AM,O'Hare International,Chicago,USA,17,Isadore Beardsley,105,Male,C3,Euro,8,Vegetarian,Delayed,27,9/13/2022
+BA3676,British Airways,Heathrow,London,UK,6:12 PM,Charles de Gaulle,Paris,France,1,Torin Piper,33,Non-binary,B2,Franc,29,Vegan,Cancelled,22,2/6/2022
+ET7187,Ethiopian Airlines,Bole International,Addis Ababa,Ethiopia,6:31 AM,Hamad International,Doha,Qatar,19,Cecilla Jenkison,103,Female,A1,Zloty,26,Gluten-free,Cancelled,6,11/28/2022
+KL4801,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Netherlands,11:22 PM,Charles de Gaulle,Paris,France,22,Felisha Blinckhorne,13,Female,C3,Rupiah,43,Vegetarian,Delayed,10,4/7/2022
+CX5049,Cathay Pacific,Hong Kong International,Hong Kong,China,1:11 AM,Changi,Singapore,Singapore,9,Iain Tomankiewicz,30,Agender,C3,Dollar,3,Gluten-free,Delayed,47,4/18/2022
+CX4991,Cathay Pacific,Hong Kong International,Hong Kong,China,6:03 AM,Changi,Singapore,Singapore,17,Frank Benam,61,Female,B2,Rupiah,12,Gluten-free,Cancelled,15,6/10/2022
+LA1090,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,12:28 PM,Ministro Pistarini International,Buenos Aires,Argentina,8,Gaspar Griffitt,79,Male,B2,Baht,37,Gluten-free,On time,1,5/20/2022
+CX3660,Cathay Pacific,Hong Kong International,Hong Kong,China,2:02 AM,Changi,Singapore,Singapore,23,Alon Quantrill,41,Male,A1,Naira,50,Vegan,Cancelled,37,2/26/2022
+AI4924,Air India,Indira Gandhi International,Delhi,India,9:51 AM,Chhatrapati Shivaji International,Mumbai,India,22,Theodosia Forsythe,2,Female,C3,Yuan Renminbi,22,Gluten-free,On time,37,3/11/2022
+QF6330,Qantas,Sydney Airport,Sydney,Australia,2:38 AM,Melbourne Airport,Melbourne,Australia,12,Alanna Greatham,31,Female,B2,Peso,25,Vegetarian,Cancelled,46,2/25/2022
+KL3076,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Netherlands,4:40 AM,Cape Town International,Cape Town,South Africa,2,Tamera Meynell,15,Female,C3,Yuan Renminbi,23,Vegan,On time,29,5/11/2022
+IB7731,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,9:48 AM,Charles de Gaulle,Paris,France,16,Ronni Duplan,120,Female,A1,Euro,50,Gluten-free,Cancelled,26,11/10/2022
+SK8764,SAS Scandinavian,Copenhagen Airport,Copenhagen,Denmark,5:15 AM,Bole International,Addis Ababa,Ethiopia,2,Morganica Ash,71,Female,A1,Yuan Renminbi,21,Vegan,Delayed,25,12/2/2022
+ET8753,Ethiopian Airlines,Bole International,Addis Ababa,Ethiopia,2:42 AM,Hamad International,Doha,Qatar,3,Bertrando Thurlby,20,Male,C3,Euro,11,Vegan,Delayed,10,12/5/2022
+AI6865,Air India,Indira Gandhi International,Delhi,India,9:19 PM,Dubai International,Dubai,UAE,14,Cornelius Ricardo,16,Male,C3,Yuan Renminbi,31,Gluten-free,Delayed,25,7/19/2022
+SK1914,SAS Scandinavian,Copenhagen Airport,Copenhagen,Denmark,10:25 PM,Charles de Gaulle,Paris,France,23,Skip Pile,80,Male,A1,Peso,26,Gluten-free,On time,47,10/11/2022
+ET5547,Ethiopian Airlines,Bole International,Addis Ababa,Ethiopia,8:52 PM,O'Hare International,Chicago,USA,20,Harmonie Nutting,1,Female,A1,Yuan Renminbi,35,Vegetarian,Delayed,28,5/10/2022
+DL8854,Delta Air Lines,John F. Kennedy International,New York,USA,2:22 AM,Miami International,Miami,USA,1,Ursa Olyunin,118,Female,A1,Rial,3,Vegetarian,On time,28,5/2/2022
+LH6949,Lufthansa,Frankfurt Airport,Frankfurt,Germany,9:40 PM,Charles de Gaulle,Paris,France,5,Zulema Weeke,7,Female,A1,Yuan Renminbi,23,Gluten-free,On time,47,1/5/2022
+SA9625,South African Airways,O.R. Tambo International,Johannesburg,South Africa,3:10 PM,Adolfo Suárez Madrid–Barajas,Madrid,Spain,23,Joelly Fairfoull,111,Female,A1,Rial,0,Vegetarian,Cancelled,28,10/21/2022
+TG3623,Thai Airways,Suvarnabhumi,Bangkok,Thailand,12:38 AM,Chhatrapati Shivaji International,Mumbai,India,23,Lorna Jaffa,86,Female,C3,Rupiah,24,Gluten-free,On time,14,12/22/2022
+QR5341,Qatar Airways,Hamad International,Doha,Qatar,1:35 PM,Bole International,Addis Ababa,Ethiopia,3,Nadean Noulton,113,Female,C3,Yuan Renminbi,4,Vegetarian,Cancelled,13,6/17/2022
+AC5771,Air Canada,Toronto Pearson,Toronto,Canada,3:34 AM,John F. Kennedy International,New York,USA,10,Yoshiko Toolan,43,Female,B2,Yuan Renminbi,7,Vegetarian,On time,36,6/30/2022
+TG3919,Thai Airways,Suvarnabhumi,Bangkok,Thailand,11:05 AM,Changi,Singapore,Singapore,14,Sibyl Perrone,75,Female,C3,Dinar,21,Vegetarian,Cancelled,1,8/8/2022
+CX9570,Cathay Pacific,Hong Kong International,Hong Kong,China,1:56 PM,Changi,Singapore,Singapore,12,Hettie Berryman,81,Female,A1,Dram,4,Vegetarian,Cancelled,22,12/8/2022
+AA7550,American Airlines,John F. Kennedy International,New York,USA,12:52 PM,Hartsfield-Jackson Atlanta,Atlanta,USA,4,Ingar Sirmon,32,Male,B2,Rupiah,19,Gluten-free,Delayed,38,11/20/2022
+AC4523,Air Canada,Toronto Pearson,Toronto,Canada,3:37 PM,John F. Kennedy International,New York,USA,23,Spence Henfre,65,Male,B2,Yuan Renminbi,19,Gluten-free,Cancelled,31,3/30/2022
+QR1441,Qatar Airways,Hamad International,Doha,Qatar,10:54 PM,Bole International,Addis Ababa,Ethiopia,10,Alikee Bleby,73,Female,B2,Peso,23,Vegan,On time,21,12/21/2022
+NH4003,All Nippon Airways,Haneda,Tokyo,Japan,10:13 PM,Incheon International,Seoul,South Korea,10,Marion McJerrow,85,Male,B2,Euro,33,Gluten-free,On time,19,9/27/2022
+AM7137,Aeroméxico,Benito Juárez International,Mexico City,Mexico,12:24 AM,Chhatrapati Shivaji International,Mumbai,India,20,Hilda Wawer,64,Female,C3,Yuan Renminbi,34,Gluten-free,On time,37,4/21/2022
+LA7284,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,8:33 AM,Ministro Pistarini International,Buenos Aires,Argentina,10,Christos Coughlan,33,Male,B2,Yuan Renminbi,23,Vegan,Delayed,32,4/25/2022
+DL4964,Delta Air Lines,John F. Kennedy International,New York,USA,8:07 PM,Hartsfield-Jackson Atlanta,Atlanta,USA,15,Sandro Ostick,60,Male,C3,Franc,50,Vegetarian,Delayed,38,2/2/2022
+UA4214,United Airlines,Los Angeles International,Los Angeles,USA,10:34 AM,San Francisco International,San Francisco,USA,16,Crysta Penman,38,Female,B2,Yuan Renminbi,47,Gluten-free,On time,41,9/30/2022
+TG3919,Thai Airways,Suvarnabhumi,Bangkok,Thailand,8:36 PM,Changi,Singapore,Singapore,15,Niels Etherington,7,Male,A1,Ruble,50,Gluten-free,Cancelled,2,2/1/2022
+AZ4265,Alitalia,Leonardo da Vinci International,Rome,Italy,9:52 AM,Charles de Gaulle,Paris,France,16,Kissie De Bernardis,51,Female,A1,Euro,50,Gluten-free,On time,26,5/30/2022
+KL8568,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Netherlands,2:07 PM,Charles de Gaulle,Paris,France,18,Cathee Rotter,37,Female,B2,Sol,31,Vegetarian,On time,9,10/22/2022
+NZ6947,Air New Zealand,Auckland Airport,Auckland,New Zealand,1:35 AM,Sydney Airport,Sydney,Australia,23,Shalom Kentish,94,Male,C3,Yuan Renminbi,1,Vegan,Cancelled,33,10/15/2022
+TG2803,Thai Airways,Suvarnabhumi,Bangkok,Thailand,10:33 PM,Amsterdam Airport Schiphol,Amsterdam,Netherlands,5,Erich Birrane,120,Male,B2,Krone,34,Gluten-free,On time,42,11/15/2022
+AF8541,Air France,Charles de Gaulle,Paris,France,4:14 PM,Frankfurt Airport,Frankfurt,Germany,10,Wenda Scrase,112,Female,A1,Shekel,36,Gluten-free,Delayed,46,7/22/2022
+AF8541,Air France,Charles de Gaulle,Paris,France,7:32 AM,Frankfurt Airport,Frankfurt,Germany,13,Winnah Kittiman,103,Female,B2,Ringgit,17,Gluten-free,On time,6,4/4/2022
+SA4236,South African Airways,O.R. Tambo International,Johannesburg,South Africa,3:06 AM,Charles de Gaulle,Paris,France,4,Eadith O'Brien,68,Female,C3,Dollar,39,Vegan,Delayed,45,12/26/2022
+IB9356,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,4:49 PM,Charles de Gaulle,Paris,France,23,Katti Whistance,102,Female,C3,Yuan Renminbi,29,Vegan,Delayed,13,5/19/2022
+EK5965,Emirates,Dubai International,Dubai,UAE,2:25 PM,Hamad International,Doha,Qatar,12,Candida Baulcombe,116,Female,B2,Yuan Renminbi,32,Vegan,Cancelled,34,7/8/2022
+QF6150,Qantas,Sydney Airport,Sydney,Australia,4:15 PM,Melbourne Airport,Melbourne,Australia,13,Margarette Currin,110,Female,C3,Peso,37,Vegan,Cancelled,39,12/4/2022
+CX7350,Cathay Pacific,Hong Kong International,Hong Kong,China,8:58 PM,Chhatrapati Shivaji International,Mumbai,India,11,Erica Hatchell,112,Female,B2,Zloty,11,Gluten-free,Delayed,48,11/1/2022
+SA2417,South African Airways,O.R. Tambo International,Johannesburg,South Africa,10:14 PM,Charles de Gaulle,Paris,France,16,Clarance Piatek,14,Male,A1,Baht,34,Vegetarian,Delayed,27,12/5/2022
+KL7602,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Netherlands,12:55 PM,Charles de Gaulle,Paris,France,7,Filberte Petran,36,Male,C3,Euro,28,Gluten-free,Delayed,29,10/22/2022
+QF4855,Qantas,Sydney Airport,Sydney,Australia,7:18 PM,Melbourne Airport,Melbourne,Australia,1,Nev Gibbin,99,Male,B2,Ruble,49,Vegetarian,Cancelled,45,7/5/2022
+NH2978,All Nippon Airways,Haneda,Tokyo,Japan,4:55 AM,Hong Kong International,Hong Kong,China,22,Joey Windless,58,Female,A1,Euro,7,Gluten-free,Cancelled,26,2/25/2022
+KE1960,Korean Air,Incheon International,Seoul,South Korea,6:39 PM,Haneda,Tokyo,Japan,13,Dorris Gorring,30,Female,A1,Euro,12,Vegetarian,On time,37,11/26/2022
+WN3007,Southwest Airlines,Los Angeles International,Los Angeles,USA,12:09 PM,San Francisco International,San Francisco,USA,11,Murdoch Morgan,103,Genderfluid,A1,Ruble,13,Vegetarian,Delayed,44,11/28/2022
+SK2434,SAS Scandinavian,Copenhagen Airport,Copenhagen,Denmark,9:52 AM,Charles de Gaulle,Paris,France,1,Sandye Fawssett,78,Female,A1,Yuan Renminbi,28,Vegetarian,Cancelled,31,5/25/2022
+NZ5671,Air New Zealand,Auckland Airport,Auckland,New Zealand,3:16 PM,Brisbane Airport,Brisbane,Australia,6,Ezmeralda Heugle,112,Female,B2,Yuan Renminbi,29,Gluten-free,Cancelled,43,6/19/2022
+LH7426,Lufthansa,Frankfurt Airport,Frankfurt,Germany,1:11 PM,Charles de Gaulle,Paris,France,20,Susanna Petrolli,10,Female,B2,Peso,11,Gluten-free,Cancelled,11,5/2/2022
+KL4801,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Netherlands,7:59 PM,Charles de Gaulle,Paris,France,4,Allister Harling,99,Non-binary,B2,Franc,9,Gluten-free,Delayed,7,12/27/2022
+SK4013,SAS Scandinavian,Copenhagen Airport,Copenhagen,Denmark,2:00 AM,Charles de Gaulle,Paris,France,20,Alli Ashling,107,Female,A1,Ringgit,30,Vegetarian,Cancelled,23,3/6/2022
+UA5586,United Airlines,Los Angeles International,Los Angeles,USA,1:47 AM,San Francisco International,San Francisco,USA,2,Karel Gorman,19,Male,A1,Yuan Renminbi,7,Vegan,Delayed,7,1/13/2022
+BA5740,British Airways,Heathrow,London,UK,8:39 PM,Charles de Gaulle,Paris,France,14,Dill Ehlerding,76,Male,C3,Peso,48,Vegan,On time,29,8/9/2022
+QR6570,Qatar Airways,Hamad International,Doha,Qatar,5:45 AM,Kuala Lumpur International,Kuala Lumpur,Malaysia,19,Kimmy Blune,85,Female,B2,Rupiah,29,Gluten-free,On time,47,4/11/2022
+DL9764,Delta Air Lines,John F. Kennedy International,New York,USA,7:05 PM,Hartsfield-Jackson Atlanta,Atlanta,USA,20,Thurston Dickins,102,Male,B2,Dollar,38,Vegetarian,On time,19,7/19/2022
+KE5573,Korean Air,Incheon International,Seoul,South Korea,12:13 AM,Haneda,Tokyo,Japan,24,Marshal Kinglake,39,Male,A1,Real,0,Vegetarian,Delayed,4,5/17/2022
+AZ1471,Alitalia,Leonardo da Vinci International,Rome,Italy,12:57 AM,Charles de Gaulle,Paris,France,22,Stevy Shilstone,20,Male,C3,Euro,6,Gluten-free,Delayed,45,12/19/2022
+KE3382,Korean Air,Incheon International,Seoul,South Korea,3:20 AM,El Dorado International,Bogotá,Colombia,17,Matthiew Sisselot,111,Male,A1,Shilling,16,Gluten-free,Cancelled,24,7/17/2022
+NH5763,All Nippon Airways,Haneda,Tokyo,Japan,9:43 PM,Incheon International,Seoul,South Korea,18,Merci Fullstone,106,Female,B2,Rupiah,5,Vegetarian,Cancelled,3,8/13/2022
+SA3946,South African Airways,O.R. Tambo International,Johannesburg,South Africa,10:56 AM,Charles de Gaulle,Paris,France,13,Pia Giannazzo,60,Female,B2,Rupiah,0,Vegan,Cancelled,33,12/16/2022
+AA8361,American Airlines,John F. Kennedy International,New York,USA,10:20 PM,Toronto Pearson,Toronto,Canada,17,Reuben Frosdick,19,Male,B2,Rupiah,44,Gluten-free,Cancelled,18,7/21/2022
+QR4567,Qatar Airways,Hamad International,Doha,Qatar,4:22 AM,Bole International,Addis Ababa,Ethiopia,13,Lockwood Muzzullo,20,Male,B2,Ruble,32,Vegan,On time,13,8/14/2022
+AV3765,Avianca,El Dorado International,Bogotá,Colombia,5:22 AM,O'Hare International,Chicago,USA,21,Carina Sterman,112,Female,B2,Rupiah,1,Gluten-free,Cancelled,10,6/19/2022
+QR6223,Qatar Airways,Hamad International,Doha,Qatar,12:33 PM,Amsterdam Airport Schiphol,Amsterdam,Netherlands,18,Pacorro Catling,28,Male,A1,Euro,45,Vegan,Delayed,14,11/3/2022
+AA1144,American Airlines,John F. Kennedy International,New York,USA,5:33 AM,Hartsfield-Jackson Atlanta,Atlanta,USA,14,Dominica Penhall,27,Female,C3,Kina,25,Vegan,On time,37,6/18/2022
+TG6062,Thai Airways,Suvarnabhumi,Bangkok,Thailand,1:57 AM,Dubai International,Dubai,UAE,7,Modesty Wicklin,41,Female,A1,Dong,39,Gluten-free,Cancelled,2,5/12/2022
+CX1163,Cathay Pacific,Hong Kong International,Hong Kong,China,4:29 PM,Changi,Singapore,Singapore,15,Towney Grocutt,54,Male,B2,Yuan Renminbi,6,Gluten-free,On time,17,8/27/2022
+TG4162,Thai Airways,Suvarnabhumi,Bangkok,Thailand,1:00 PM,Changi,Singapore,Singapore,20,Jeri Allred,32,Female,A1,Manat,2,Vegetarian,Cancelled,40,7/1/2022
+WN9266,Southwest Airlines,Los Angeles International,Los Angeles,USA,10:00 PM,Seattle-Tacoma International,Seattle,USA,1,Giacinta Rushford,82,Female,B2,Dollar,9,Gluten-free,Cancelled,36,4/17/2022
+AF4739,Air France,Charles de Gaulle,Paris,France,1:00 PM,Dubai International,Dubai,UAE,4,Ailey Bunney,65,Female,A1,Yuan Renminbi,26,Gluten-free,On time,14,8/3/2022
+UA7283,United Airlines,Los Angeles International,Los Angeles,USA,2:55 PM,San Francisco International,San Francisco,USA,22,Amalita Donahue,88,Female,A1,Rupiah,22,Vegan,On time,15,4/1/2022
+AV3056,Avianca,El Dorado International,Bogotá,Colombia,2:55 PM,O'Hare International,Chicago,USA,14,Jessee Pleass,76,Male,C3,Rupiah,20,Gluten-free,On time,19,9/13/2022
+AV8306,Avianca,El Dorado International,Bogotá,Colombia,6:46 AM,O'Hare International,Chicago,USA,23,Tate Warlock,88,Male,A1,Dollar,34,Vegan,Cancelled,10,7/11/2022
+BA5073,British Airways,Heathrow,London,UK,5:56 AM,Charles de Gaulle,Paris,France,15,Hayyim Rings,4,Male,C3,Baht,50,Gluten-free,Cancelled,12,3/28/2022
+SQ4686,Singapore Airlines,Changi,Singapore,Singapore,6:57 AM,Beijing Capital International,Beijing,China,9,Kelsy Riches,76,Agender,A1,Euro,46,Gluten-free,Delayed,46,8/26/2022
+BA8817,British Airways,Heathrow,London,UK,2:52 AM,Charles de Gaulle,Paris,France,1,Titos Dubble,109,Polygender,B2,Rial,41,Gluten-free,Delayed,2,11/23/2022
+AI2682,Air India,Indira Gandhi International,Delhi,India,4:18 PM,Chhatrapati Shivaji International,Mumbai,India,13,Thornie Daftor,44,Male,B2,Rupiah,13,Vegan,Delayed,32,9/7/2022
+AV4699,Avianca,El Dorado International,Bogotá,Colombia,9:57 PM,O'Hare International,Chicago,USA,6,Rickie Bottell,40,Female,A1,Peso,32,Gluten-free,Delayed,40,6/9/2022
+AF5273,Air France,Charles de Gaulle,Paris,France,12:40 PM,Frankfurt Airport,Frankfurt,Germany,24,Violet Pepye,81,Polygender,C3,Yen,33,Gluten-free,Delayed,27,6/7/2022
+DL2385,Delta Air Lines,John F. Kennedy International,New York,USA,11:10 PM,Hartsfield-Jackson Atlanta,Atlanta,USA,16,Ivonne Duiguid,4,Female,A1,Euro,50,Vegetarian,On time,39,2/22/2022
+SA8349,South African Airways,O.R. Tambo International,Johannesburg,South Africa,6:11 AM,Dallas/Fort Worth International,Dallas,USA,1,Frederigo Ogger,23,Male,A1,Ruble,39,Vegan,Delayed,25,8/25/2022
+AF7177,Air France,Charles de Gaulle,Paris,France,5:47 PM,Frankfurt Airport,Frankfurt,Germany,19,Margarete Ubsdell,1,Female,A1,Shilling,9,Vegetarian,On time,11,1/27/2022
+TG3656,Thai Airways,Suvarnabhumi,Bangkok,Thailand,12:52 PM,Changi,Singapore,Singapore,11,Ella Bourley,81,Female,A1,Dollar,1,Vegetarian,On time,11,11/3/2022
+EK9505,Emirates,Dubai International,Dubai,UAE,10:05 AM,Bole International,Addis Ababa,Ethiopia,10,Tanner Dunks,91,Male,A1,Euro,36,Vegan,Delayed,3,11/27/2022
+CX3692,Cathay Pacific,Hong Kong International,Hong Kong,China,4:05 AM,Changi,Singapore,Singapore,21,Gerrilee Gomez,43,Female,B2,Rupiah,40,Vegan,Delayed,8,3/23/2022
+AZ1674,Alitalia,Leonardo da Vinci International,Rome,Italy,2:43 PM,Charles de Gaulle,Paris,France,11,Kary Greg,9,Female,B2,Dollar,38,Vegetarian,Delayed,39,8/15/2022
+QR4872,Qatar Airways,Hamad International,Doha,Qatar,8:46 PM,Bole International,Addis Ababa,Ethiopia,22,Charlene Scyner,60,Female,B2,Yuan Renminbi,34,Vegetarian,Cancelled,48,9/29/2022
+AI5467,Air India,Indira Gandhi International,Delhi,India,6:39 PM,Incheon International,Seoul,South Korea,2,Bobbee Furlow,26,Female,A1,Peso,7,Gluten-free,Delayed,5,1/29/2022
+UA2339,United Airlines,Los Angeles International,Los Angeles,USA,8:48 PM,San Francisco International,San Francisco,USA,2,Winifred Wadworth,77,Bigender,B2,Tenge,25,Gluten-free,Delayed,20,5/13/2022
+NZ8860,Air New Zealand,Auckland Airport,Auckland,New Zealand,3:28 PM,Charles de Gaulle,Paris,France,20,Farris Brugsma,70,Male,C3,Euro,28,Gluten-free,On time,31,2/11/2022
+AV9422,Avianca,El Dorado International,Bogotá,Colombia,1:16 PM,O'Hare International,Chicago,USA,12,Godart Prigmore,3,Male,C3,Rupiah,47,Gluten-free,Cancelled,44,2/5/2022
+IB2634,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,8:39 AM,Jomo Kenyatta International,Nairobi,Kenya,12,Robinett Henze,77,Female,C3,Real,20,Gluten-free,On time,28,6/6/2022
+SK4970,SAS Scandinavian,Copenhagen Airport,Copenhagen,Denmark,11:51 PM,Charles de Gaulle,Paris,France,15,Phebe Scrowston,81,Female,B2,Bolivar,25,Vegetarian,Cancelled,8,7/10/2022
+AM3700,Aeroméxico,Benito Juárez International,Mexico City,Mexico,9:38 PM,Los Angeles International,Los Angeles,USA,19,Megan Hornbuckle,77,Female,C3,Rupiah,4,Gluten-free,On time,39,9/11/2022
+AC6547,Air Canada,Toronto Pearson,Toronto,Canada,5:04 AM,John F. Kennedy International,New York,USA,7,Hartwell Moughtin,86,Male,A1,Zloty,50,Vegetarian,Delayed,23,5/12/2022
+AV1894,Avianca,El Dorado International,Bogotá,Colombia,8:27 AM,O'Hare International,Chicago,USA,7,Willard Timlin,13,Male,C3,Yen,7,Vegan,Cancelled,25,11/16/2022
+TG8790,Thai Airways,Suvarnabhumi,Bangkok,Thailand,5:38 PM,Changi,Singapore,Singapore,2,Saw Beale,30,Male,C3,Birr,21,Vegetarian,Cancelled,38,10/22/2022
+NZ4231,Air New Zealand,Auckland Airport,Auckland,New Zealand,12:54 PM,Sydney Airport,Sydney,Australia,18,Daisi Boyan,18,Female,A1,Ruble,46,Vegetarian,Cancelled,23,9/5/2022
+EK5011,Emirates,Dubai International,Dubai,UAE,12:00 PM,Suvarnabhumi,Bangkok,Thailand,2,Hannie Woodger,84,Female,A1,Real,10,Vegetarian,Delayed,14,5/12/2022
+LH9308,Lufthansa,Frankfurt Airport,Frankfurt,Germany,2:24 AM,Charles de Gaulle,Paris,France,3,Nester Bottini,24,Male,A1,Rupee,25,Vegetarian,Cancelled,48,7/28/2022
+BA6412,British Airways,Heathrow,London,UK,6:19 PM,Dubai International,Dubai,UAE,11,Rudyard Lightowler,120,Male,C3,Yuan Renminbi,31,Vegan,Delayed,45,12/29/2022
+TG7432,Thai Airways,Suvarnabhumi,Bangkok,Thailand,5:42 PM,Changi,Singapore,Singapore,9,Jeanelle Jenyns,10,Female,C3,Bolivar,14,Gluten-free,On time,34,5/30/2022
+NH4329,All Nippon Airways,Haneda,Tokyo,Japan,5:17 AM,Incheon International,Seoul,South Korea,4,Lou Sherreard,55,Male,B2,Ruble,18,Vegetarian,Cancelled,42,10/26/2022
+NZ3584,Air New Zealand,Auckland Airport,Auckland,New Zealand,4:40 PM,Sydney Airport,Sydney,Australia,5,Goldy Aicken,108,Female,A1,Peso,8,Vegetarian,On time,32,10/18/2022
+AF6433,Air France,Charles de Gaulle,Paris,France,8:40 PM,Frankfurt Airport,Frankfurt,Germany,24,Zonnya McClinton,82,Female,B2,Euro,34,Gluten-free,On time,42,1/18/2022
+AI5145,Air India,Indira Gandhi International,Delhi,India,9:02 PM,Chhatrapati Shivaji International,Mumbai,India,7,Bevvy Kingzett,12,Female,A1,Hryvnia,32,Vegetarian,Delayed,37,1/24/2022
+QR2546,Qatar Airways,Hamad International,Doha,Qatar,8:57 PM,Bole International,Addis Ababa,Ethiopia,13,Colene Letty,73,Female,A1,Kuna,22,Vegetarian,On time,42,9/11/2022
+SK8608,SAS Scandinavian,Copenhagen Airport,Copenhagen,Denmark,1:23 AM,Charles de Gaulle,Paris,France,10,Cecilia Thebeau,67,Female,B2,Franc,17,Vegetarian,Delayed,30,12/2/2022
+SA4050,South African Airways,O.R. Tambo International,Johannesburg,South Africa,5:59 AM,Charles de Gaulle,Paris,France,7,Fidelity Hufton,91,Bigender,A1,Peso,0,Vegan,Cancelled,6,7/21/2022
+DL7036,Delta Air Lines,John F. Kennedy International,New York,USA,7:40 PM,Hartsfield-Jackson Atlanta,Atlanta,USA,21,Kyle Adshad,88,Female,B2,Ouguiya,36,Gluten-free,Cancelled,34,8/14/2022
+AZ5740,Alitalia,Leonardo da Vinci International,Rome,Italy,11:54 PM,O'Hare International,Chicago,USA,14,Reyna Meadus,6,Female,A1,Lev,48,Vegan,On time,50,7/27/2022
+SA3472,South African Airways,O.R. Tambo International,Johannesburg,South Africa,11:27 PM,São Paulo/Guarulhos International,São Paulo,Brazil,1,Felisha Manning,25,Female,C3,Yuan Renminbi,12,Vegan,Delayed,40,9/12/2022
+IB4266,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,5:00 AM,Charles de Gaulle,Paris,France,5,Jen Balint,9,Genderqueer,B2,Rupiah,30,Vegan,Cancelled,45,11/30/2022
+KL9443,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Netherlands,4:38 AM,Charles de Gaulle,Paris,France,3,Boote Screen,44,Male,B2,Krona,15,Vegetarian,Cancelled,17,9/5/2022
+KE7320,Korean Air,Incheon International,Seoul,South Korea,2:45 AM,Haneda,Tokyo,Japan,4,Egon Giffon,106,Male,B2,Krone,44,Vegetarian,Delayed,23,7/24/2022
+KL4801,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Netherlands,4:01 PM,Charles de Gaulle,Paris,France,5,Marita Morford,64,Female,C3,Yen,42,Vegan,Cancelled,33,8/17/2022
+AF1252,Air France,Charles de Gaulle,Paris,France,8:13 PM,Amsterdam Airport Schiphol,Amsterdam,Netherlands,9,Rachelle Kembery,12,Female,A1,Ruble,26,Vegan,Cancelled,13,4/8/2022
+UA3235,United Airlines,Los Angeles International,Los Angeles,USA,8:51 PM,San Francisco International,San Francisco,USA,23,Annabelle Poile,84,Female,C3,Euro,1,Vegan,On time,28,6/26/2022
+AC7112,Air Canada,Toronto Pearson,Toronto,Canada,4:02 PM,John F. Kennedy International,New York,USA,15,Aggi Medhurst,74,Female,C3,Yuan Renminbi,15,Vegan,On time,4,7/3/2022
+TG4168,Thai Airways,Suvarnabhumi,Bangkok,Thailand,4:57 PM,Los Angeles International,Los Angeles,USA,6,Gusty Eadmead,14,Female,C3,Rupiah,16,Vegan,On time,21,5/28/2022
+LH7474,Lufthansa,Frankfurt Airport,Frankfurt,Germany,11:37 AM,Cairo International,Cairo,Egypt,24,Kristan Scocroft,49,Female,C3,Rupiah,23,Vegetarian,Delayed,11,8/2/2022
+ET9810,Ethiopian Airlines,Bole International,Addis Ababa,Ethiopia,8:55 PM,Hamad International,Doha,Qatar,19,Eugenio Gaggen,14,Male,B2,Rupee,11,Vegan,Delayed,34,6/1/2022
+QR3556,Qatar Airways,Hamad International,Doha,Qatar,5:00 PM,Miami International,Miami,USA,24,Jen Headey,86,Female,C3,Euro,30,Vegetarian,Cancelled,28,4/5/2022
+QR5695,Qatar Airways,Hamad International,Doha,Qatar,1:27 PM,Chhatrapati Shivaji International,Mumbai,India,3,Evyn Sikorsky,76,Male,B2,Rupiah,19,Vegetarian,Cancelled,13,3/16/2022
+DL8564,Delta Air Lines,John F. Kennedy International,New York,USA,12:29 AM,Hartsfield-Jackson Atlanta,Atlanta,USA,24,Trace Reichartz,17,Male,B2,Dinar,45,Vegan,On time,11,7/10/2022
+AC1219,Air Canada,Toronto Pearson,Toronto,Canada,3:42 AM,Miami International,Miami,USA,4,Vale Sherlock,12,Male,C3,Peso,12,Vegan,Cancelled,46,5/22/2022
+WN8822,Southwest Airlines,Los Angeles International,Los Angeles,USA,12:02 PM,Miami International,Miami,USA,8,Giffard Wager,112,Male,C3,Yuan Renminbi,10,Gluten-free,Cancelled,32,3/20/2022
+UA5154,United Airlines,Los Angeles International,Los Angeles,USA,1:30 AM,Jorge Chávez International,Lima,Peru,7,Arv Hirtz,15,Male,C3,Kyat,31,Vegan,Delayed,45,12/18/2022
+AF6346,Air France,Charles de Gaulle,Paris,France,6:30 AM,Adolfo Suárez Madrid–Barajas,Madrid,Spain,10,Orson Chomiszewski,59,Male,A1,Koruna,19,Gluten-free,On time,21,4/17/2022
+SK7694,SAS Scandinavian,Copenhagen Airport,Copenhagen,Denmark,1:16 AM,Charles de Gaulle,Paris,France,17,Leese Ludlow,87,Bigender,B2,Yuan Renminbi,19,Gluten-free,Cancelled,39,8/19/2022
+KE8796,Korean Air,Incheon International,Seoul,South Korea,9:49 AM,Haneda,Tokyo,Japan,6,Lydia Melloy,120,Female,A1,Som,43,Gluten-free,Delayed,22,8/9/2022
+DL1375,Delta Air Lines,John F. Kennedy International,New York,USA,9:34 AM,Hartsfield-Jackson Atlanta,Atlanta,USA,11,Constantine Ludford,47,Male,C3,Peso,47,Vegetarian,Cancelled,1,10/1/2022
+LH5941,Lufthansa,Frankfurt Airport,Frankfurt,Germany,12:09 PM,Charles de Gaulle,Paris,France,12,Hanny Chatteris,40,Female,C3,Yuan Renminbi,45,Gluten-free,On time,49,4/14/2022
+AA9620,American Airlines,John F. Kennedy International,New York,USA,2:17 PM,Hartsfield-Jackson Atlanta,Atlanta,USA,21,Luther Messent,49,Male,C3,Real,29,Vegan,On time,9,7/9/2022
+AC5785,Air Canada,Toronto Pearson,Toronto,Canada,3:59 AM,John F. Kennedy International,New York,USA,4,Lambert Slyman,55,Genderqueer,C3,Rupiah,10,Vegan,Delayed,27,12/8/2022
+TG6062,Thai Airways,Suvarnabhumi,Bangkok,Thailand,5:05 AM,Dubai International,Dubai,UAE,20,Kenton Checkley,84,Male,B2,Kyat,42,Vegetarian,Cancelled,13,9/7/2022
+BA8274,British Airways,Heathrow,London,UK,1:12 PM,Charles de Gaulle,Paris,France,20,Markus Maynard,25,Polygender,C3,Yuan Renminbi,41,Gluten-free,Cancelled,5,5/26/2022
+IB6399,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,5:25 PM,Benito Juárez International,Mexico City,Mexico,12,Eugen Shepcutt,69,Male,B2,Koruna,0,Gluten-free,Cancelled,24,9/22/2022
+SQ9539,Singapore Airlines,Changi,Singapore,Singapore,9:32 AM,Beijing Capital International,Beijing,China,21,Estella Horsefield,6,Female,A1,Kwacha,48,Gluten-free,On time,43,12/9/2022
+NZ9821,Air New Zealand,Auckland Airport,Auckland,New Zealand,11:52 AM,Sydney Airport,Sydney,Australia,8,Evie Cund,81,Female,B2,Naira,41,Gluten-free,On time,37,2/25/2022
+TG6044,Thai Airways,Suvarnabhumi,Bangkok,Thailand,5:27 PM,Changi,Singapore,Singapore,18,Bartlett Asker,87,Male,A1,Real,27,Vegan,On time,7,8/6/2022
+AC5615,Air Canada,Toronto Pearson,Toronto,Canada,11:21 PM,John F. Kennedy International,New York,USA,10,Collete Brettell,47,Genderfluid,B2,Rupee,42,Vegetarian,Cancelled,13,9/28/2022
+TG9073,Thai Airways,Suvarnabhumi,Bangkok,Thailand,10:03 AM,Changi,Singapore,Singapore,12,Redd Jennick,53,Male,B2,Peso,30,Gluten-free,Delayed,36,9/22/2022
+BA4947,British Airways,Heathrow,London,UK,8:28 PM,Charles de Gaulle,Paris,France,12,Bard Tidbury,30,Male,C3,Euro,28,Vegetarian,Cancelled,7,1/26/2022
+BA2476,British Airways,Heathrow,London,UK,6:34 AM,Adolfo Suárez Madrid–Barajas,Madrid,Spain,17,Lynette Tabord,83,Female,A1,Marka,34,Gluten-free,Delayed,18,1/6/2022
+WN1265,Southwest Airlines,Los Angeles International,Los Angeles,USA,7:59 PM,Vancouver International,Vancouver,Canada,19,Granville Kivlin,10,Male,A1,Real,26,Vegan,Cancelled,34,8/18/2022
+DL4493,Delta Air Lines,John F. Kennedy International,New York,USA,7:51 PM,Vienna International,Vienna,Austria,13,Holmes Shugg,18,Male,B2,Yuan Renminbi,16,Vegan,Cancelled,32,10/28/2022
+NZ4633,Air New Zealand,Auckland Airport,Auckland,New Zealand,7:47 PM,Melbourne Airport,Melbourne,Australia,17,Ki Iorizzo,2,Female,B2,Krona,42,Vegan,Delayed,18,6/7/2022
+KL5305,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Netherlands,10:42 AM,Charles de Gaulle,Paris,France,11,Collen Nabarro,115,Female,C3,Pound,26,Vegan,On time,13,12/28/2022
+QR3146,Qatar Airways,Hamad International,Doha,Qatar,2:19 AM,Bole International,Addis Ababa,Ethiopia,11,Curtis Illwell,6,Male,C3,Yuan Renminbi,1,Vegetarian,Delayed,11,7/30/2022
+IB2418,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,2:25 AM,Charles de Gaulle,Paris,France,16,Cello Dibley,118,Male,C3,Sol,43,Vegan,Cancelled,24,12/11/2022
+AZ1132,Alitalia,Leonardo da Vinci International,Rome,Italy,12:27 PM,John F. Kennedy International,New York,USA,1,Marcellus McNellis,114,Bigender,C3,Euro,47,Gluten-free,Delayed,16,8/17/2022
+SQ4430,Singapore Airlines,Changi,Singapore,Singapore,10:58 AM,Chhatrapati Shivaji International,Mumbai,India,22,Meredeth Goad,21,Male,B2,Yuan Renminbi,24,Vegan,Cancelled,16,10/25/2022
+LA3137,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,1:11 AM,Ministro Pistarini International,Buenos Aires,Argentina,2,Inigo Hayes,70,Male,C3,Yuan Renminbi,26,Gluten-free,On time,32,1/6/2022
+KE6224,Korean Air,Incheon International,Seoul,South Korea,10:20 PM,Jomo Kenyatta International,Nairobi,Kenya,7,Dino Cocking,39,Male,B2,Real,47,Vegetarian,Cancelled,44,3/5/2022
+DL6351,Delta Air Lines,John F. Kennedy International,New York,USA,2:58 AM,Hartsfield-Jackson Atlanta,Atlanta,USA,18,Fianna Burnel,35,Female,B2,Balboa,35,Vegan,On time,17,10/9/2022
+KE2015,Korean Air,Incheon International,Seoul,South Korea,9:57 AM,Haneda,Tokyo,Japan,11,Britni Muslim,86,Female,B2,Dollar,26,Vegetarian,On time,12,10/22/2022
+NH1126,All Nippon Airways,Haneda,Tokyo,Japan,7:47 AM,Incheon International,Seoul,South Korea,4,Humfrey Woolgar,76,Male,B2,Guarani,26,Vegan,Delayed,30,7/23/2022
+WN7040,Southwest Airlines,Los Angeles International,Los Angeles,USA,10:36 PM,Arturo Merino Benítez International,Santiago,Chile,5,Leonard Attwell,59,Male,B2,Tenge,39,Vegetarian,Delayed,39,4/22/2022
+TG2245,Thai Airways,Suvarnabhumi,Bangkok,Thailand,3:57 PM,Jomo Kenyatta International,Nairobi,Kenya,2,Vyky Balchin,21,Female,C3,Krona,6,Vegan,Delayed,11,8/16/2022
+AM9126,Aeroméxico,Benito Juárez International,Mexico City,Mexico,12:44 AM,O'Hare International,Chicago,USA,16,Sanson Challender,38,Male,A1,Krona,34,Vegetarian,On time,22,7/9/2022
+EK7699,Emirates,Dubai International,Dubai,UAE,4:37 AM,Bole International,Addis Ababa,Ethiopia,10,Aristotle Cahani,73,Male,A1,Rupiah,15,Vegan,On time,38,11/10/2022
+SK1258,SAS Scandinavian,Copenhagen Airport,Copenhagen,Denmark,5:41 PM,Charles de Gaulle,Paris,France,23,Rafaello Lammerts,114,Male,A1,Real,15,Vegetarian,On time,31,6/20/2022
+NH6529,All Nippon Airways,Haneda,Tokyo,Japan,4:31 AM,Incheon International,Seoul,South Korea,2,Giuseppe Lamartine,34,Male,C3,Dollar,37,Vegan,Delayed,4,12/24/2022
+AA8700,American Airlines,John F. Kennedy International,New York,USA,11:06 PM,Hartsfield-Jackson Atlanta,Atlanta,USA,9,Sibley Studman,96,Female,A1,Euro,11,Vegan,Cancelled,5,5/26/2022
+SQ6788,Singapore Airlines,Changi,Singapore,Singapore,7:50 PM,Beijing Capital International,Beijing,China,19,Burnaby Thresher,42,Male,A1,Shilling,11,Gluten-free,Delayed,22,2/28/2022
+WN2849,Southwest Airlines,Los Angeles International,Los Angeles,USA,12:27 AM,O'Hare International,Chicago,USA,18,Rich Tolussi,27,Male,B2,Ruble,3,Gluten-free,On time,15,6/23/2022
+KL7090,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Netherlands,3:20 PM,Charles de Gaulle,Paris,France,6,Elana Giacobazzi,42,Female,B2,Euro,13,Gluten-free,Cancelled,9,9/17/2022
+ET3850,Ethiopian Airlines,Bole International,Addis Ababa,Ethiopia,7:47 AM,Hamad International,Doha,Qatar,1,Shanan Davidge,36,Male,A1,Euro,42,Vegan,Delayed,12,4/24/2022
+AM8076,Aeroméxico,Benito Juárez International,Mexico City,Mexico,11:47 PM,Denver International,Denver,USA,1,Madeline Virgo,33,Non-binary,B2,Baht,33,Gluten-free,On time,16,12/28/2022
+AA2610,American Airlines,John F. Kennedy International,New York,USA,3:41 PM,Hartsfield-Jackson Atlanta,Atlanta,USA,14,Biddie Haffenden,55,Female,C3,Euro,43,Vegetarian,Delayed,44,1/2/2022
+LH3192,Lufthansa,Frankfurt Airport,Frankfurt,Germany,3:29 AM,Charles de Gaulle,Paris,France,21,Torrie Divall,64,Female,C3,Real,39,Vegan,Delayed,7,11/18/2022
+IB2377,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,10:10 PM,Zurich Airport,Zurich,Switzerland,18,Pattie Hentzeler,43,Female,C3,Peso,37,Gluten-free,On time,12,9/2/2022
+QR7511,Qatar Airways,Hamad International,Doha,Qatar,3:53 AM,Bole International,Addis Ababa,Ethiopia,10,Lilah Ballston,23,Female,C3,Dollar,41,Gluten-free,On time,9,4/22/2022
+NZ9967,Air New Zealand,Auckland Airport,Auckland,New Zealand,3:25 AM,Sydney Airport,Sydney,Australia,2,Rodger Walter,22,Male,A1,Real,22,Vegetarian,On time,48,2/22/2022
+SK5790,SAS Scandinavian,Copenhagen Airport,Copenhagen,Denmark,4:38 AM,Charles de Gaulle,Paris,France,20,Deane Brabham,17,Male,C3,Baht,0,Gluten-free,Delayed,15,12/16/2022
+IB2849,Iberia,Adolfo Suárez Madrid–Barajas,Madrid,Spain,5:47 PM,Charles de Gaulle,Paris,France,8,Leoline Bury,96,Female,A1,Sol,11,Vegan,Cancelled,37,9/23/2022
+KL3740,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Netherlands,4:45 PM,Charles de Gaulle,Paris,France,9,Ricky Westhoff,70,Male,B2,Euro,42,Vegan,On time,18,10/16/2022
+DL7381,Delta Air Lines,John F. Kennedy International,New York,USA,1:09 PM,Hartsfield-Jackson Atlanta,Atlanta,USA,2,Oona Beachamp,74,Female,C3,Yuan Renminbi,22,Vegetarian,Delayed,5,11/11/2022
+TG2002,Thai Airways,Suvarnabhumi,Bangkok,Thailand,4:31 AM,Changi,Singapore,Singapore,16,Alexis Morrish,75,Female,A1,Yen,27,Gluten-free,Cancelled,16,3/18/2022
+LH2095,Lufthansa,Frankfurt Airport,Frankfurt,Germany,11:17 PM,Charles de Gaulle,Paris,France,6,Annadiana Jerrems,51,Female,C3,Yuan Renminbi,27,Vegan,On time,45,6/19/2022
+KE1926,Korean Air,Incheon International,Seoul,South Korea,3:23 PM,Haneda,Tokyo,Japan,13,Hugues Yerrell,87,Male,B2,Yuan Renminbi,32,Gluten-free,On time,41,2/2/2022
+UA6894,United Airlines,Los Angeles International,Los Angeles,USA,7:53 PM,San Francisco International,San Francisco,USA,21,Matteo Kiessel,24,Male,B2,Real,27,Vegan,Delayed,49,5/14/2022
+EK7982,Emirates,Dubai International,Dubai,UAE,11:29 PM,Hamad International,Doha,Qatar,23,Keefer Lawranson,57,Male,C3,Baht,0,Vegan,On time,42,8/8/2022
+CX8117,Cathay Pacific,Hong Kong International,Hong Kong,China,10:20 PM,Ministro Pistarini International,Buenos Aires,Argentina,17,Alicea Jackman,107,Polygender,A1,Ruble,37,Gluten-free,Cancelled,22,6/11/2022
+TG9054,Thai Airways,Suvarnabhumi,Bangkok,Thailand,5:27 AM,Changi,Singapore,Singapore,12,Morgun McQuirter,34,Male,C3,Baht,45,Gluten-free,Cancelled,18,8/19/2022
+KL1861,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Netherlands,6:42 PM,Charles de Gaulle,Paris,France,16,Lilith Chitty,9,Female,B2,Ruble,21,Vegan,Delayed,14,3/2/2022
+KE6079,Korean Air,Incheon International,Seoul,South Korea,6:41 PM,Haneda,Tokyo,Japan,10,Liva Rembaud,84,Female,B2,Yuan Renminbi,38,Vegetarian,On time,14,3/24/2022
+SQ8453,Singapore Airlines,Changi,Singapore,Singapore,7:09 AM,Brisbane Airport,Brisbane,Australia,23,Alison Goldby,71,Female,B2,Shilling,6,Vegan,On time,16,9/12/2022
+AF2649,Air France,Charles de Gaulle,Paris,France,9:20 AM,Frankfurt Airport,Frankfurt,Germany,11,Agna Skirrow,119,Female,C3,Real,37,Vegan,Delayed,40,1/31/2022
+KL5034,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Netherlands,4:59 AM,Auckland Airport,Auckland,New Zealand,1,Sibylla Livock,79,Female,B2,Krona,15,Gluten-free,On time,11,4/3/2022
+NH4207,All Nippon Airways,Haneda,Tokyo,Japan,10:33 AM,Incheon International,Seoul,South Korea,12,Marlo Moffat,3,Male,A1,Yuan Renminbi,44,Gluten-free,Delayed,2,6/2/2022
+AM5261,Aeroméxico,Benito Juárez International,Mexico City,Mexico,1:33 AM,O'Hare International,Chicago,USA,20,Yves Pennigar,76,Non-binary,A1,Litas,22,Vegetarian,Cancelled,43,2/25/2022
+KE7989,Korean Air,Incheon International,Seoul,South Korea,7:57 PM,Haneda,Tokyo,Japan,15,Danila Yusupov,96,Polygender,A1,Yen,32,Gluten-free,Delayed,37,12/7/2022
+ET6943,Ethiopian Airlines,Bole International,Addis Ababa,Ethiopia,8:55 PM,Miami International,Miami,USA,16,Madeline MacCombe,56,Female,A1,Peso,28,Vegetarian,Delayed,17,1/20/2022
+AI3145,Air India,Indira Gandhi International,Delhi,India,12:17 PM,Chhatrapati Shivaji International,Mumbai,India,3,Darcy Yandle,10,Female,C3,Euro,32,Vegan,Delayed,21,11/13/2022
+NZ6683,Air New Zealand,Auckland Airport,Auckland,New Zealand,5:39 AM,Sydney Airport,Sydney,Australia,17,Corinne Bowsher,85,Female,B2,Rupiah,47,Vegan,Cancelled,11,9/3/2022
+WN3779,Southwest Airlines,Los Angeles International,Los Angeles,USA,3:33 PM,Logan International,Boston,USA,5,Ange Khan,41,Male,B2,Afghani,32,Gluten-free,On time,30,3/13/2022
+SK2256,SAS Scandinavian,Copenhagen Airport,Copenhagen,Denmark,11:13 AM,Charles de Gaulle,Paris,France,15,Jasmina Rickert,101,Female,B2,Real,16,Gluten-free,Delayed,38,2/20/2022
+KL8123,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Netherlands,10:33 PM,Heathrow,London,UK,24,Rachel Spenclay,43,Female,A1,Franc,20,Vegan,Delayed,21,8/15/2022
+QR7179,Qatar Airways,Hamad International,Doha,Qatar,7:14 PM,Bole International,Addis Ababa,Ethiopia,17,Artie O'Shesnan,25,Agender,A1,Koruna,49,Gluten-free,On time,46,4/14/2022
+AC6089,Air Canada,Toronto Pearson,Toronto,Canada,7:08 PM,Logan International,Boston,USA,15,Becki Phlippi,21,Female,B2,Krona,23,Gluten-free,On time,1,3/24/2022
+KL9596,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Netherlands,3:11 PM,Charles de Gaulle,Paris,France,6,Kellen Cosh,71,Female,B2,Yuan Renminbi,43,Gluten-free,Delayed,5,12/27/2022
+TG8399,Thai Airways,Suvarnabhumi,Bangkok,Thailand,12:54 PM,Los Angeles International,Los Angeles,USA,21,Delmore Van T'Hoog,29,Polygender,B2,Rupiah,23,Vegetarian,Delayed,41,3/12/2022
+AM2018,Aeroméxico,Benito Juárez International,Mexico City,Mexico,10:44 PM,O'Hare International,Chicago,USA,3,Olivero Alten,29,Male,B2,Lempira,7,Gluten-free,On time,19,9/29/2022
+AM9674,Aeroméxico,Benito Juárez International,Mexico City,Mexico,11:45 AM,O'Hare International,Chicago,USA,8,Wallace Martensen,100,Genderfluid,A1,Pound,11,Vegetarian,Cancelled,37,7/17/2022
+NH4813,All Nippon Airways,Haneda,Tokyo,Japan,12:04 PM,Incheon International,Seoul,South Korea,2,Cointon Fittall,64,Male,B2,Krona,48,Vegan,On time,49,3/9/2022
+BA2345,British Airways,Heathrow,London,UK,2:53 AM,Charles de Gaulle,Paris,France,14,Reynold Etty,95,Male,A1,Peso,9,Vegetarian,On time,43,12/25/2022
+KL4943,KLM Royal Dutch Airlines,Amsterdam Airport Schiphol,Amsterdam,Netherlands,7:40 AM,Charles de Gaulle,Paris,France,4,Rodolfo Robard,72,Male,A1,Yuan Renminbi,15,Vegetarian,Cancelled,49,9/20/2022
+SK7279,SAS Scandinavian,Copenhagen Airport,Copenhagen,Denmark,7:16 AM,Zurich Airport,Zurich,Switzerland,11,Allayne Feare,62,Genderqueer,C3,Peso,25,Vegetarian,Cancelled,21,2/27/2022
+SA7154,South African Airways,O.R. Tambo International,Johannesburg,South Africa,8:16 AM,Charles de Gaulle,Paris,France,3,Howard Clashe,89,Male,B2,Rupiah,38,Gluten-free,Delayed,21,6/14/2022
+LA7200,LATAM Airlines,São Paulo/Guarulhos International,São Paulo,Brazil,9:38 AM,Ministro Pistarini International,Buenos Aires,Argentina,9,Jessa Moret,73,Female,B2,Zloty,27,Vegetarian,Cancelled,4,3/27/2022
+CX8226,Cathay Pacific,Hong Kong International,Hong Kong,China,4:50 AM,Incheon International,Seoul,South Korea,11,Rycca Eliot,94,Female,B2,Rial,30,Vegan,On time,28,8/1/2022
+UA3235,United Airlines,Los Angeles International,Los Angeles,USA,5:53 AM,San Francisco International,San Francisco,USA,10,Ange Waleran,1,Male,A1,Yuan Renminbi,1,Vegan,Delayed,1,8/11/2022
+QR7697,Qatar Airways,Hamad International,Doha,Qatar,2:39 AM,Bole International,Addis Ababa,Ethiopia,18,Charmain Revance,110,Female,A1,Pound,50,Gluten-free,Delayed,39,4/8/2022
+NZ4284,Air New Zealand,Auckland Airport,Auckland,New Zealand,1:05 AM,Beijing Capital International,Beijing,China,21,Kalinda Rubartelli,40,Female,C3,Yuan Renminbi,7,Gluten-free,On time,34,9/22/2022
+AF7295,Air France,Charles de Gaulle,Paris,France,12:21 PM,Suvarnabhumi,Bangkok,Thailand,1,Malory Sarney,110,Female,C3,Yuan Renminbi,0,Gluten-free,Cancelled,28,6/18/2022
+QR6930,Qatar Airways,Hamad International,Doha,Qatar,7:18 AM,Charles de Gaulle,Paris,France,24,Noll Titterton,76,Male,C3,Real,25,Gluten-free,Cancelled,26,10/16/2022
+DL8781,Delta Air Lines,John F. Kennedy International,New York,USA,3:19 AM,Hartsfield-Jackson Atlanta,Atlanta,USA,22,Franni Joney,82,Female,C3,Rial,49,Gluten-free,On time,35,3/6/2022
+SA7022,South African Airways,O.R. Tambo International,Johannesburg,South Africa,11:26 PM,Charles de Gaulle,Paris,France,18,Mikkel Moline,18,Male,A1,Krona,8,Gluten-free,Delayed,45,8/12/2022
+AV2754,Avianca,El Dorado International,Bogotá,Colombia,8:19 PM,O'Hare International,Chicago,USA,4,Ferguson O' Driscoll,42,Male,C3,Koruna,16,Vegan,Cancelled,38,9/7/2022
+ET6943,Ethiopian Airlines,Bole International,Addis Ababa,Ethiopia,11:02 AM,Miami International,Miami,USA,1,Niki Gidney,15,Female,B2,Shilling,21,Vegetarian,On time,29,9/29/2022
+NZ6109,Air New Zealand,Auckland Airport,Auckland,New Zealand,3:45 AM,Sydney Airport,Sydney,Australia,21,Rodrick Daelman,112,Male,C3,Franc,23,Vegetarian,Cancelled,27,9/14/2022
+NH3774,All Nippon Airways,Haneda,Tokyo,Japan,11:30 PM,Changi,Singapore,Singapore,11,Kerwin Grinyakin,63,Male,C3,Rial,19,Gluten-free,Cancelled,18,8/19/2022
