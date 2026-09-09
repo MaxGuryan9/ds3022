@@ -8,3 +8,6 @@
 4. Periodically check for changes in this repository and `fetch` and `merge` them into your repo via the `upstream`.
 
 [**Reference**](https://uvads.github.io/git-basics/docs/forks-branches/)
+
+- [**Data** | **Types** | **Schemas**](01_data/)
+- [**Queries** | **Columnar**](02_query/)

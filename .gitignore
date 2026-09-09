@@ -6,6 +6,10 @@ __pycache__/
 # pipenv things
 Pipfile*
 
+# DuckDB database files
+*.duckdb
+*.duckdb.wal
+
 # C extensions
 *.so
 

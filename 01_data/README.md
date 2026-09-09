@@ -18,6 +18,20 @@ An environment variable is a **key-value pair** stored outside your program's co
 - **`SIS.csv`** — Sample Student Information System dataset of 1,000 student records (student ID, name, age, email, major, enrollment/graduation dates, GPA, advisor, course load, campus location, housing status, student status, financial aid).
 - **`INSTA.json`** — Sample Instagram-style dataset of 1,000 posts (post ID, username, caption, image URL, likes, comments, post date, hashtags, location, tagged users, engagement rate, video duration, story info, sponsored flag, post type, story type).
 
+## Data Frames
+
+The Python `pandas`, `numpy` and `polars` packages can import tabular (i.e. "csv" data)
+as a series of columns and rows, much like a single table in a relational database.
+This means you can sort, query, and filter a dataframe just as you could a SQL table.
+
+For examples, see:
+
+- [Dataframe examples](dataframes.py)
+- [N-dimensional array example](n-dimensions.py)
+
 ## Install DuckDB
+
+To improve upon managing tabular data with `pandas` and `polars`, we use DuckDB,
+a light, fast, in-memory, in-process columnar database management tool.
 
 Visit the [**DuckDB Installation**](https://duckdb.org/install/) page and install the CLI version to your laptop. In later exercises we will also use the DuckDB Python package.
