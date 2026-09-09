@@ -1,13 +1,15 @@
 # DS3022 Data Engineering
 
-## Fall 2026
+## Fall 2026 Course Repository
 
 1. Fork this repository into your own account.
 2. Clone it locally to your laptop/computer.
 3. Set an `upstream` remote in your local repository.
 4. Periodically check for changes in this repository and `fetch` and `merge` them into your repo via the `upstream`.
 
-[**Reference**](https://uvads.github.io/git-basics/docs/forks-branches/)
+[**Git/GitHub Reference**](https://uvads.github.io/git-basics/docs/forks-branches/)
+
+## Topics
 
 - [**Data** | **Types** | **Schemas**](01_data/)
 - [**Queries** | **Columnar**](02_query/)
