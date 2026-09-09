@@ -1,5 +1,7 @@
 # Week 2: Querying Data — Parquet vs. CSV
 
+Setup: [**Install DuckDB**](https://github.com/uvasds-systems/ds3022/tree/main/01_data#install-duckdb).
+
 When working with large datasets, the file format you choose has a big impact on speed, storage size, and how easy the data is to query. This week we compare two common formats: **CSV** and **Parquet**.
 
 ## CSV (Comma-Separated Values)
