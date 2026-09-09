@@ -38,3 +38,8 @@ A binary, **columnar** format built for analytics workloads (used heavily in too
 
 - Use **CSV** for small datasets, quick sharing, or interoperability with non-technical tools.
 - Use **Parquet** for larger datasets and any real analytical querying — it's faster, smaller, and preserves types.
+
+## Samples
+
+    https://s3.amazonaws.com/uvasds-systems/data/customers-2M.csv
+    https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2026-01.parquet
