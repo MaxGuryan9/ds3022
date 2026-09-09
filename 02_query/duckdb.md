@@ -37,7 +37,8 @@ SUMMARIZE customers;
 Earliest and latest subscription dates:
 
 ```sql
-SELECT MIN("Subscription Date") AS earliest, MAX("Subscription Date") AS latest
+SELECT MIN("Subscription Date") AS earliest, 
+  MAX("Subscription Date") AS latest
 FROM customers;
 ```
 
@@ -64,7 +65,8 @@ LIMIT 10;
 Subscriptions per year (distribution over time):
 
 ```sql
-SELECT date_part('year', "Subscription Date") AS year, COUNT(*) AS total
+SELECT date_part('year', "Subscription Date") AS year, 
+  COUNT(*) AS total
 FROM customers
 GROUP BY year
 ORDER BY year;
@@ -73,7 +75,8 @@ ORDER BY year;
 Sanity check for nulls/blanks in an important column:
 
 ```sql
-SELECT COUNT(*) FILTER (WHERE Email IS NULL OR Email = '') AS missing_email
+SELECT COUNT(*) FILTER (WHERE Email IS NULL OR Email = '') 
+  AS missing_email
 FROM customers;
 ```
 
