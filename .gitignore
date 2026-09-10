@@ -9,6 +9,7 @@ Pipfile*
 # DuckDB database files
 *.duckdb
 *.duckdb.wal
+*.db
 
 # C extensions
 *.so
