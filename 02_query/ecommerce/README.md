@@ -110,14 +110,14 @@ Add a new vendor:
 
 ```sql
 INSERT INTO vendors (vendor_id, vendor_name, country, rating, active)
-VALUES (16, 'Practice Vendor Co', 'USA', 4.5, true);
+VALUES (99, 'Practice Vendor Co', 'USA', 4.5, true);
 ```
 
 Add a product from that vendor:
 
 ```sql
 INSERT INTO products (product_id, vendor_id, product_name, category, price, in_stock)
-VALUES (101, 16, 'Practice Widget', 'Electronics', 24.99, true);
+VALUES (101, 99, 'Practice Widget', 'Electronics', 24.99, true);
 ```
 
 Add a new customer:
@@ -131,10 +131,10 @@ Now place an order for that customer and product:
 
 ```sql
 INSERT INTO orders (order_id, customer_id, product_id, vendor_id, quantity, order_date, status)
-VALUES (101, 101, 101, 16, 1, current_date, 'pending');
+VALUES (101, 101, 101, 99, 1, current_date, 'pending');
 ```
 
-Notice that `vendor_id` in the `orders` row (16) matches the
+Notice that `vendor_id` in the `orders` row (99) matches the
 `vendor_id` on the `products` row for `product_id = 101`. Nothing in
 the schema forces that to be true — it's on you (or your application
 code) to keep it consistent.
@@ -162,7 +162,7 @@ Give the practice vendor a better rating:
 ```sql
 UPDATE vendors
 SET rating = 4.8
-WHERE vendor_id = 16;
+WHERE vendor_id = 99;
 ```
 
 Always include a `WHERE` clause on an `UPDATE` — without one, DuckDB
