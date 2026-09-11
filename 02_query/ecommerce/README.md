@@ -269,7 +269,83 @@ full picture across many orders at once.
 
 ---
 
-## 7. Practice on your own
+## 7. Data Cleaning
+
+Real-world tables are rarely as clean as this dummy data. A data
+engineer often needs to fix bad values, drop rows that shouldn't be
+there, or reshape a column — and do it safely, without risking the
+original table if something goes wrong.
+
+**Delete rows that don't belong.** Say some `products` rows snuck in
+with a bogus price of `0` (a common sign of a bad import):
+
+```sql
+DELETE FROM products WHERE price <= 0;
+```
+
+**Transform an entire column based on a condition.** Say every
+`customers` row from `'CA'` should actually read `'California'`
+(mixing abbreviations and full names is a classic data-quality bug):
+
+```sql
+UPDATE customers
+SET state = 'California'
+WHERE state = 'CA';
+```
+
+Or normalize a whole column at once — trim stray whitespace and force
+consistent casing on every category name:
+
+```sql
+UPDATE products
+SET category = UPPER(TRIM(category));
+```
+
+**The safer pattern: `SELECT ... INTO` a new table first.** Rather
+than transforming a table in place, engineers often build the cleaned
+version into a brand-new table, check it, and only then swap it in.
+That way the original data still exists if the transformation was
+wrong.
+
+Build a cleaned copy of `products` (rounding every price to two
+decimal places and dropping anything with a null category) into a new
+table:
+
+```sql
+CREATE TABLE products_clean AS
+SELECT
+    product_id,
+    vendor_id,
+    product_name,
+    category,
+    ROUND(price, 2) AS price,
+    in_stock
+FROM products
+WHERE category IS NOT NULL;
+```
+
+Compare the two tables before committing to the change:
+
+```sql
+SELECT count(*) FROM products;
+SELECT count(*) FROM products_clean;
+```
+
+Once you're satisfied `products_clean` looks right, drop the original
+and rename the clean table to take its place:
+
+```sql
+DROP TABLE products;
+ALTER TABLE products_clean RENAME TO products;
+```
+
+`products` is now the cleaned table, and you never ran a destructive
+`UPDATE`/`DELETE` directly against the original data until you'd
+already verified the replacement.
+
+---
+
+## 8. Practice on your own
 
 A few ideas to try, using what you just learned:
 
