@@ -10,19 +10,38 @@ you did by hand in `02_query`. Each cleaning step becomes a named
 
 ## 1. Install dbt
 
-This repo uses `pipenv`. From the repo root, add the DuckDB adapter
-(it pulls in `dbt-core` automatically):
+Pick whichever environment manager you're using — both install the
+same DuckDB adapter (`dbt-duckdb`), which pulls in `dbt-core`
+automatically.
+
+**Option A: `pipenv`**
+
+From the repo root:
 
 ```bash
 pipenv install dbt-duckdb
 pipenv shell
 ```
 
+**Option B: `uv`**
+
+From the repo root:
+
+```bash
+uv add dbt-duckdb
+uv sync
+```
+
+Run dbt commands with `uv run dbt ...`, or activate the environment
+first with `source .venv/bin/activate`.
+
 Confirm it installed:
 
 ```bash
 dbt --version
 ```
+
+(or `uv run dbt --version` if you didn't activate the `uv` venv)
 
 ---
 
