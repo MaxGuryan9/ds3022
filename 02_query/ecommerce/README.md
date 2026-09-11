@@ -1,5 +1,7 @@
 # Practice: CRUD with a mini e-commerce database
 
+> Shared In-Class SQL Queries: https://pad.riseup.net/p/CYj9RDBVhvGablNmraZH-keep
+
 This folder has one file, `ecommerce_practice.sql`, that builds a tiny,
 oversimplified e-commerce database in DuckDB:
 
