@@ -1,0 +1,5 @@
+version: 2
+
+models:
+  - name: stg_yellow_tripdata
+    description: Cleaned, typed staging view over raw yellow taxi parquet.

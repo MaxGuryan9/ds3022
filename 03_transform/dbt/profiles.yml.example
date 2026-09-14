@@ -1,0 +1,13 @@
+# Normally this file lives at ~/.dbt/profiles.yml, not inside the project.
+# Included here for reference — copy it there and rename (drop .example).
+
+nyc_taxi_dbt:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: nyc_taxi.duckdb
+      threads: 4
+      extensions:
+        - httpfs
+        - parquet
