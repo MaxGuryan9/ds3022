@@ -5,28 +5,7 @@
 # cmd: ["python", "02_sdk_concepts/01_introduction.py"]
 # tags: [sdk, overview]
 # ---
-
-# ## Why the Prefect SDK?
-# Everyone writes Python scripts. Prefect keeps them alive in production.
-# A single decorator wraps your functions with:
-# • Automatic retries for transient failures
-# • Instant logging (no logger setup required)
-# • On-success and on-failure callbacks for smart alerts
-# • Async & task concurrency with built-in runners
-# • Transaction-like state management and checkpointing
-# • A rich API & UI for monitoring and scheduling
-#
 # In short, if you can code it in python, you can wrap it with Prefect.
-
-# ## Getting started in seconds
-#
-# 1️⃣ Install Prefect with the lightning-fast **uv** package manager:
-#
-# ```
-# uv pip install prefect
-# ```
-#
-# 2️⃣ Decorate your functions and run:
 
 from prefect import flow, task
 
@@ -43,6 +22,7 @@ def my_first_flow():
 
 if __name__ == "__main__":
     my_first_flow()
+
 
 # That's all it takes! No YAML, no config files, just pure Python fueled by Prefect.
 

@@ -5,9 +5,9 @@ import time
 
 @task(log_prints=True)
 def print_and_sleep(value: int):
-  # Subtask: wait a random 5-12 seconds so output is staggered,
+  # Subtask: wait a random 5-15 seconds so output is staggered,
   # then print the value it was handed and sleep 5 seconds
-  delay = random.uniform(5, 12)
+  delay = random.uniform(5, 15)
   time.sleep(delay)
   print(f"Value: {value} (delayed {delay:.1f}s)")
   time.sleep(5)
