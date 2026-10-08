@@ -13,7 +13,7 @@ def print_and_sleep(value: int):
 @task(log_prints=True)
 def range_task(start: int = 1, end: int = 20):
    futures = print_and_sleep.map(range(start, end+1))
-   results = futures.result
+   results = futures.result()
    print(f"Completed {len(results)} subtasks")
    return results
 
@@ -22,5 +22,5 @@ def fan_out_flow():
     range_task()
 
 if __name__ == "__main__":
-  fan_out_flow
+  fan_out_flow()
 
