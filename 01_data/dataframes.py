@@ -4,8 +4,8 @@ import polars as pl
 url = "https://s3.amazonaws.com/uvasds-systems/data/FLIGHT_LOGS.csv"
 
 # pandas
-df_pd = pd.read_csv(url)
-print(df_pd.head())
+# df_pd = pd.read_csv(url)
+# print(df_pd.head())
 
 # polars
 df_pl = pl.read_csv(url)
