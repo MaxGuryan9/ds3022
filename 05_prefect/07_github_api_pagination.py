@@ -46,6 +46,17 @@ PAGES = 10
 # local duckdb file, created if missing
 conn = duckdb.connect("actions.duckdb")  
 
+def flatten(c):
+    """Pull the useful fields out of one nested commit dict into a flat dict."""
+    return {
+        "sha":         c["sha"],
+        "author_name": c["commit"]["author"]["name"],
+        "commit_date": c["commit"]["author"]["date"],
+        "message":     c["commit"]["message"].splitlines()[0],  # first line only
+        "gh_login":    (c.get("author") or {}).get("login"),    # None-safe
+        "url":         c["html_url"],
+    }
+
 @task(name="ingest", log_prints=True, retries=3, retry_delay_seconds=5)
 def ingest_data():
     # work with claude to fetch 100 records for each page
@@ -84,7 +95,7 @@ def ingest_data():
         params = None                # next URL already has per_page & page
         page += 1
 
-    return all_commits
+    return [flatten(c) for c in all_commits]   # list of 1000 flat dicts
 
 
 # name the flow something you can identify as yourself
