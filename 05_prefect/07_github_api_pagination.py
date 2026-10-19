@@ -19,6 +19,7 @@ to cycle through a series of related links to build up all 1000 records.
 """
 
 import json
+import logging
 import os
 from datetime import datetime, timezone
 from pathlib import Path
@@ -36,6 +37,13 @@ URL = "https://api.github.com/repos/git/git/commits"
 PER_PAGE = 100
 PAGES = 10
 
+# write log lines to 07_github_api_pagination.log, next to this script
+logging.basicConfig(
+    filename=Path(__file__).with_suffix(".log"),
+    level=logging.INFO,
+    format="%(asctime)s %(levelname)s %(message)s",
+)
+log = logging.getLogger(__name__)
 
 # ------ only one task ------
 # create a single prefect task that loops through 10 pages
@@ -85,8 +93,12 @@ def ingest_data():
 
     # keep going while GitHub gives us a next link AND we're under the page cap
     while url and page <= PAGES:
-        response = httpx.get(url, headers=HEADERS, params=params)
-        response.raise_for_status()
+        try:
+            response = httpx.get(url, headers=HEADERS, params=params)
+            response.raise_for_status()
+        except httpx.HTTPError as e:
+            log.error(f"page {page} failed: {e}")
+            raise                    # re-raise so Prefect's retries=3 kicks in
         commits = response.json()
         all_commits.extend(commits)  # add this page's 100 to the running list
         print(f"page {page}: {len(commits)} commits (total {len(all_commits)})")
@@ -95,7 +107,28 @@ def ingest_data():
         params = None                # next URL already has per_page & page
         page += 1
 
-    return [flatten(c) for c in all_commits]   # list of 1000 flat dicts
+    rows = [flatten(c) for c in all_commits]
+
+    try:
+        # CREATE OR REPLACE = rerunning gives 1000 rows, not 2000, 3000...
+        conn.execute("""
+            CREATE OR REPLACE TABLE commits (
+                sha         VARCHAR PRIMARY KEY,
+                author_name VARCHAR,
+                commit_date TIMESTAMPTZ,
+                message     VARCHAR,
+                gh_login    VARCHAR,
+                url         VARCHAR
+            )""")
+        # one ? per column; each row dict -> tuple in the same column order
+        conn.executemany("INSERT INTO commits VALUES (?, ?, ?, ?, ?, ?)",
+                         [tuple(r.values()) for r in rows])
+        log.info(f"inserted {len(rows)} rows into commits")
+    except duckdb.Error as e:
+        log.error(f"duckdb insert failed: {e}")
+        raise
+
+    return len(rows)
 
 
 # name the flow something you can identify as yourself
