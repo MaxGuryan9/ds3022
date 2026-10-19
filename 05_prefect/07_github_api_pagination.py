@@ -67,13 +67,24 @@ def ingest_data():
     # if you need to see a working example of this, see this file in this repo
     # 04_apis/05_pagination.py
 
-    # just a placeholder for now. remove the print below this is built out
-    response = httpx.get(URL, headers=HEADERS, params={"per_page" : PER_PAGE})
-    response.raise_for_status()
-    commits = response.json()
-    
-    print(f"page 1: {len(commits)} commits")
-    print(response.links.get("next"))
+    url = URL                        # start at the base endpoint
+    params = {"per_page": PER_PAGE}  # only needed on the first request
+    page = 1
+    all_commits = []                 # collects commits from every page
+
+    # keep going while GitHub gives us a next link AND we're under the page cap
+    while url and page <= PAGES:
+        response = httpx.get(url, headers=HEADERS, params=params)
+        response.raise_for_status()
+        commits = response.json()
+        all_commits.extend(commits)  # add this page's 100 to the running list
+        print(f"page {page}: {len(commits)} commits (total {len(all_commits)})")
+
+        url = response.links.get("next", {}).get("url")  # None on the last page
+        params = None                # next URL already has per_page & page
+        page += 1
+
+    return all_commits
 
 
 # name the flow something you can identify as yourself
