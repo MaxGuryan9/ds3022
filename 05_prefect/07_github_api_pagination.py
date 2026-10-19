@@ -37,13 +37,13 @@ URL = "https://api.github.com/repos/git/git/commits"
 PER_PAGE = 100
 PAGES = 10
 
-# write log lines to 07_github_api_pagination.log, next to this script
-logging.basicConfig(
-    filename=Path(__file__).with_suffix(".log"),
-    level=logging.INFO,
-    format="%(asctime)s %(levelname)s %(message)s",
-)
-log = logging.getLogger(__name__)
+# Prefect already puts a handler on the root logger, which makes
+# logging.basicConfig() a silent no-op, so attach a file handler directly
+log = logging.getLogger("github_pagination")
+log.setLevel(logging.INFO)
+handler = logging.FileHandler(Path(__file__).with_suffix(".log"))
+handler.setFormatter(logging.Formatter("%(asctime)s %(levelname)s %(message)s"))
+log.addHandler(handler)
 
 # ------ only one task ------
 # create a single prefect task that loops through 10 pages
