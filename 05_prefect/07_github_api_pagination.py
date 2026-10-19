@@ -68,13 +68,21 @@ def ingest_data():
     # 04_apis/05_pagination.py
 
     # just a placeholder for now. remove the print below this is built out
-    print("something")
+    response = httpx.get(URL, headers=HEADERS, params={"per_page" : PER_PAGE})
+    response.raise_for_status()
+    commits = response.json()
+    
+    print(f"page 1: {len(commits)} commits")
+    print(response.links.get("next"))
 
 
 # name the flow something you can identify as yourself
-@flow(name="nem2p-flow")
+@flow(name="rhk2dx-flow")
 def main_flow():
     ingest_data()
 
 # it doesn't seem this flow executes when you run it. Why?
 # fix it ;^)
+
+if __name__ == "__main__":
+    main_flow()
