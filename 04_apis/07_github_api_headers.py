@@ -31,8 +31,8 @@ URL = f"https://api.github.com/repos/{REPO}/commits"
 # make a single one-page request and print every response header
 if __name__ == "__main__":
   try:
-    # r = httpx.get(URL, headers=HEADERS, params={"per_page": 1})
-    r = httpx.get(URL, params={"per_page": 1})
+    r = httpx.get(URL, headers=HEADERS, params={"per_page": 1})
+    # r = httpx.get(URL, params={"per_page": 1})
     r.raise_for_status()
     for key, value in r.headers.items():
       print(f"{key}: {value}")
