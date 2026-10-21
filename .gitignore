@@ -17,6 +17,7 @@ __pycache__/
 # data in general
 05_prefect/nyc_taxi_data/
 05_prefect/github_data
+gharchive_counts.json
 
 # Generated plots/images from pipeline runs (plot scripts stay tracked)
 03_transform/dbt/plots/*.png
