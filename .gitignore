@@ -251,3 +251,6 @@ __marimo__/
 
 # GH Archive hourly files downloaded by 04_apis/gharchive/00-basic-events.py
 04_apis/gharchive/data/
+
+# Quix Streams local state directory
+state/
