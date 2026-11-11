@@ -15,7 +15,7 @@ TOPIC = "orders-by-customer"
 NUM_PARTITIONS = 3
 # quixstreams uses the murmur2 partitioner (Java-compatible); these keys split 2/2/2 across 3 partitions
 KEYS = ["alice", "bob", "carol", "dave", "erin", "frank"]
-NUM_MESSAGES = 900
+NUM_MESSAGES = 90
 
 
 def ensure_topic():
