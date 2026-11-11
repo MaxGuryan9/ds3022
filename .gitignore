@@ -20,6 +20,8 @@ __pycache__/
 05_prefect/github_data
 gharchive_counts.json
 jetstream_cursor.txt
+jet_stream_cursor.txt
+jet_stream_cursor.txt.tmp
 
 # Generated plots/images from pipeline runs (plot scripts stay tracked)
 03_transform/dbt/plots/*.png

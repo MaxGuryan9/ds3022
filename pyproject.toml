@@ -9,6 +9,7 @@ dependencies = [
     "dbt-duckdb>=1.11.0",
     "duckdb>=1.5.5",
     "httpx>=0.28.1",
+    "httpx2>=2.16.0",
     "numpy>=2.5.3",
     "pandas>=3.0.6",
     "polars>=1.44.2",
@@ -20,4 +21,5 @@ dependencies = [
     "streamlit>=1.66.1",
     "sympy>=1.14.0",
     "tornado>=6.6",
+    "websocket-client>=1.9.2",
 ]
