@@ -27,6 +27,7 @@ httpx2 = "*"
 asyncio = "*"
 websocket-client = "*"
 requests_sse = "*"
+orjson = "*"
 
 [dev-packages]
 
